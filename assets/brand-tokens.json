@@ -1,0 +1,23 @@
+{
+  "name": "Hirebrew / Handoff",
+  "status": "Working identity direction. Trademark clearance pending.",
+  "color": {
+    "chalk": {"value": "#F7F5EF", "role": "Primary canvas and reverse text"},
+    "ink": {"value": "#172326", "role": "Primary text and dark surfaces"},
+    "coral": {"value": "#FF6B4A", "role": "Primary action and human momentum; pair with ink text"},
+    "periwinkle": {"value": "#BACBFA", "role": "Supporting intelligence and connection surfaces; pair with ink text"},
+    "stone": {"value": "#E9E6DF", "role": "Neutral surface and gentle separation"},
+    "textSecondary": {"value": "#53605E", "role": "Secondary text on chalk or stone"},
+    "border": {"value": "#B5BAB4", "role": "Control borders; not text"}
+  },
+  "typography": {
+    "display": {"family": "Bricolage Grotesque", "weight": 600, "letterSpacing": "-0.045em", "lineHeight": 1.03},
+    "body": {"family": "DM Sans", "weight": 400, "lineHeight": 1.6},
+    "label": {"family": "DM Sans", "weight": 600, "lineHeight": 1.3}
+  },
+  "radius": {"control": "999px", "panel": "16px", "small": "8px"},
+  "spacing": {"unit": "4px", "scale": [4, 8, 12, 16, 24, 32, 48, 64, 96, 128]},
+  "motion": {"microMs": 180, "revealMs": 420, "easing": "cubic-bezier(0.2, 0.8, 0.2, 1)", "reducedMotion": "Disable nonessential motion and smooth scrolling"},
+  "logo": {"clearSpace": "At least one quarter of the visible symbol height on every side; measure from the artwork, not the SVG canvas", "markMinPx": 24, "incidentalDemoMarkPx": 22, "lockupMinPx": 120, "faviconMinPx": 16, "faviconVariant": "Dedicated monochrome asset", "symbolViewBox": "0 0 120 120", "wordmark": "Bold outlined Bricolage Grotesque with optical spacing, under the SIL Open Font Licence; not a custom typeface"},
+  "accessibility": {"bodyContrast": "4.5:1 minimum", "largeTypeContrast": "3:1 minimum", "interactiveTargetPx": 44, "focus": "Visible 3px ink outline, with a chalk separation ring on dark or coral surfaces"}
+}

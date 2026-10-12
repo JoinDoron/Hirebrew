@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Enterprise
+
+WORKFLOW TO EVALUATE
+From enterprise ambition to a testable pilot.
+Bring HR, IT, legal and finance into discovery together. A convincing demonstration is useful; an agreed evaluation plan makes it actionable.
+
+HANDOFFS
+Map | Business sponsor + HR
+Choose a meaningful handoff
+Select a hiring or onboarding journey in one business unit. Name the accountable sponsor and the operational people who will judge whether it works.
+
+Validate | IT + legal + security
+Turn requirements into evidence
+Document identity, record visibility, data location, retention and incident expectations. Define what evidence must exist before real employee information can be introduced.
+
+Pilot | Delivery team + managers
+Walk the complete journey
+Test candidate communication, interviewer participation and manager onboarding responsibilities. Include exception paths, missing approvals and the employee's view of the process.
+
+Decide | Steering group
+Make expansion an explicit decision
+Review adoption, unresolved risks and integration work against the agreed criteria. Approve the next stage only when owners and responsibilities remain clear.
+
+PILOT SCOPE
+One business unit. Explicit acceptance criteria.
+For multi-country African operations, record entity, location and policy differences in the evaluation brief. Separate common process requirements from market-specific decisions.
+
+VALIDATION CHECKLIST
+[ ] Access and data handling have named reviewers
+[ ] System ownership and integration scope are agreed
+[ ] Expansion and rollback criteria are written down
+
+BOUNDARIES
+The preview is not evidence of certified controls or production readiness. Identity, permissions, security and operational assurance require deployment-specific verification.
+
+AI EVALUATION
+Evaluate Brew's illustrative drafts and summaries alongside permitted-data rules, source verification and human accountability. Decide which workflows merit AI assistance before selecting a live provider.
+Example prompt: Prepare a hiring-panel briefing from approved role criteria, highlighting missing feedback for a recruiter to review.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

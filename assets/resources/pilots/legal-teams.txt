@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Legal teams
+
+WORKFLOW TO EVALUATE
+Review the journey, not just the policy document.
+Use a sample candidate-to-employee journey to identify the points at which policy, privacy or employment questions become operational requirements.
+
+HANDOFFS
+Map | Legal + HR
+Identify what information enters the process
+List candidate and employee fields, the purpose for collecting them and the teams that request access. Keep unnecessary personal information out of evaluation datasets.
+
+Assign | Policy owners
+Name the approval responsibilities
+Review letters, requests and case touchpoints. Define who owns templates, reviews sensitive changes and can authorise a final communication in the intended deployment.
+
+Test | IT + privacy reviewers
+Ask for evidence of controls
+Turn access, retention, deletion and audit requirements into deployment tests. A visible interface or stated policy is not sufficient evidence that a control is enforced.
+
+Decide | Business + legal sponsors
+Set conditions for live use
+Record unresolved questions, permitted pilot data and any required approvals. Revisit the assessment when a new market, provider or AI workflow changes the proposed use.
+
+PILOT SCOPE
+Start with sample data and an evidence checklist.
+For operations in Nigeria and other African markets, identify applicable privacy and employment requirements with qualified local advisers rather than assuming one policy covers every entity.
+
+VALIDATION CHECKLIST
+[ ] Data purposes and responsible owners are documented
+[ ] Retention, deletion and access tests are defined
+[ ] Human review is explicit for sensitive decisions
+
+BOUNDARIES
+These workflows are not legal advice or a claim of NDPA, NDPR or other regulatory compliance. Controls require implementation and verification.
+
+AI EVALUATION
+Brew examples are illustrative drafts and summaries. Define permitted inputs, review responsibilities and prohibited uses before considering a live provider or processing personal information.
+Example prompt: Draft a plain-language checklist for reviewing an onboarding communication against our approved internal policies.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

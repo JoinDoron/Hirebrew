@@ -1,0 +1,322 @@
+[
+  {
+    "slug": "manufacturing",
+    "legacyId": "industry-manufacturing",
+    "category": "industry",
+    "name": "Manufacturing",
+    "metaTitle": "HR for Manufacturing | Hirebrew",
+    "metaDescription": "Explore manufacturing HR with Hirebrew: site hiring, structured interviews, onboarding ownership and employee support across plants and offices.",
+    "headline": "Keep people moving. Across every site.",
+    "subhead": "Connect plant managers, central HR and employees through clearer hiring, onboarding and everyday people support.",
+    "summary": "Connect site hiring, local onboarding and employee support across your operation.",
+    "challengeTitle": "Production has a plan. People handoffs need one too.",
+    "challenge": "A replacement request starts at a plant. Approval happens at head office. Interviews involve a technical supervisor, while a different team prepares the new starter. When each handoff lives in its own conversation, nobody sees the whole journey. Hirebrew brings these people workflows into one product direction, with named responsibilities from requisition to the first manager check-in.",
+    "priorities": [
+      {"title": "Make site demand visible", "body": "Capture the role, location and hiring rationale before recruitment begins. Give site leaders and HR a shared starting point for discussing vacancies instead of reconciling separate lists at the end of the week."},
+      {"title": "Keep technical hiring structured", "body": "Bring supervisors into interview panels and use scorecards to record role-relevant evidence. Keep candidate questions in the hiring conversation so practical details do not disappear between central recruitment and the site."},
+      {"title": "Carry ownership past the offer", "body": "Assign onboarding tasks to the people who can complete them. Follow the welcome with employee requests, learning conversations and manager check-ins, connecting plant and office employees to the same people-service approach."}
+    ],
+    "workflowTitle": "From a site vacancy to a supported starter.",
+    "workflowIntro": "A proposed pilot for one plant and one job family. Use sample records to test where central and local responsibilities meet.",
+    "steps": [
+      {"label": "Request", "owner": "Plant manager", "title": "Describe the vacancy", "body": "Raise a requisition with the location and role requirements. Route the request through the agreed approval path before HR opens the candidate pipeline."},
+      {"label": "Select", "owner": "HR + supervisor", "title": "Compare the evidence", "body": "Coordinate candidate stages, panel participation and structured feedback. Use two-way messaging to resolve candidate questions before the next step."},
+      {"label": "Prepare", "owner": "Site onboarding owner", "title": "Assign the first-week tasks", "body": "Make the welcome, introductions and local onboarding responsibilities visible. Keep specialist safety sign-off with the qualified team and its established system."},
+      {"label": "Support", "owner": "Manager + employee", "title": "Keep the conversation going", "body": "Explore leave, letters and employee requests alongside development goals. Use early check-ins to identify where a new colleague still needs support."}
+    ],
+    "capabilities": [
+      {"name": "Requisition approvals", "body": "Give each site's hiring need a clear starting point and decision owner.", "href": "index.html#platform"},
+      {"name": "Panels and scorecards", "body": "Bring role-specific interview evidence into a shared hiring discussion.", "href": "index.html#tour"},
+      {"name": "Onboarding tasks", "body": "Coordinate the people responsible for the first week and early check-ins.", "href": "index.html#platform"},
+      {"name": "Workforce views", "body": "Explore the headcount and department context needed for planning conversations.", "href": "index.html#platform"}
+    ],
+    "ai": {"title": "A clearer first-week brief.", "body": "Brew AI concepts can help draft a role-specific onboarding outline from approved requirements. A site leader reviews the language, responsibilities and omissions. The website demonstrates illustrative drafting, not live safety guidance or automated decisions.", "example": "Draft a first-week welcome plan for a maintenance technician. Include manager introductions and learning discussions. Leave safety authorisation to the site's approved process."},
+    "pilot": {"title": "Start with one plant, not your whole operation.", "body": "Walk through a sample vacancy with a supervisor, recruiter and employee representative. Agree what successful ownership looks like before expanding to other sites.", "checks": ["Test frontline access and mobile usability on the devices people actually use.", "Confirm who owns every central-to-site onboarding handoff.", "Compare the sample workflow with existing attendance and safety processes."], "boundary": "This preview does not provide shift rostering, time-and-attendance, safety certification or payroll execution. Production access controls and integrations require validation."},
+    "faqs": [
+      {"q": "Can we use different onboarding tasks by site?", "a": "Location-specific responsibilities are a useful pilot scenario for Hirebrew's task-based onboarding. Test the setup with your actual operating model before making a multi-site rollout commitment."},
+      {"q": "Does Hirebrew replace our plant systems?", "a": "No. The focus is hiring and employee coordination. Production planning, clocking, shift scheduling and safety systems remain specialist tools; any required connection must be scoped separately."},
+      {"q": "What should a Nigerian manufacturing pilot include?", "a": "Include both frontline and office participants, realistic connectivity conditions and the languages used for employee support. Validate those access needs rather than assuming a desktop-first process will suit every site."}
+    ],
+    "related": ["construction", "hr-teams", "enterprise"]
+  },
+  {
+    "slug": "retail",
+    "legacyId": "industry-retail",
+    "category": "industry",
+    "name": "Retail",
+    "metaTitle": "HR for Retail Teams | Hirebrew",
+    "metaDescription": "Explore retail HR with Hirebrew: coordinate store hiring, manager interviews, first-week onboarding and employee requests across locations.",
+    "headline": "One people experience. Every store.",
+    "subhead": "Give store managers a clearer hiring path and employees a more consistent welcome, wherever they join.",
+    "summary": "Bring store hiring, first-week ownership and everyday employee requests together.",
+    "challengeTitle": "Your brand should feel familiar behind the counter too.",
+    "challenge": "A new branch, a busy trading period or a departing colleague can turn a store vacancy into an urgent request. Central HR needs visibility, managers need a practical process and candidates need answers. Hirebrew connects those conversations so a promising candidate does not become an unclear handoff when the offer is accepted.",
+    "priorities": [
+      {"title": "Give store hiring a shared path", "body": "Start with a requisition and carry the role into a visible candidate pipeline. Local managers can contribute interview evidence while HR keeps the overall process moving across the store group."},
+      {"title": "Make the welcome repeatable", "body": "Turn the first week into owned tasks, from introductions to role expectations. A consistent structure gives each manager a useful starting point while leaving space for the realities of their location."},
+      {"title": "Bring support closer to employees", "body": "Explore employee requests, letters and leave in a dedicated people experience. Give routine needs a clear place to start, so store managers are not the only bridge between employees and head office."}
+    ],
+    "workflowTitle": "From a branch vacancy to the first check-in.",
+    "workflowIntro": "Test the handoffs around a store associate role with central HR, a branch manager and a sample candidate.",
+    "steps": [
+      {"label": "Approve", "owner": "Branch manager + HR", "title": "Agree the hiring need", "body": "Document the vacancy and agree the role requirements before recruiting. Use the requisition approval flow to make the next decision visible."},
+      {"label": "Interview", "owner": "Recruiter + store manager", "title": "Bring local context to selection", "body": "Invite the manager into the interview process and capture structured feedback. Keep candidate questions and replies connected to the hiring journey."},
+      {"label": "Welcome", "owner": "Store onboarding owner", "title": "Prepare a consistent first week", "body": "Assign introductions, role orientation and manager check-ins. Make ownership clear before the new colleague arrives at the branch."},
+      {"label": "Develop", "owner": "Employee + manager", "title": "Build beyond the first day", "body": "Use goals, learning conversations and employee requests to support the next stage. Review what the new starter needs before repeating the process at another store."}
+    ],
+    "capabilities": [
+      {"name": "Local hiring, central visibility", "body": "Explore requisitions and candidate stages across the hiring handoff.", "href": "index.html#platform"},
+      {"name": "Candidate conversations", "body": "Let applicants ask questions and respond within the demonstrated two-way flow.", "href": "index.html#tour"},
+      {"name": "A first-week task plan", "body": "Give each welcome activity a responsible person and a visible next step.", "href": "index.html#platform"},
+      {"name": "Employee self-service", "body": "Explore leave, letters and requests beyond head-office employees.", "href": "index.html#tour"}
+    ],
+    "ai": {"title": "Help every manager start with a useful draft.", "body": "An illustrative Brew AI draft can turn approved role expectations into a welcome checklist or first check-in outline. Managers review it for store context and practical language. It does not make staffing or performance decisions.", "example": "Draft a first check-in guide for a new store associate. Ask about role clarity, support and learning needs, without assuming sales results or attendance data."},
+    "pilot": {"title": "Prove the experience with one store group.", "body": "Choose locations with different staffing and access patterns. Walk through hiring and employee support before deciding what should become standard across the network.", "checks": ["Test candidate and employee journeys on everyday mobile devices.", "Agree which decisions stay local and which need central HR.", "Review a first-week task plan with the managers who will use it."], "boundary": "Shift planning, POS connections, attendance tracking and payroll execution are not included in this preview. Test connectivity and production permissions before rollout."},
+    "faqs": [
+      {"q": "Can this support a growing store network?", "a": "Hirebrew's requisitions, employee records and manager workflows provide a useful starting point. A pilot should validate your location model, approval paths and access rules before extending the process."},
+      {"q": "Will it build staff rotas or connect to our POS?", "a": "Those are outside the demonstrated feature set. Keep existing specialist tools and document any required integrations as separate rollout work, rather than treating them as ready-made connections."},
+      {"q": "How should we evaluate frontline access?", "a": "Test with store employees, not just head office. Include shared-device policies, mobile data costs and realistic connectivity conditions for your locations in Nigeria and other markets."}
+    ],
+    "related": ["mid-market", "hr-teams", "manufacturing"]
+  },
+  {
+    "slug": "healthcare",
+    "legacyId": "industry-healthcare",
+    "category": "industry",
+    "name": "Healthcare",
+    "metaTitle": "HR for Healthcare Organisations | Hirebrew",
+    "metaDescription": "Explore healthcare workforce coordination with Hirebrew: role-based recruitment, onboarding tasks and employee support, separate from clinical systems.",
+    "headline": "Care for the people behind care.",
+    "subhead": "Bring clearer ownership to recruitment, onboarding and employee support across your healthcare organisation.",
+    "summary": "Coordinate workforce handoffs while keeping clinical responsibilities with specialist teams.",
+    "challengeTitle": "An appointment letter is only one part of readiness.",
+    "challenge": "Recruiting a colleague can involve HR, a department lead, interviewers and an onboarding owner before the person ever joins a team. Those responsibilities need to meet without confusing administrative progress with clinical approval. Hirebrew focuses on the people journey: clear hiring stages, structured conversations and tasks whose owners know what comes next.",
+    "priorities": [
+      {"title": "Give each role an intentional process", "body": "Use requisitions and structured interview feedback to distinguish what matters for each vacancy. Bring the appropriate departmental voices into selection without relying on a single recruiter to remember every decision."},
+      {"title": "Separate tasks from specialist sign-off", "body": "Coordinate introductions, employee documentation tasks and early check-ins. Keep professional credential checks and authorisation decisions with qualified owners and established specialist systems, rather than treating a checked task as clinical clearance."},
+      {"title": "Support employees beyond joining day", "body": "Explore leave, letters, employee requests and development conversations for clinical and non-clinical teams. Give people-service requests an identifiable route while keeping patient information outside the workforce workflow."}
+    ],
+    "workflowTitle": "A considered handoff into a department.",
+    "workflowIntro": "A sample administrative role is a useful first pilot. It tests the people process without requiring sensitive clinical or patient data.",
+    "steps": [
+      {"label": "Define", "owner": "Department lead + HR", "title": "Agree the role and approval", "body": "Set out the vacancy and role expectations. Confirm the people responsible for approving the requisition before candidates enter the pipeline."},
+      {"label": "Assess", "owner": "Interview panel", "title": "Record relevant evidence", "body": "Coordinate the panel and capture structured scorecards. Keep candidate communication two-way so unanswered practical questions are visible before an offer."},
+      {"label": "Prepare", "owner": "Onboarding coordinator", "title": "Name the handoff owners", "body": "Assign introductory and administrative tasks. Record who must coordinate with specialist verification teams without suggesting that Hirebrew performs their checks."},
+      {"label": "Follow through", "owner": "Manager + employee", "title": "Make early support deliberate", "body": "Use check-ins and development goals to discuss role clarity and learning needs. Explore a sample employee request to test the ongoing support route."}
+    ],
+    "capabilities": [
+      {"name": "Role-based recruitment", "body": "Explore a requisition-to-interview process shaped around the department's needs.", "href": "index.html#platform"},
+      {"name": "Panel participation", "body": "Bring interviewers into a structured feedback conversation.", "href": "index.html#tour"},
+      {"name": "Onboarding ownership", "body": "Give administrative welcome tasks a responsible person and a next step.", "href": "index.html#platform"},
+      {"name": "A governance review", "body": "Identify privacy, access and evidence requirements before a production decision.", "href": "enterprise.html#governance"}
+    ],
+    "ai": {"title": "Draft the welcome. Keep judgement human.", "body": "Brew AI's illustrative drafting can help organise an administrative onboarding outline using approved role information. A responsible manager reviews every suggestion. Do not include patient details, medical information or professional verification records in the website demo.", "example": "Draft a welcome checklist for a hospital administration assistant. Include introductions and an early manager check-in. Exclude patient data, clinical guidance and credential decisions."},
+    "pilot": {"title": "Begin with a low-risk workforce scenario.", "body": "Bring HR, a departmental representative and your privacy owner into a sample-data walkthrough. Agree the boundary between people administration and specialist clinical responsibilities.", "checks": ["Use fictional workforce records and no patient information.", "Map professional checks to the qualified teams and systems that own them.", "Review access, data handling and production requirements before any live-data trial."], "boundary": "The preview does not provide patient records, clinical rostering, credential verification or health-information compliance certification. Production security and integrations require validation."},
+    "faqs": [
+      {"q": "Is Hirebrew a clinical or patient management system?", "a": "No. It is a people-workflow product. Patient records, clinical care and medical decision-making belong in the specialist systems and processes your organisation has approved."},
+      {"q": "Does it verify professional credentials?", "a": "Credential verification is outside the demonstrated scope. A pilot can clarify who owns related onboarding responsibilities, but it must not treat task completion as proof of professional authorisation."},
+      {"q": "Can we start with support functions?", "a": "Yes. HR, administration and other non-clinical roles offer a practical evaluation starting point. Use sample data and test the department-to-HR handoffs before considering a broader workforce rollout."}
+    ],
+    "related": ["hr-teams", "legal-teams", "enterprise"]
+  },
+  {
+    "slug": "construction",
+    "legacyId": "industry-construction",
+    "category": "industry",
+    "name": "Construction",
+    "metaTitle": "HR for Construction Teams | Hirebrew",
+    "metaDescription": "Explore construction HR with Hirebrew: project hiring approvals, supervisor interviews, site onboarding ownership and employee support.",
+    "headline": "Build stronger teams before work begins.",
+    "subhead": "Connect project leaders, site managers and HR from the first hiring request to a new colleague's early check-ins.",
+    "summary": "Coordinate project hiring and site onboarding without losing ownership between teams.",
+    "challengeTitle": "Every new project creates a people handoff.",
+    "challenge": "The project team knows the role it needs. HR runs the search. A site manager makes time for interviews, and another colleague prepares the welcome. Across changing locations and project phases, that chain can become a series of follow-ups. Hirebrew gives you a place to explore a more deliberate path from a vacancy to an employee who knows their manager and next steps.",
+    "priorities": [
+      {"title": "Make the hiring rationale clear", "body": "Frame each requisition around the role and project need before recruitment starts. Keep the approval conversation connected to the vacancy so HR and operational leaders work from the same brief."},
+      {"title": "Bring site expertise into interviews", "body": "Invite the people who understand the work to contribute structured scorecards. Keep practical candidate questions visible through two-way communication instead of leaving HR to relay every answer manually."},
+      {"title": "Name the owner of each arrival task", "body": "Use onboarding tasks for introductions, role expectations and early manager contact. Make the administrative handoff explicit while leaving site access, safety clearance and specialist competency approval in their established processes."}
+    ],
+    "workflowTitle": "From project need to an owned welcome.",
+    "workflowIntro": "Walk through a sample quantity surveyor vacancy with HR and one project team before considering a wider site rollout.",
+    "steps": [
+      {"label": "Scope", "owner": "Project lead", "title": "Set out the vacancy", "body": "Describe the role and request the required approval. Align the hiring brief with the project team's needs before moving into candidate selection."},
+      {"label": "Select", "owner": "HR + technical interviewer", "title": "Compare relevant experience", "body": "Coordinate candidate stages and interview participation. Use scorecards to capture evidence, then answer candidate questions through the demonstrated messaging flow."},
+      {"label": "Welcome", "owner": "Site manager", "title": "Coordinate the people handoff", "body": "Assign introductions, administrative welcome tasks and first-week conversations. Keep mandatory site approvals with the competent teams who own them."},
+      {"label": "Review", "owner": "Manager + employee", "title": "Check the first weeks", "body": "Use goals and check-ins to clarify expectations and learning needs. Explore requests and letters as part of the employee's ongoing support experience."}
+    ],
+    "capabilities": [
+      {"name": "Requisition approvals", "body": "Start recruitment with an agreed role, decision route and hiring context.", "href": "index.html#platform"},
+      {"name": "Technical interview panels", "body": "Include project expertise in a structured selection conversation.", "href": "index.html#tour"},
+      {"name": "Early-stage onboarding", "body": "Give first-week responsibilities and manager handoffs a visible home.", "href": "index.html#platform"},
+      {"name": "Employee requests and goals", "body": "Explore people support and development beyond the initial site arrival.", "href": "index.html#platform"}
+    ],
+    "ai": {"title": "A practical starting point for project onboarding.", "body": "Illustrative Brew AI drafts can organise approved role requirements into a manager check-in outline. The project leader reviews the context and removes assumptions. It is not a source of engineering guidance, safety procedures or autonomous staffing decisions.", "example": "Draft an early check-in agenda for a newly hired quantity surveyor. Cover role expectations, introductions and support needs. Do not invent project milestones or safety approvals."},
+    "pilot": {"title": "Start with one project team.", "body": "Use a sample professional or support role to trace the full hiring handoff. Include a site participant so the evaluation reflects working conditions outside head office.", "checks": ["Agree the approval route between project leadership and central HR.", "Test mobile access and realistic connectivity at the selected location.", "Identify where safety, contractor and site-access processes remain separate."], "boundary": "Site safety certification, contractor compliance, timesheets, labour rostering and project cost accounting are outside this preview. Live integrations and production permissions require validation."},
+    "faqs": [
+      {"q": "Does Hirebrew manage construction projects?", "a": "No. The focus is the employee journey around a project: recruitment, onboarding, requests and development. Programme planning, quantities, procurement and project accounting remain in specialist tools."},
+      {"q": "Can we use it for mandatory site clearance?", "a": "Do not treat the preview as a site-clearance system. Qualified owners must retain safety and competency decisions in approved processes. Hirebrew can be evaluated for the surrounding administrative handoffs."},
+      {"q": "How can a multi-site contractor evaluate it?", "a": "Choose one project and one role family, involve both site and head-office participants, and test the actual access conditions. Establish responsibilities and production requirements before extending the workflow."}
+    ],
+    "related": ["manufacturing", "hr-teams", "enterprise"]
+  },
+  {
+    "slug": "education",
+    "legacyId": "industry-education",
+    "category": "industry",
+    "name": "Education",
+    "metaTitle": "HR for Education Teams | Hirebrew",
+    "metaDescription": "Explore education HR with Hirebrew: coordinate faculty and staff recruitment, interview panels, term preparation and employee development.",
+    "headline": "Give your people room to teach.",
+    "subhead": "Bring faculty and staff hiring, onboarding and development into a clearer people journey before the next term begins.",
+    "summary": "Connect school and campus leaders with HR around their workforce needs.",
+    "challengeTitle": "A new term needs more than filled vacancies.",
+    "challenge": "A department may be recruiting a teacher while administration prepares a support role and leadership reviews headcount. The work crosses academic and operational teams, often against a fixed calendar. Hirebrew helps you explore a shared process for those handoffs, so interview decisions, candidate questions and the first-week welcome stay connected instead of restarting with every new colleague.",
+    "priorities": [
+      {"title": "Bring academic context into selection", "body": "Use requisitions to clarify the role, then involve departmental interviewers and structured scorecards. Capture evidence against agreed expectations rather than relying on informal impressions from separate conversations."},
+      {"title": "Prepare an intentional start", "body": "Assign introductions, staff orientation tasks and early manager check-ins before a colleague joins. Give departmental and central teams visible responsibilities while keeping safeguarding and credential processes with their qualified owners."},
+      {"title": "Make development a continuing conversation", "body": "Explore goals, feedback, learning and manager check-ins for teaching and non-teaching staff. Connect development discussions to role expectations, with people accountable for the review rather than an automated rating."}
+    ],
+    "workflowTitle": "From a department vacancy to the new term.",
+    "workflowIntro": "Test one teaching or administrative role with an HR owner, department lead and sample candidate.",
+    "steps": [
+      {"label": "Agree", "owner": "Department lead + HR", "title": "Define the role", "body": "Capture the hiring need and approval path. Agree what the interview panel should assess before inviting candidates into the process."},
+      {"label": "Interview", "owner": "Selection panel", "title": "Build a shared view of evidence", "body": "Coordinate panel participation and structured feedback. Let the candidate ask questions and receive replies through the demonstrated conversation flow."},
+      {"label": "Orient", "owner": "Department onboarding owner", "title": "Make the welcome usable", "body": "Assign introductions, role orientation and a first-week check-in. Keep specialist checks separate and confirm their responsible owners in your wider process."},
+      {"label": "Develop", "owner": "Employee + manager", "title": "Plan the early conversation", "body": "Explore goals, learning needs and 30/60/90-day check-ins. Give new staff a route for requests while discussing the support they need to settle in."}
+    ],
+    "capabilities": [
+      {"name": "Department-led requisitions", "body": "Connect a hiring need with a visible approval and recruitment process.", "href": "index.html#platform"},
+      {"name": "Structured interview feedback", "body": "Bring academic and operational perspectives into the selection discussion.", "href": "index.html#tour"},
+      {"name": "Onboarding task ownership", "body": "Coordinate the people responsible for welcoming a new member of staff.", "href": "index.html#platform"},
+      {"name": "Goals and learning", "body": "Explore a continuing development conversation after the first term begins.", "href": "index.html#platform"}
+    ],
+    "ai": {"title": "Give managers a thoughtful first draft.", "body": "Brew AI concepts can help draft onboarding and check-in outlines from approved role expectations. A department lead reviews the result for context and suitability. The website's illustrative drafts do not assess teaching quality or make hiring decisions.", "example": "Draft a 30-day check-in agenda for a new teacher. Focus on role clarity, collaboration and development support. Do not include student data or infer classroom performance."},
+    "pilot": {"title": "Use one department as your starting point.", "body": "Choose a sample role and walk through its journey with the people responsible for recruitment and staff support. Plan around your institution's actual calendar, devices and access conditions.", "checks": ["Align the hiring and onboarding owners before the next intake of staff.", "Separate workforce information from student and safeguarding records.", "Test a development conversation with both teaching and support staff."], "boundary": "Student information, timetabling, safeguarding checks and professional credential verification are outside this preview. Production data controls and required integrations must be validated."},
+    "faqs": [
+      {"q": "Is this a school management or student system?", "a": "No. Hirebrew focuses on the workforce: applicants, staff and their managers. Student records, admissions, attendance and learning delivery remain in the systems your institution uses for those purposes."},
+      {"q": "Can it support both faculty and administrative teams?", "a": "Those are useful pilot scenarios for the same hiring and people-workflow foundations. Tailor the interview criteria, onboarding owners and development conversations to each role before broadening the evaluation."},
+      {"q": "Does it perform safeguarding or qualification checks?", "a": "No. Those checks require your approved specialist processes and responsible professionals. An onboarding task can describe a responsibility but is not evidence that a verification service has completed it."}
+    ],
+    "related": ["hr-teams", "nonprofit", "mid-market"]
+  },
+  {
+    "slug": "finance",
+    "legacyId": "industry-finance",
+    "category": "industry",
+    "name": "Finance",
+    "metaTitle": "HR for Financial Services | Hirebrew",
+    "metaDescription": "Explore people workflows for financial services with Hirebrew: structured hiring, clear onboarding responsibilities and a considered governance evaluation.",
+    "headline": "Build trust into the people handoff.",
+    "subhead": "Connect hiring decisions, onboarding responsibilities and employee support across branches, specialist teams and head office.",
+    "summary": "Give financial-services teams a clearer people process and an evidence-led pilot.",
+    "challengeTitle": "A people decision should not lose its context.",
+    "challenge": "Financial-services hiring often brings together a business leader, HR, specialist interviewers and control functions. Each participant needs to understand the role and their responsibility without assuming another team has completed a check. Hirebrew offers a way to explore those people handoffs in one journey, while leaving regulated decisions and specialist controls with your approved systems and owners.",
+    "priorities": [
+      {"title": "Give approvals a clear starting point", "body": "Use requisitions to connect the business need with a hiring decision. Bring role requirements into the candidate pipeline so interviewers are assessing the same brief rather than a series of forwarded summaries."},
+      {"title": "Keep the evidence in the conversation", "body": "Coordinate interview panels and structured scorecards across specialist teams. Use candidate messaging to resolve questions, while keeping human reviewers accountable for the decision and any required additional checks."},
+      {"title": "Evaluate governance before expansion", "body": "Treat production identity, record permissions, data handling and integration requirements as explicit buying criteria. A convincing demonstration should lead to a documented validation plan, not an assumption that regulated deployment is already approved."}
+    ],
+    "workflowTitle": "A considered route into a specialist team.",
+    "workflowIntro": "Use a sample operations analyst role to evaluate hiring, onboarding and the points where control functions need to participate.",
+    "steps": [
+      {"label": "Request", "owner": "Business lead", "title": "Establish the hiring context", "body": "Describe the vacancy, role expectations and approval path. Give HR a shared brief before candidates enter the recruitment process."},
+      {"label": "Evaluate", "owner": "HR + specialist panel", "title": "Capture structured feedback", "body": "Coordinate interviews and compare scorecards. Keep candidate replies visible and distinguish interview evidence from background or regulated checks handled elsewhere."},
+      {"label": "Coordinate", "owner": "Onboarding owner", "title": "Assign the welcome tasks", "body": "Make administrative onboarding and manager introductions explicit. Keep access approvals and specialist authorisations with the teams and systems responsible for them."},
+      {"label": "Support", "owner": "Employee + manager", "title": "Maintain a people-service route", "body": "Explore employee requests, letters and early development goals. Review the journey with your governance stakeholders before introducing live employee data."}
+    ],
+    "capabilities": [
+      {"name": "Hiring approval workflows", "body": "Explore how business needs move into a structured recruitment process.", "href": "index.html#platform"},
+      {"name": "Interview scorecards", "body": "Keep human review grounded in role-relevant evidence from the panel.", "href": "index.html#tour"},
+      {"name": "Onboarding responsibilities", "body": "Give administrative handoffs named owners without implying automatic authorisation.", "href": "index.html#platform"},
+      {"name": "Enterprise evaluation guidance", "body": "Document the security, identity and integration evidence your buyer team needs.", "href": "enterprise.html#governance"}
+    ],
+    "ai": {"title": "Assist the preparation, not the decision.", "body": "Illustrative Brew AI drafts can organise approved role requirements into an interview guide or onboarding outline. Review the output for accuracy, relevance and bias. The website does not demonstrate live AI, automated suitability decisions or regulatory advice.", "example": "Draft a structured interview guide for an operations analyst using the approved role requirements. Include evidence-based prompts, not a candidate ranking or suitability recommendation."},
+    "pilot": {"title": "Start with an evidence-led buyer review.", "body": "Bring HR, business operations, IT and governance stakeholders into a sample-data walkthrough. Record requirements that must be satisfied before any production decision.", "checks": ["Map role and record-level access requirements for every participant.", "Identify data, identity and audit evidence needed for your own assessment.", "Document specialist checks and integrations that remain outside the preview."], "boundary": "No financial-sector compliance certification, KYC, background verification, live payroll or production SSO/MFA is claimed. Security and integration readiness require independent validation."},
+    "faqs": [
+      {"q": "Is Hirebrew certified for our regulated environment?", "a": "No such certification is claimed by this preview. Use the enterprise evaluation material to define the evidence and controls your organisation needs, then validate them before considering production use."},
+      {"q": "Does it perform KYC or employee background checks?", "a": "No. Those specialist checks remain with your approved services and responsible teams. Any future integration needs its own scope, implementation and verification."},
+      {"q": "Can we evaluate branch and head-office workflows?", "a": "Yes, using sample roles and records. Include the relevant hiring managers and control functions, and test the approval and onboarding handoffs rather than assuming every location follows the same process."}
+    ],
+    "related": ["finance-teams", "legal-teams", "enterprise"]
+  },
+  {
+    "slug": "nonprofit",
+    "legacyId": "industry-nonprofit",
+    "category": "industry",
+    "name": "Nonprofit",
+    "metaTitle": "HR for Nonprofit Organisations | Hirebrew",
+    "metaDescription": "Explore nonprofit HR with Hirebrew: connect programme hiring, structured interviews, staff onboarding and development across office and field teams.",
+    "headline": "Support the people behind your mission.",
+    "subhead": "Give programme leaders and HR a clearer way to hire, welcome and support the people doing the work.",
+    "summary": "Connect programme hiring and staff support across office and field teams.",
+    "challengeTitle": "Your mission needs ownership, not more chasing.",
+    "challenge": "A programme vacancy can cross a country office, a functional lead and central HR before recruitment begins. Once a colleague joins, another set of people owns introductions and support. Hirebrew helps you explore a connected staff journey, making those responsibilities visible without turning a people platform into a donor, grant or beneficiary management system.",
+    "priorities": [
+      {"title": "Make programme hiring intentional", "body": "Capture the role and hiring rationale through a requisition. Bring programme and functional perspectives into structured interviews, with candidate questions handled through a two-way conversation rather than an unanswered email chain."},
+      {"title": "Give distributed staff a clear welcome", "body": "Assign introductions, role orientation and early manager check-ins. A shared task structure helps country, field and central teams see where their responsibilities begin without pretending every operating context is the same."},
+      {"title": "Keep development close to the work", "body": "Explore goals, learning and feedback alongside everyday employee requests. Give staff and managers a place to discuss the support needed for their role, while keeping beneficiary information outside the people workflow."}
+    ],
+    "workflowTitle": "From programme vacancy to supported colleague.",
+    "workflowIntro": "Use a sample programme officer role to test the handoff between operational leadership, HR and a distributed manager.",
+    "steps": [
+      {"label": "Align", "owner": "Programme lead + HR", "title": "Agree the staffing need", "body": "Document the role and the approval route. Keep grant eligibility and budget authorisation in the organisation's approved processes while clarifying the recruitment brief."},
+      {"label": "Select", "owner": "Programme interview panel", "title": "Bring the right perspectives together", "body": "Coordinate interviews and role-relevant scorecards. Use candidate messaging to make practical questions and answers part of the hiring journey."},
+      {"label": "Welcome", "owner": "Manager + onboarding owner", "title": "Prepare the first conversations", "body": "Assign introductions and early check-ins across locations. Keep safeguarding, travel and field authorisations with their designated specialist owners."},
+      {"label": "Develop", "owner": "Employee + manager", "title": "Plan continuing support", "body": "Explore goals, development needs and employee requests. Discuss what the colleague needs to work effectively before expanding the approach to another programme."}
+    ],
+    "capabilities": [
+      {"name": "Requisition-to-candidate workflow", "body": "Connect a programme's hiring need with a structured selection process.", "href": "index.html#platform"},
+      {"name": "Two-way candidate messaging", "body": "Make space for applicants to respond and ask practical questions.", "href": "index.html#tour"},
+      {"name": "Owned onboarding tasks", "body": "Coordinate the people responsible for a distributed colleague's welcome.", "href": "index.html#platform"},
+      {"name": "Learning and manager check-ins", "body": "Explore a continuing conversation about role expectations and development.", "href": "index.html#platform"}
+    ],
+    "ai": {"title": "Spend the first draft on clarity.", "body": "Brew AI concepts can help turn approved role information into a welcome outline or check-in agenda. A programme owner reviews the context, language and assumptions. Use fictional staff information in the illustrative demo and exclude beneficiary or safeguarding records.", "example": "Draft a 30-day check-in agenda for a programme officer joining a distributed team. Cover collaboration and learning support without assuming programme outcomes or funding commitments."},
+    "pilot": {"title": "Choose one programme and a manageable scope.", "body": "Include a field-facing participant as well as central HR. Walk through a sample role and define the access, ownership and data requirements needed for a responsible next step.", "checks": ["Test devices and connectivity used by distributed staff.", "Separate employee administration from donor, beneficiary and safeguarding records.", "Agree how programme and central teams share onboarding responsibilities."], "boundary": "Donor and grant management, beneficiary records, volunteer management and safeguarding verification are outside this preview. Do not assume offline access, live integrations or production compliance."},
+    "faqs": [
+      {"q": "Is Hirebrew a donor or grant management tool?", "a": "No. The focus is staff recruitment and the employee journey. Keep donor relationships, grant accounting and programme reporting in specialist systems; any integration must be separately scoped and validated."},
+      {"q": "Can field teams participate?", "a": "Include them in the evaluation, using sample data and realistic devices. Test connectivity, support language and access needs carefully. Offline operation is not a demonstrated capability."},
+      {"q": "Does it cover volunteers and safeguarding checks?", "a": "Dedicated volunteer management and safeguarding verification are not demonstrated. Start with an employee workflow, retain approved specialist processes and document other requirements before expanding the scope."}
+    ],
+    "related": ["education", "hr-teams", "mid-market"]
+  },
+  {
+    "slug": "technology",
+    "legacyId": "industry-technology",
+    "category": "industry",
+    "name": "Technology",
+    "metaTitle": "HR for Technology Companies | Hirebrew",
+    "metaDescription": "Explore technology-company HR with Hirebrew: structured technical hiring, candidate conversations, cross-team onboarding and employee growth.",
+    "headline": "Keep your people journey shipping forward.",
+    "subhead": "Connect technical hiring, cross-team onboarding and employee growth as your product organisation takes shape.",
+    "summary": "Bring hiring, onboarding and development together for product-led technology teams.",
+    "challengeTitle": "A great candidate experience needs a strong handoff.",
+    "challenge": "A hiring manager opens a role, engineers join interviews and HR handles the candidate conversation. Once someone accepts, onboarding crosses management, people operations and IT. Hirebrew helps you explore that whole journey so the care you put into hiring carries into the first weeks and the employee's development, instead of disappearing between tools and teams.",
+    "priorities": [
+      {"title": "Keep technical selection structured", "body": "Agree the role before hiring, involve the right interviewers and record role-relevant scorecards. Give candidates a two-way communication route while keeping the panel accountable for evidence and the final decision."},
+      {"title": "Make onboarding a team responsibility", "body": "Assign introductions, first-week tasks and early manager check-ins. Clarify the handoff to IT and other owners without pretending a people task automatically provisions accounts or grants production access."},
+      {"title": "Connect growth to regular conversations", "body": "Explore goals, feedback, learning and development needs as teams evolve. Give managers a repeatable structure while leaving room for the differences between engineering, product, design and commercial roles."}
+    ],
+    "workflowTitle": "From an approved role to a confident start.",
+    "workflowIntro": "A proposed pilot around one product team. Use sample records to connect its hiring manager, interview panel, HR and onboarding owners.",
+    "steps": [
+      {"label": "Define", "owner": "Hiring manager", "title": "Agree what the team needs", "body": "Raise a requisition and clarify role expectations. Establish the approval path and evidence the interview panel should look for."},
+      {"label": "Interview", "owner": "Recruiter + technical panel", "title": "Make the decision discussable", "body": "Coordinate panel participation, candidate stages and structured feedback. Keep candidate questions connected to the process rather than leaving them in a separate thread."},
+      {"label": "Onboard", "owner": "Manager + people team", "title": "Join up the first weeks", "body": "Assign introductions, learning tasks and 30/60/90-day check-ins. Keep account provisioning and specialist access approvals in the systems that own them."},
+      {"label": "Grow", "owner": "Employee + manager", "title": "Turn expectations into conversations", "body": "Explore goals, feedback and learning needs. Use the early check-ins to discuss context and support, not to replace professional judgement with an automated score."}
+    ],
+    "capabilities": [
+      {"name": "Candidate pipeline and messaging", "body": "Keep the hiring journey visible and give candidates a way to reply.", "href": "index.html#tour"},
+      {"name": "Structured interview panels", "body": "Bring technical and cross-functional perspectives into shared scorecards.", "href": "index.html#platform"},
+      {"name": "30/60/90-day onboarding", "body": "Explore a deliberate transition from new starter to supported team member.", "href": "index.html#platform"},
+      {"name": "Goals, feedback and learning", "body": "Connect development discussions with the employee's role and manager.", "href": "index.html#platform"}
+    ],
+    "ai": {"title": "Useful drafting, with the manager in control.", "body": "Brew AI's illustrative drafts can help structure an interview guide, onboarding outline or check-in agenda using approved role information. A person reviews the result. The website does not run live model inference or automatically rank applicants.", "example": "Draft an onboarding outline for a product engineer. Include introductions, learning goals and manager check-ins. Do not invent access rights, delivery deadlines or performance expectations."},
+    "pilot": {"title": "Pilot with one cross-functional team.", "body": "Choose a real hiring pattern but use sample people data. Evaluate the handoff end to end before discussing broader adoption, identity requirements or integration work.", "checks": ["Run a candidate conversation and panel feedback walkthrough.", "Map every onboarding owner, including the handoff to IT.", "Document identity, access and integration requirements for production evaluation."], "boundary": "Automated account provisioning, production SSO/MFA, live AI and connected external integrations are not claimed in the preview. Global employment and payroll execution remain outside scope."},
+    "faqs": [
+      {"q": "How is this different from the IT industry page?", "a": "This page focuses on companies building technology products and their cross-functional people journey. The IT page addresses technology-services delivery teams; the IT teams solution addresses the internal buyer's responsibilities."},
+      {"q": "Will it provision accounts for new hires?", "a": "No automatic provisioning is demonstrated. Hirebrew can be evaluated for the onboarding responsibility and handoff, while identity, device and application access remain with your IT tools and owners."},
+      {"q": "Can Brew AI make hiring decisions for us?", "a": "No. The website demonstrates illustrative drafts for human review. Selection remains a human decision grounded in agreed criteria, interview evidence and your organisation's approved process."}
+    ],
+    "related": ["startups", "it-teams", "founders"]
+  }
+]

@@ -1,0 +1,7 @@
+.git
+.vercel
+node_modules
+review
+__pycache__
+*.log
+.env*

@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Founders
+
+WORKFLOW TO EVALUATE
+The next hire can set a better pattern.
+Pick one important role and follow it through the first month. Use the journey to decide what you must own and what a manager can lead.
+
+HANDOFFS
+Clarify | Founder + team lead
+Describe the outcome, not just the title
+Agree why the role exists and the evidence an interview should uncover. Use the requisition as a shared decision brief, not simply a request to recruit.
+
+Listen | Hiring team
+Let the panel contribute real evidence
+Coordinate interviews and collect structured feedback from the people who will work with the hire. Keep candidate questions and replies part of the conversation.
+
+Welcome | Line manager
+Make a start that does not rely on improvisation
+Assign practical tasks, introductions and first-month expectations. Give the new employee a named manager and a scheduled opportunity to ask what is still unclear.
+
+Develop | Manager + employee
+Create an early feedback rhythm
+Explore goals and check-ins before small uncertainties become performance surprises. Record learning needs and next actions that the manager and employee can revisit together.
+
+PILOT SCOPE
+Give one manager a complete journey to own.
+Choose a role that matters to your next stage. If your team spans African markets, make location expectations and local policy questions part of the brief.
+
+VALIDATION CHECKLIST
+[ ] The hiring team understands the role's purpose
+[ ] The manager owns the first-month handoff
+[ ] The employee knows what to discuss at check-ins
+
+BOUNDARIES
+Use the prototype to shape the process. Live personal data, identity, notifications and any AI provider require separate readiness checks.
+
+AI EVALUATION
+Use Brew's illustrative drafting concept to see how rough founder notes could become a role brief or onboarding outline. A person still checks assumptions, adjusts the language and owns the decision.
+Example prompt: Turn these business priorities into a first-month discussion outline for a new operations lead, without inventing targets.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

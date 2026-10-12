@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Nonprofit
+
+WORKFLOW TO EVALUATE
+From programme vacancy to supported colleague.
+Use a sample programme officer role to test the handoff between operational leadership, HR and a distributed manager.
+
+HANDOFFS
+Align | Programme lead + HR
+Agree the staffing need
+Document the role and the approval route. Keep grant eligibility and budget authorisation in the organisation's approved processes while clarifying the recruitment brief.
+
+Select | Programme interview panel
+Bring the right perspectives together
+Coordinate interviews and role-relevant scorecards. Use candidate messaging to make practical questions and answers part of the hiring journey.
+
+Welcome | Manager + onboarding owner
+Prepare the first conversations
+Assign introductions and early check-ins across locations. Keep safeguarding, travel and field authorisations with their designated specialist owners.
+
+Develop | Employee + manager
+Plan continuing support
+Explore goals, development needs and employee requests. Discuss what the colleague needs to work effectively before expanding the approach to another programme.
+
+PILOT SCOPE
+Choose one programme and a manageable scope.
+Include a field-facing participant as well as central HR. Walk through a sample role and define the access, ownership and data requirements needed for a responsible next step.
+
+VALIDATION CHECKLIST
+[ ] Test devices and connectivity used by distributed staff.
+[ ] Separate employee administration from donor, beneficiary and safeguarding records.
+[ ] Agree how programme and central teams share onboarding responsibilities.
+
+BOUNDARIES
+Donor and grant management, beneficiary records, volunteer management and safeguarding verification are outside this preview. Do not assume offline access, live integrations or production compliance.
+
+AI EVALUATION
+Brew AI concepts can help turn approved role information into a welcome outline or check-in agenda. A programme owner reviews the context, language and assumptions. Use fictional staff information in the illustrative demo and exclude beneficiary or safeguarding records.
+Example prompt: Draft a 30-day check-in agenda for a programme officer joining a distributed team. Cover collaboration and learning support without assuming programme outcomes or funding commitments.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

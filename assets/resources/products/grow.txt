@@ -1,0 +1,70 @@
+HIREBREW GROW | PRODUCT PILOT BRIEF
+
+Make progress part of everyday work.
+Give goals a conversation, feedback a next step and every employee a clearer path to what comes next.
+
+CAPABILITIES TO EXPLORE
+Goals and alignment
+Explore company, department and individual goals with measurable key results. Make the relationship between a person's work and the wider plan visible.
+
+Reviews and check-ins
+Bring review cycles, employee reflections and manager conversations into a shared rhythm. Define your approach before configuring a pilot.
+
+Feedback and one-to-ones
+Create space for specific feedback throughout the year, especially when teams work across offices or operational sites.
+
+Learning and opportunity
+Connect learning with internal opportunities. Explore progression without assuming every valuable next step must be an external hire.
+
+PRACTICAL USE CASES
+Make probation a supported beginning
+Situation: A new team member reaches week four without a clear picture of what a good first quarter looks like.
+Workflow: Carry the onboarding plan into an agreed goal, schedule a check-in and identify one learning action before the review.
+Intended improvement: Both employee and manager have something concrete to discuss before the probation decision.
+
+Help a first-time manager coach
+Situation: A strong individual contributor now leads a small team across Lagos and another office.
+Workflow: Use shared goals and one-to-one prompts to discuss priorities, capture feedback and agree individual support.
+Intended improvement: Coaching becomes a repeatable conversation instead of relying on the manager to invent a process.
+
+Build capability before opening a role
+Situation: A department needs a new capability and wants to consider its existing team alongside external recruitment.
+Workflow: Review development interests and learning plans, then discuss a suitable internal opportunity with the employee.
+Intended improvement: The team can consider an internal growth path with evidence and a named development commitment.
+
+WORKFLOW
+From a first goal to a stronger next quarter.
+Agree | Employee + manager
+Define useful progress
+Choose a goal tied to the team's work. Agree the evidence of progress, the support required and when to discuss it again.
+
+Discuss | Manager
+Make room for the check-in
+Bring the current goal and recent feedback into a focused conversation. Separate a capability gap from a missing resource or unclear instruction.
+
+Develop | Employee
+Choose the next learning action
+Connect the conversation to a course, practice task or stretch assignment. Name the person who can help and a realistic next review point.
+
+Reflect | Employee + manager
+Review with context
+Look at agreed goals, feedback and development activity together. Record the next commitment rather than treating a rating as the end of the process.
+
+PILOT
+Start with one team and one development cycle.
+Choose a manager group with a real need, agree a lightweight review rhythm and assess whether employees understand the next action after each conversation.
+
+EVALUATION CHECKLIST
+[ ] Agree goal ownership, review dates and the evidence that counts as progress.
+[ ] Validate who can see feedback, review notes and development records.
+[ ] Test a complete employee and manager journey with representative sample data.
+
+SCOPE BOUNDARIES
+Grow is represented in the current prototype. Persistence, access controls, notifications and any live AI support must be validated before using sensitive employee review data.
+
+AI AND HUMAN REVIEW
+Brew's direction includes clearer drafts and next-step suggestions. For development, use an illustrative rewrite to test whether a goal is specific, understandable and fair. The manager and employee still agree the objective; no automated performance judgement is implied.
+Example prompt: Illustrative prompt: Turn this fictional first-month objective into a clearer goal, and list the questions the manager and employee should agree together.
+
+NEXT STEP
+Assign an owner, walk through the workflow with sample data and record the evidence required before a live rollout. This document is not a submitted enquiry, booking or confirmation of production readiness.

@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Fintech
+
+WORKFLOW TO EVALUATE
+A clearer path for an operations hire.
+Follow a sample hiring request through selection, team readiness and the first review conversation.
+
+HANDOFFS
+Approve | Operations lead + HR
+Connect the role to a real need
+Describe the capacity or capability gap in a requisition. Agree on its approval owner and selection criteria before asking a panel to assess candidates.
+
+Assess | Interview panel
+Compare evidence, not impressions
+Gather scorecards from operations, product or other relevant participants. Keep the decision human-led and use candidate messages to clarify the next step.
+
+Prepare | HR + manager
+Assign first-week responsibilities
+Explore an onboarding checklist covering introductions, learning and manager expectations. Identify any access or policy task that must be completed in a specialist system.
+
+Develop | Manager + employee
+Continue the conversation after day one
+Use goals and check-ins to review the employee's first month. Turn learning needs into a development discussion rather than leaving them in the original interview notes.
+
+PILOT SCOPE
+Prove one journey before widening access.
+Bring HR, an operations manager and a technology reviewer into a sample-data pilot. Agree on the evidence required before expansion.
+
+VALIDATION CHECKLIST
+[ ] Selection criteria and final decision ownership are clear.
+[ ] Each onboarding dependency has a named owner.
+[ ] Data visibility and retention questions are documented for review.
+
+BOUNDARIES
+The preview is not a KYC, AML, transaction-monitoring or certified financial-services compliance system. Production controls need separate verification.
+
+AI EVALUATION
+Brew's illustrative drafting workflow can show how a manager might prepare a first-month check-in. Review every draft against approved role expectations and exclude customer or transaction data.
+Example prompt: Prepare first-month check-in questions for an operations analyst using a sample onboarding plan.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

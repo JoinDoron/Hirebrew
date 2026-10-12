@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Finance teams
+
+WORKFLOW TO EVALUATE
+From a hiring request to an accountable handoff.
+Use one approved role and a sample employee record to follow the decisions and information that cross the HR and finance boundary.
+
+HANDOFFS
+Request | Department lead
+Make the business reason explicit
+Review the role requirement and accountable approver. Document the cost and headcount questions your organisation needs answered before the hiring process can proceed.
+
+Review | Finance + HR
+Connect the decision to workforce context
+Explore department and headcount views, then check the source and meaning of the data. Treat preview figures as illustrative, not a live financial forecast.
+
+Map | Payroll owner + IT
+Define the data handoff
+Agree required fields, effective dates, reconciliation responsibilities and error handling. Identify what should remain in your existing payroll or finance platform.
+
+Assess | Finance sponsor
+Judge the pilot against its business case
+Review process completion and your own baseline effort alongside implementation requirements. Decide whether the next phase is justified by observed value and remaining risk.
+
+PILOT SCOPE
+Prove one data handoff before scaling it.
+Use sample records and include local payroll owners for each proposed market. Nigerian and other African payroll requirements should remain with appropriately qualified providers and advisers.
+
+VALIDATION CHECKLIST
+[ ] Each exchanged field has an authoritative source
+[ ] Reconciliation and exception ownership are agreed
+[ ] Pilot costs and success measures are documented
+
+BOUNDARIES
+Hirebrew does not demonstrate payroll calculation, statutory filing, payment execution or a live payroll connection in this preview.
+
+AI EVALUATION
+Brew's illustrative drafting approach can help frame a business-case checklist. Finance must validate every input and calculation; this preview does not offer financial forecasting or automated budget decisions.
+Example prompt: Draft questions for evaluating a new hiring workflow, separating platform costs, implementation effort and external provider fees.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

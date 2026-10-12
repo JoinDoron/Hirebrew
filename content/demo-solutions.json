@@ -1,0 +1,3434 @@
+[
+  {
+    "slug": "startups",
+    "product": "Hirebrew Onboard",
+    "mode": "checklist",
+    "title": "Your first customer success hire, welcomed properly.",
+    "intro": "Follow a small team turning an accepted offer into owned introductions and a first-week conversation.",
+    "record": "Customer success welcome",
+    "person": {
+      "initials": "AO",
+      "name": "Ada Okafor",
+      "role": "New customer success associate"
+    },
+    "prompt": "What does Ada need before her first week?",
+    "sources": [
+      "Customer success welcome",
+      "Welcome checklist",
+      "Manager check-in"
+    ],
+    "frames": [
+      {
+        "label": "Prepare",
+        "activity": "HR opens the welcome plan",
+        "heading": "A start date becomes a shared plan",
+        "body": "An accepted offer becomes an introduction plan, a role conversation and a manager check-in.",
+        "items": [
+          {
+            "label": "Welcome pack",
+            "detail": "Owner needed",
+            "status": "active"
+          },
+          {
+            "label": "Team introduction",
+            "detail": "Not assigned",
+            "status": "pending"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Not arranged",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Tola, operations",
+          "text": "Ada starts on Monday. I have added the welcome tasks; Seyi, please confirm who owns each introduction."
+        },
+        "outcome": "The welcome begins with named responsibilities."
+      },
+      {
+        "label": "Assign",
+        "activity": "Manager confirms task owners",
+        "heading": "Every task has a person behind it",
+        "body": "Operations and the team lead divide the work without losing the new colleague's perspective.",
+        "items": [
+          {
+            "label": "Welcome pack",
+            "detail": "Tola confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Team introduction",
+            "detail": "Seyi preparing",
+            "status": "active"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Awaiting manager",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Seyi, team lead",
+          "text": "I will introduce the team and explain the role. Tola owns the welcome pack."
+        },
+        "outcome": "The handoff is visible to everyone involved."
+      },
+      {
+        "label": "Respond",
+        "activity": "New colleague adds their question",
+        "heading": "The welcome is a conversation",
+        "body": "Ada asks who will help her understand the customer support process.",
+        "items": [
+          {
+            "label": "Welcome pack",
+            "detail": "Shared with Ada",
+            "status": "ready"
+          },
+          {
+            "label": "Team introduction",
+            "detail": "Support lead added",
+            "status": "ready"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Friday proposed",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Ada Okafor",
+          "text": "Who should I meet to understand how the team handles customer questions?"
+        },
+        "outcome": "A practical question reaches its responsible owner."
+      },
+      {
+        "label": "Confirm",
+        "activity": "Manager records the next step",
+        "heading": "The first week has a clear shape",
+        "body": "The manager adds the relevant introduction and confirms the first check-in.",
+        "items": [
+          {
+            "label": "Welcome pack",
+            "detail": "Acknowledged by Ada",
+            "status": "ready"
+          },
+          {
+            "label": "Team introduction",
+            "detail": "Introduction agreed",
+            "status": "ready"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Friday confirmed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Seyi, team lead",
+          "text": "I have added a conversation with our support lead. We will review your questions at the Friday check-in."
+        },
+        "outcome": "Introductions agreed. The first check-in has an owner."
+      }
+    ],
+    "manual": {
+      "title": "A welcome spread across inboxes",
+      "items": [
+        "Offer in an email",
+        "Welcome tasks in a note",
+        "Introduction request in chat",
+        "First check-in left unassigned"
+      ],
+      "outcome": "Someone still needs to connect the handoff."
+    }
+  },
+  {
+    "slug": "mid-market",
+    "product": "Hirebrew People",
+    "mode": "request",
+    "title": "A leave request that keeps moving.",
+    "intro": "Watch an employee, line manager and HR resolve one practical detail across a growing organisation.",
+    "record": "Annual leave request",
+    "person": {
+      "initials": "ZM",
+      "name": "Zainab Musa",
+      "role": "Abuja account coordinator"
+    },
+    "prompt": "What is holding up Zainab's leave request?",
+    "sources": [
+      "Employee leave request",
+      "Request details",
+      "Reviewer notes"
+    ],
+    "frames": [
+      {
+        "label": "Request",
+        "activity": "The request owner adds context",
+        "heading": "A clear request starts the handoff",
+        "body": "Zainab submits her proposed dates with a handover note for the Abuja account team.",
+        "items": [
+          {
+            "label": "Proposed dates",
+            "detail": "Submitted for review",
+            "status": "active"
+          },
+          {
+            "label": "Handover contact",
+            "detail": "Missing contact",
+            "status": "pending"
+          },
+          {
+            "label": "Request status",
+            "detail": "Awaiting review",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Zainab Musa",
+          "text": "I would like annual leave next month. My handover note is attached to this sample request."
+        },
+        "outcome": "The request and its owner are visible."
+      },
+      {
+        "label": "Clarify",
+        "activity": "Reviewer asks for one missing detail",
+        "heading": "Resolve the detail in the record",
+        "body": "The manager needs the name of the colleague handling an open client handoff.",
+        "items": [
+          {
+            "label": "Proposed dates",
+            "detail": "Dates reviewed",
+            "status": "ready"
+          },
+          {
+            "label": "Handover contact",
+            "detail": "Manager asks",
+            "status": "active"
+          },
+          {
+            "label": "Request status",
+            "detail": "Clarification needed",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Uche, line manager",
+          "text": "Who will own the account handoff while you are away?"
+        },
+        "outcome": "The missing information has a named follow-up."
+      },
+      {
+        "label": "Respond",
+        "activity": "The owner supplies the detail",
+        "heading": "The reply reaches the right person",
+        "body": "Zainab adds the agreed cover contact, keeping the explanation beside her original request.",
+        "items": [
+          {
+            "label": "Proposed dates",
+            "detail": "Dates unchanged",
+            "status": "ready"
+          },
+          {
+            "label": "Handover contact",
+            "detail": "Amina added",
+            "status": "ready"
+          },
+          {
+            "label": "Request status",
+            "detail": "Ready for review",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Zainab Musa",
+          "text": "Amina has agreed to own the handoff. I have updated the note with her name."
+        },
+        "outcome": "The reviewer has the context to continue."
+      },
+      {
+        "label": "Record",
+        "activity": "Reviewer records the next action",
+        "heading": "The decision has a visible owner",
+        "body": "The manager records their approval; the employee sees a clear outcome and the agreed cover.",
+        "items": [
+          {
+            "label": "Proposed dates",
+            "detail": "Approved by manager",
+            "status": "ready"
+          },
+          {
+            "label": "Handover contact",
+            "detail": "Cover recorded",
+            "status": "ready"
+          },
+          {
+            "label": "Request status",
+            "detail": "Decision visible",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Uche, line manager",
+          "text": "Approved in this example. Amina is the cover contact recorded against the request."
+        },
+        "outcome": "Manager approval recorded. Cover arrangements stay with the request."
+      }
+    ],
+    "manual": {
+      "title": "A request passed between inboxes",
+      "items": [
+        "Dates in a spreadsheet",
+        "Cover agreed in chat",
+        "Approval buried in email",
+        "Employee asks HR for status"
+      ],
+      "outcome": "The requester still needs to chase an update."
+    }
+  },
+  {
+    "slug": "enterprise",
+    "product": "Hirebrew Onboard",
+    "mode": "checklist",
+    "title": "One business unit. A handoff you can inspect.",
+    "intro": "Follow an illustrative onboarding journey across central HR, a regional manager and the new colleague.",
+    "record": "Regional analyst pilot",
+    "person": {
+      "initials": "NM",
+      "name": "Nana Mensah",
+      "role": "New regional analyst"
+    },
+    "prompt": "Who owns Nana's first-week handoffs?",
+    "sources": [
+      "Regional analyst pilot",
+      "Welcome checklist",
+      "Manager check-in"
+    ],
+    "frames": [
+      {
+        "label": "Prepare",
+        "activity": "HR opens the welcome plan",
+        "heading": "A start date becomes a shared plan",
+        "body": "Central HR opens a sample plan for the Accra business unit, with ownership visible from the start.",
+        "items": [
+          {
+            "label": "Central welcome",
+            "detail": "HR preparing",
+            "status": "active"
+          },
+          {
+            "label": "Local introductions",
+            "detail": "Owner needed",
+            "status": "pending"
+          },
+          {
+            "label": "Pilot check-in",
+            "detail": "Not arranged",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Kemi, central HR",
+          "text": "This pilot follows Nana's welcome in one business unit. Please confirm local introductions and the manager check-in."
+        },
+        "outcome": "The welcome begins with named responsibilities."
+      },
+      {
+        "label": "Assign",
+        "activity": "Manager confirms task owners",
+        "heading": "Every task has a person behind it",
+        "body": "Central and regional owners agree which introductory tasks belong to each team.",
+        "items": [
+          {
+            "label": "Central welcome",
+            "detail": "Kemi confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Local introductions",
+            "detail": "Yaw confirmed",
+            "status": "active"
+          },
+          {
+            "label": "Pilot check-in",
+            "detail": "Manager nominated",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Yaw, regional manager",
+          "text": "I own the local introductions. Kemi will handle the central welcome information."
+        },
+        "outcome": "The handoff is visible to everyone involved."
+      },
+      {
+        "label": "Respond",
+        "activity": "New colleague adds their question",
+        "heading": "The welcome is a conversation",
+        "body": "Nana asks how the regional team and central people team divide everyday support.",
+        "items": [
+          {
+            "label": "Central welcome",
+            "detail": "Information shared",
+            "status": "ready"
+          },
+          {
+            "label": "Local introductions",
+            "detail": "Contacts clarified",
+            "status": "ready"
+          },
+          {
+            "label": "Pilot check-in",
+            "detail": "First week proposed",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Nana Mensah",
+          "text": "Who should I contact for local questions, and who handles people requests centrally?"
+        },
+        "outcome": "A practical question reaches its responsible owner."
+      },
+      {
+        "label": "Confirm",
+        "activity": "Manager records the next step",
+        "heading": "The first week has a clear shape",
+        "body": "The regional manager records both contacts and agrees the first check-in.",
+        "items": [
+          {
+            "label": "Central welcome",
+            "detail": "Acknowledged by Nana",
+            "status": "ready"
+          },
+          {
+            "label": "Local introductions",
+            "detail": "Introduction plan agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Pilot check-in",
+            "detail": "Owner confirmed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Yaw, regional manager",
+          "text": "Your plan now names the local and central contacts. We will check the handoff together in your first week."
+        },
+        "outcome": "Introductions agreed. The first check-in has an owner."
+      }
+    ],
+    "manual": {
+      "title": "A welcome spread across inboxes",
+      "items": [
+        "Central welcome in email",
+        "Regional checklist elsewhere",
+        "Support contacts not connected",
+        "Pilot feedback in separate notes"
+      ],
+      "outcome": "Someone still needs to connect the handoff."
+    }
+  },
+  {
+    "slug": "hr-teams",
+    "product": "Hirebrew Hire",
+    "mode": "conversation",
+    "title": "A candidate question, answered in the hiring journey.",
+    "intro": "See HR, the candidate and a hiring manager continue one conversation without rebuilding its context.",
+    "record": "People operations coordinator",
+    "person": {
+      "initials": "BA",
+      "name": "Bisi Adebayo",
+      "role": "Candidate"
+    },
+    "prompt": "Can Bisi clarify the interview format?",
+    "sources": [
+      "Approved role brief",
+      "Candidate conversation",
+      "Panel scorecards"
+    ],
+    "frames": [
+      {
+        "label": "Open",
+        "activity": "Recruiter opens the candidate record",
+        "heading": "The next step needs an answer",
+        "body": "HR asks Bisi to confirm the next conversation and records the role's interview criteria.",
+        "items": [
+          {
+            "label": "Candidate reply",
+            "detail": "Awaiting Bisi",
+            "status": "active"
+          },
+          {
+            "label": "Panel feedback",
+            "detail": "Awaiting manager",
+            "status": "pending"
+          },
+          {
+            "label": "Next conversation",
+            "detail": "Proposed",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Amaka, recruiter",
+          "text": "Please confirm whether Thursday works. The next conversation covers employee support and request handling."
+        },
+        "outcome": "The question stays beside the hiring record."
+      },
+      {
+        "label": "Reply",
+        "activity": "Candidate replies in the same thread",
+        "heading": "The candidate can answer back",
+        "body": "Bisi can reply directly and ask what preparation is useful.",
+        "items": [
+          {
+            "label": "Candidate reply",
+            "detail": "Thursday confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Panel feedback",
+            "detail": "Manager notified",
+            "status": "active"
+          },
+          {
+            "label": "Next conversation",
+            "detail": "Preparation question",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Bisi Adebayo",
+          "text": "Thursday works for me. Should I prepare an example of handling an employee request?"
+        },
+        "outcome": "Both sides can follow the same conversation."
+      },
+      {
+        "label": "Review",
+        "activity": "Interviewer adds structured feedback",
+        "heading": "The panel contributes its evidence",
+        "body": "The manager records role-relevant feedback and clarifies the preparation needed for the next conversation.",
+        "items": [
+          {
+            "label": "Candidate reply",
+            "detail": "Question answered",
+            "status": "ready"
+          },
+          {
+            "label": "Panel feedback",
+            "detail": "Scorecard added",
+            "status": "ready"
+          },
+          {
+            "label": "Next conversation",
+            "detail": "Focus clarified",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Chidi, hiring manager",
+          "text": "Please bring one example and explain your approach. I have added my feedback against the agreed criteria."
+        },
+        "outcome": "Role criteria and panel feedback stay connected."
+      },
+      {
+        "label": "Coordinate",
+        "activity": "Recruiter records the agreed next step",
+        "heading": "A person owns what happens next",
+        "body": "HR acknowledges the reply and confirms the preparation note in the same record.",
+        "items": [
+          {
+            "label": "Candidate reply",
+            "detail": "Reply acknowledged",
+            "status": "ready"
+          },
+          {
+            "label": "Panel feedback",
+            "detail": "Feedback available",
+            "status": "ready"
+          },
+          {
+            "label": "Next conversation",
+            "detail": "Details confirmed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Amaka, recruiter",
+          "text": "Confirmed. Please prepare that example; your next-step note now includes the interview focus."
+        },
+        "outcome": "Next step recorded. The hiring decision remains human."
+      }
+    ],
+    "manual": {
+      "title": "A hiring conversation in separate places",
+      "items": [
+        "Invitation in one inbox",
+        "Candidate question in another",
+        "Manager feedback in chat",
+        "HR reconstructs the update"
+      ],
+      "outcome": "The recruiter has to reconstruct the next step."
+    }
+  },
+  {
+    "slug": "finance-teams",
+    "product": "Hirebrew Hire",
+    "mode": "request",
+    "title": "A hiring request with the business context attached.",
+    "intro": "Follow a department's headcount request from its rationale to a recorded finance review, without implying payroll processing.",
+    "record": "Operations analyst requisition",
+    "person": {
+      "initials": "FB",
+      "name": "Femi Bello",
+      "role": "Operations lead"
+    },
+    "prompt": "Does the operations analyst request explain the business need?",
+    "sources": [
+      "Hiring requisition",
+      "Request details",
+      "Reviewer notes"
+    ],
+    "frames": [
+      {
+        "label": "Request",
+        "activity": "The request owner adds context",
+        "heading": "A clear request starts the handoff",
+        "body": "Femi adds the role rationale and the proposed department to the hiring request.",
+        "items": [
+          {
+            "label": "Role rationale",
+            "detail": "Submitted",
+            "status": "active"
+          },
+          {
+            "label": "Position type",
+            "detail": "Not specified",
+            "status": "pending"
+          },
+          {
+            "label": "Approval handoff",
+            "detail": "Awaiting review",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Femi Bello",
+          "text": "This role will support the operations handoff. Please review the business rationale before recruitment starts."
+        },
+        "outcome": "The request and its owner are visible."
+      },
+      {
+        "label": "Clarify",
+        "activity": "Reviewer asks for one missing detail",
+        "heading": "Resolve the detail in the record",
+        "body": "Finance asks whether the vacancy replaces an existing role or adds a new position.",
+        "items": [
+          {
+            "label": "Role rationale",
+            "detail": "Under review",
+            "status": "ready"
+          },
+          {
+            "label": "Position type",
+            "detail": "Clarification requested",
+            "status": "active"
+          },
+          {
+            "label": "Approval handoff",
+            "detail": "Finance reviewing",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Ify, finance reviewer",
+          "text": "Is this a replacement or a new position? Please clarify the approval context."
+        },
+        "outcome": "The missing information has a named follow-up."
+      },
+      {
+        "label": "Respond",
+        "activity": "The owner supplies the detail",
+        "heading": "The reply reaches the right person",
+        "body": "Femi records that it is a replacement and names the accountable hiring manager.",
+        "items": [
+          {
+            "label": "Role rationale",
+            "detail": "Context updated",
+            "status": "ready"
+          },
+          {
+            "label": "Position type",
+            "detail": "Replacement confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Approval handoff",
+            "detail": "Reviewer has context",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Femi Bello",
+          "text": "It is a replacement in operations. I am the hiring manager and have updated the request."
+        },
+        "outcome": "The reviewer has the context to continue."
+      },
+      {
+        "label": "Record",
+        "activity": "Reviewer records the next action",
+        "heading": "The decision has a visible owner",
+        "body": "Finance records its review in this example; recruitment remains subject to the organisation's agreed approval path.",
+        "items": [
+          {
+            "label": "Role rationale",
+            "detail": "Rationale reviewed",
+            "status": "ready"
+          },
+          {
+            "label": "Position type",
+            "detail": "Context recorded",
+            "status": "ready"
+          },
+          {
+            "label": "Approval handoff",
+            "detail": "Next owner named",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Ify, finance reviewer",
+          "text": "Finance review recorded. HR can follow the remaining approval steps in the agreed hiring process."
+        },
+        "outcome": "Finance review recorded. Remaining approval ownership is explicit."
+      }
+    ],
+    "manual": {
+      "title": "A request passed between inboxes",
+      "items": [
+        "Headcount in a workbook",
+        "Rationale in an email",
+        "Position type in chat",
+        "HR chases the review"
+      ],
+      "outcome": "The requester still needs to chase an update."
+    }
+  },
+  {
+    "slug": "legal-teams",
+    "product": "Hirebrew People",
+    "mode": "request",
+    "title": "An employment-letter request with a review trail.",
+    "intro": "See an employee request move through factual clarification and human review, without presenting a generated document as legal advice.",
+    "record": "Employment confirmation letter",
+    "person": {
+      "initials": "NN",
+      "name": "Ngozi Nwosu",
+      "role": "Employee"
+    },
+    "prompt": "What still needs checking before Ngozi's letter is prepared?",
+    "sources": [
+      "Letter request",
+      "Request details",
+      "Reviewer notes"
+    ],
+    "frames": [
+      {
+        "label": "Request",
+        "activity": "The request owner adds context",
+        "heading": "A clear request starts the handoff",
+        "body": "Ngozi requests an employment confirmation letter and specifies its intended use.",
+        "items": [
+          {
+            "label": "Purpose",
+            "detail": "Employee supplied",
+            "status": "active"
+          },
+          {
+            "label": "Required facts",
+            "detail": "Awaiting detail",
+            "status": "pending"
+          },
+          {
+            "label": "Wording review",
+            "detail": "Not started",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Ngozi Nwosu",
+          "text": "Please prepare an employment confirmation letter for my accommodation application."
+        },
+        "outcome": "The request and its owner are visible."
+      },
+      {
+        "label": "Clarify",
+        "activity": "Reviewer asks for one missing detail",
+        "heading": "Resolve the detail in the record",
+        "body": "The reviewer asks which employment details the recipient needs.",
+        "items": [
+          {
+            "label": "Purpose",
+            "detail": "Purpose reviewed",
+            "status": "ready"
+          },
+          {
+            "label": "Required facts",
+            "detail": "Reviewer asks",
+            "status": "active"
+          },
+          {
+            "label": "Wording review",
+            "detail": "Pending details",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Aisha, HR reviewer",
+          "text": "Does the recipient need only your role and employment dates, or any additional information?"
+        },
+        "outcome": "The missing information has a named follow-up."
+      },
+      {
+        "label": "Respond",
+        "activity": "The owner supplies the detail",
+        "heading": "The reply reaches the right person",
+        "body": "Ngozi confirms the minimum facts requested, keeping unrelated personal information out of the example.",
+        "items": [
+          {
+            "label": "Purpose",
+            "detail": "Purpose unchanged",
+            "status": "ready"
+          },
+          {
+            "label": "Required facts",
+            "detail": "Role and dates only",
+            "status": "ready"
+          },
+          {
+            "label": "Wording review",
+            "detail": "Ready for review",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Ngozi Nwosu",
+          "text": "Only my role and employment dates are needed. Please exclude salary information."
+        },
+        "outcome": "The reviewer has the context to continue."
+      },
+      {
+        "label": "Record",
+        "activity": "Reviewer records the next action",
+        "heading": "The decision has a visible owner",
+        "body": "HR records the required scope and routes the wording for the organisation's human review.",
+        "items": [
+          {
+            "label": "Purpose",
+            "detail": "Scope recorded",
+            "status": "ready"
+          },
+          {
+            "label": "Required facts",
+            "detail": "Facts specified",
+            "status": "ready"
+          },
+          {
+            "label": "Wording review",
+            "detail": "Reviewer assigned",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Aisha, HR reviewer",
+          "text": "The requested facts are recorded. The wording will follow our approved review process before issue."
+        },
+        "outcome": "Scope clarified. Final wording remains subject to human review."
+      }
+    ],
+    "manual": {
+      "title": "A request passed between inboxes",
+      "items": [
+        "Request in an inbox",
+        "Recipient needs in chat",
+        "Different draft versions",
+        "Review owner not obvious"
+      ],
+      "outcome": "The requester still needs to chase an update."
+    }
+  },
+  {
+    "slug": "it-teams",
+    "product": "Hirebrew Onboard",
+    "mode": "checklist",
+    "title": "The people handoff before the access handoff.",
+    "intro": "See HR and a manager clarify a new colleague's onboarding needs while keeping account provisioning in its responsible system.",
+    "record": "Data analyst onboarding",
+    "person": {
+      "initials": "KB",
+      "name": "Kofi Boateng",
+      "role": "New data analyst"
+    },
+    "prompt": "What must be clarified before Kofi's IT handoff?",
+    "sources": [
+      "Data analyst onboarding",
+      "Welcome checklist",
+      "Manager check-in"
+    ],
+    "frames": [
+      {
+        "label": "Prepare",
+        "activity": "HR opens the welcome plan",
+        "heading": "A start date becomes a shared plan",
+        "body": "HR opens the welcome plan with an explicit task for the manager's IT coordination.",
+        "items": [
+          {
+            "label": "Role context",
+            "detail": "HR added",
+            "status": "active"
+          },
+          {
+            "label": "IT coordination",
+            "detail": "Owner needed",
+            "status": "pending"
+          },
+          {
+            "label": "First-day discussion",
+            "detail": "Not arranged",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Amina, people operations",
+          "text": "Kofi's start is recorded. Tunde, please confirm the role context for the IT handoff."
+        },
+        "outcome": "The welcome begins with named responsibilities."
+      },
+      {
+        "label": "Assign",
+        "activity": "Manager confirms task owners",
+        "heading": "Every task has a person behind it",
+        "body": "The manager owns the requirements conversation. The welcome checklist does not grant any system access.",
+        "items": [
+          {
+            "label": "Role context",
+            "detail": "Manager reviewing",
+            "status": "ready"
+          },
+          {
+            "label": "IT coordination",
+            "detail": "Tunde confirmed",
+            "status": "active"
+          },
+          {
+            "label": "First-day discussion",
+            "detail": "Pending context",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Tunde, analytics manager",
+          "text": "I will confirm requirements with IT through our existing process. The welcome plan will record the contact."
+        },
+        "outcome": "The handoff is visible to everyone involved."
+      },
+      {
+        "label": "Respond",
+        "activity": "New colleague adds their question",
+        "heading": "The welcome is a conversation",
+        "body": "Kofi asks whom to contact about the first-day setup conversation.",
+        "items": [
+          {
+            "label": "Role context",
+            "detail": "Requirements clarified",
+            "status": "ready"
+          },
+          {
+            "label": "IT coordination",
+            "detail": "Contact added",
+            "status": "ready"
+          },
+          {
+            "label": "First-day discussion",
+            "detail": "Time proposed",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Kofi Boateng",
+          "text": "Who should I contact about the setup conversation before I start?"
+        },
+        "outcome": "A practical question reaches its responsible owner."
+      },
+      {
+        "label": "Confirm",
+        "activity": "Manager records the next step",
+        "heading": "The first week has a clear shape",
+        "body": "The manager records the IT contact and first-day discussion without claiming any accounts were provisioned.",
+        "items": [
+          {
+            "label": "Role context",
+            "detail": "Context recorded",
+            "status": "ready"
+          },
+          {
+            "label": "IT coordination",
+            "detail": "Handoff recorded",
+            "status": "ready"
+          },
+          {
+            "label": "First-day discussion",
+            "detail": "Discussion agreed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Tunde, analytics manager",
+          "text": "The IT contact is in your plan. Access approval and provisioning remain in the existing IT process."
+        },
+        "outcome": "Introductions agreed. The first check-in has an owner."
+      }
+    ],
+    "manual": {
+      "title": "A welcome spread across inboxes",
+      "items": [
+        "Start date in HR email",
+        "Requirements in manager chat",
+        "IT contact in a ticket",
+        "New starter asks who owns it"
+      ],
+      "outcome": "Someone still needs to connect the handoff."
+    }
+  },
+  {
+    "slug": "founders",
+    "product": "Brew AI",
+    "mode": "draft",
+    "title": "Turn the founder's context into a useful first draft.",
+    "intro": "An illustrative drafting sequence helps a founder shape a first-month plan, with every decision kept in human hands.",
+    "record": "First operations hire plan",
+    "person": {
+      "initials": "TA",
+      "name": "Tomi Adeyemi",
+      "role": "Founder"
+    },
+    "prompt": "Draft a first-month plan for our first operations coordinator.",
+    "sources": [
+      "Approved role brief",
+      "Founder priorities",
+      "Manager check-in outline"
+    ],
+    "frames": [
+      {
+        "label": "Brief",
+        "activity": "Founder supplies approved context",
+        "heading": "Start with the job, not a guess",
+        "body": "Tomi adds the role purpose, first-month priorities and the person responsible for the new hire.",
+        "items": [
+          {
+            "label": "Role context",
+            "detail": "Founder writing",
+            "status": "active"
+          },
+          {
+            "label": "Welcome outline",
+            "detail": "Not drafted",
+            "status": "pending"
+          },
+          {
+            "label": "Manager check-in",
+            "detail": "Owner proposed",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Tomi",
+          "text": "The role supports internal coordination. Focus the plan on introductions, understanding handoffs and weekly check-ins."
+        },
+        "outcome": "The draft starts from context supplied by a person."
+      },
+      {
+        "label": "Draft",
+        "activity": "Illustrative Brew draft appears",
+        "heading": "A starting point the founder can inspect",
+        "body": "The example organises the brief into introductions, learning conversations and a first-month review.",
+        "items": [
+          {
+            "label": "Role context",
+            "detail": "Included in draft",
+            "status": "ready"
+          },
+          {
+            "label": "Welcome outline",
+            "detail": "Illustrative draft",
+            "status": "active"
+          },
+          {
+            "label": "Manager check-in",
+            "detail": "Suggested in outline",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Brew AI concept",
+          "text": "Suggested outline: meet the team, map the current handoffs, then discuss questions in a weekly manager check-in."
+        },
+        "outcome": "A draft is available. Nothing has been sent."
+      },
+      {
+        "label": "Edit",
+        "activity": "Founder reviews the suggested plan",
+        "heading": "Keep the language true to your company",
+        "body": "Tomi removes an assumption and adds the person who will explain the operations handoff.",
+        "items": [
+          {
+            "label": "Role context",
+            "detail": "Checked by founder",
+            "status": "ready"
+          },
+          {
+            "label": "Welcome outline",
+            "detail": "Founder editing",
+            "status": "ready"
+          },
+          {
+            "label": "Manager check-in",
+            "detail": "Tomi confirmed",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Tomi",
+          "text": "Replace the assumed systems training with a conversation led by Sade. We have not agreed the training plan yet."
+        },
+        "outcome": "Human edits replace assumptions with agreed context."
+      },
+      {
+        "label": "Use",
+        "activity": "Founder records the reviewed outline",
+        "heading": "Make the next step somebody's responsibility",
+        "body": "The reviewed sample outline names Sade and keeps the first check-in with the founder.",
+        "items": [
+          {
+            "label": "Role context",
+            "detail": "Context confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Welcome outline",
+            "detail": "Edits recorded",
+            "status": "ready"
+          },
+          {
+            "label": "Manager check-in",
+            "detail": "Owner recorded",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Tomi",
+          "text": "This outline reflects our current plan. I will own the first check-in; Sade owns the handoff introduction."
+        },
+        "outcome": "Reviewed outline ready. The founder stays accountable."
+      }
+    ],
+    "manual": {
+      "title": "The plan stays in the founder's head",
+      "items": [
+        "Priorities in voice notes",
+        "Role brief in a document",
+        "Welcome plan starts from scratch",
+        "Check-in owner left implicit"
+      ],
+      "outcome": "The new colleague waits for the context to be connected."
+    }
+  },
+  {
+    "slug": "crypto",
+    "product": "Hirebrew Hire",
+    "mode": "conversation",
+    "title": "A specialist interview with a shared thread.",
+    "intro": "Follow a protocol engineer's practical question from the recruiter to the technical panel and back.",
+    "record": "Protocol engineer interview",
+    "person": {
+      "initials": "KO",
+      "name": "Kwame Owusu",
+      "role": "Protocol engineer candidate"
+    },
+    "prompt": "What should Kwame prepare for the technical conversation?",
+    "sources": [
+      "Approved role brief",
+      "Candidate conversation",
+      "Panel scorecards"
+    ],
+    "frames": [
+      {
+        "label": "Open",
+        "activity": "Recruiter opens the candidate record",
+        "heading": "The next step needs an answer",
+        "body": "The recruiter opens the approved role brief and asks Kwame to confirm the interview focus.",
+        "items": [
+          {
+            "label": "Candidate question",
+            "detail": "Awaiting response",
+            "status": "active"
+          },
+          {
+            "label": "Technical feedback",
+            "detail": "Pending scorecard",
+            "status": "pending"
+          },
+          {
+            "label": "Interview preparation",
+            "detail": "Role brief attached",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Nneka, recruiter",
+          "text": "The panel wants to discuss your approach to protocol design. Do you have any questions before the conversation?"
+        },
+        "outcome": "The question stays beside the hiring record."
+      },
+      {
+        "label": "Reply",
+        "activity": "Candidate replies in the same thread",
+        "heading": "The candidate can answer back",
+        "body": "Kwame asks whether to use a public example without sharing confidential work.",
+        "items": [
+          {
+            "label": "Candidate question",
+            "detail": "Public example requested",
+            "status": "ready"
+          },
+          {
+            "label": "Technical feedback",
+            "detail": "Interviewer reviewing",
+            "status": "active"
+          },
+          {
+            "label": "Interview preparation",
+            "detail": "Question added",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Kwame Owusu",
+          "text": "May I use a public project to explain my design choices rather than confidential work?"
+        },
+        "outcome": "Both sides can follow the same conversation."
+      },
+      {
+        "label": "Review",
+        "activity": "Interviewer adds structured feedback",
+        "heading": "The panel contributes its evidence",
+        "body": "The interviewer confirms the evidence needed and adds feedback from the earlier technical discussion.",
+        "items": [
+          {
+            "label": "Candidate question",
+            "detail": "Panel answered",
+            "status": "ready"
+          },
+          {
+            "label": "Technical feedback",
+            "detail": "Scorecard recorded",
+            "status": "ready"
+          },
+          {
+            "label": "Interview preparation",
+            "detail": "Focus clarified",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Sola, technical interviewer",
+          "text": "A public example is suitable. Please explain the trade-offs and your own contribution; my earlier scorecard is recorded."
+        },
+        "outcome": "Role criteria and panel feedback stay connected."
+      },
+      {
+        "label": "Coordinate",
+        "activity": "Recruiter records the agreed next step",
+        "heading": "A person owns what happens next",
+        "body": "The recruiter records the agreed preparation and keeps the final assessment with the panel.",
+        "items": [
+          {
+            "label": "Candidate question",
+            "detail": "Answer acknowledged",
+            "status": "ready"
+          },
+          {
+            "label": "Technical feedback",
+            "detail": "Evidence available",
+            "status": "ready"
+          },
+          {
+            "label": "Interview preparation",
+            "detail": "Preparation agreed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Nneka, recruiter",
+          "text": "Confirmed: use a public example. The interview note now includes the panel's focus and your question."
+        },
+        "outcome": "Next step recorded. The hiring decision remains human."
+      }
+    ],
+    "manual": {
+      "title": "A hiring conversation in separate places",
+      "items": [
+        "Role brief in a document",
+        "Technical notes in chat",
+        "Candidate question in email",
+        "Recruiter reconnects the context"
+      ],
+      "outcome": "The recruiter has to reconstruct the next step."
+    }
+  },
+  {
+    "slug": "fintech",
+    "product": "Hirebrew Onboard",
+    "mode": "checklist",
+    "title": "A clearer start for an operations analyst.",
+    "intro": "Follow an operations hire's administrative welcome, with specialist authorisations left to the teams that own them.",
+    "record": "Operations analyst welcome",
+    "person": {
+      "initials": "EO",
+      "name": "Efe Okoro",
+      "role": "New operations analyst"
+    },
+    "prompt": "Who owns Efe's introductions and first check-in?",
+    "sources": [
+      "Operations analyst welcome",
+      "Welcome checklist",
+      "Manager check-in"
+    ],
+    "frames": [
+      {
+        "label": "Prepare",
+        "activity": "HR opens the welcome plan",
+        "heading": "A start date becomes a shared plan",
+        "body": "The accepted offer leads to a welcome plan for introductions and role expectations.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "HR preparing",
+            "status": "active"
+          },
+          {
+            "label": "Role orientation",
+            "detail": "Owner needed",
+            "status": "pending"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Not arranged",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Kemi, people partner",
+          "text": "Efe's welcome is ready to plan. Please confirm the team introduction and the first manager conversation."
+        },
+        "outcome": "The welcome begins with named responsibilities."
+      },
+      {
+        "label": "Assign",
+        "activity": "Manager confirms task owners",
+        "heading": "Every task has a person behind it",
+        "body": "The manager takes responsibility for role orientation; HR owns the people-service introduction.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "Kemi confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Role orientation",
+            "detail": "Abiola confirmed",
+            "status": "active"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Manager nominated",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Abiola, operations manager",
+          "text": "I will cover role expectations. Kemi will explain how employee requests work."
+        },
+        "outcome": "The handoff is visible to everyone involved."
+      },
+      {
+        "label": "Respond",
+        "activity": "New colleague adds their question",
+        "heading": "The welcome is a conversation",
+        "body": "Efe asks where to raise an onboarding question without mixing it with specialist operational approval.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "Contact shared",
+            "status": "ready"
+          },
+          {
+            "label": "Role orientation",
+            "detail": "Questions captured",
+            "status": "ready"
+          },
+          {
+            "label": "First check-in",
+            "detail": "First week proposed",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Efe Okoro",
+          "text": "Who should I ask about the welcome schedule and first-week expectations?"
+        },
+        "outcome": "A practical question reaches its responsible owner."
+      },
+      {
+        "label": "Confirm",
+        "activity": "Manager records the next step",
+        "heading": "The first week has a clear shape",
+        "body": "The manager records the contact and first-week plan. Specialist permissions remain outside this administrative checklist.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "Introduction agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Role orientation",
+            "detail": "Plan recorded",
+            "status": "ready"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Owner confirmed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Abiola, operations manager",
+          "text": "Contact me for first-week expectations. Any specialist authorisations continue through their responsible teams."
+        },
+        "outcome": "Introductions agreed. The first check-in has an owner."
+      }
+    ],
+    "manual": {
+      "title": "A welcome spread across inboxes",
+      "items": [
+        "Offer context in email",
+        "Welcome owner in chat",
+        "Role orientation in notes",
+        "New colleague asks for a contact"
+      ],
+      "outcome": "Someone still needs to connect the handoff."
+    }
+  },
+  {
+    "slug": "advertising",
+    "product": "Hirebrew Hire",
+    "mode": "conversation",
+    "title": "Creative and commercial feedback, in one journey.",
+    "intro": "See a strategist candidate and an agency panel clarify the brief before the next conversation.",
+    "record": "Brand strategist interview",
+    "person": {
+      "initials": "ZD",
+      "name": "Zola Dlamini",
+      "role": "Brand strategist candidate"
+    },
+    "prompt": "Which part of Zola's portfolio should the panel discuss?",
+    "sources": [
+      "Approved role brief",
+      "Candidate conversation",
+      "Panel scorecards"
+    ],
+    "frames": [
+      {
+        "label": "Open",
+        "activity": "Recruiter opens the candidate record",
+        "heading": "The next step needs an answer",
+        "body": "The recruiter links the role brief to a conversation about the candidate's selected portfolio work.",
+        "items": [
+          {
+            "label": "Portfolio context",
+            "detail": "Requested",
+            "status": "active"
+          },
+          {
+            "label": "Panel scorecard",
+            "detail": "Pending feedback",
+            "status": "pending"
+          },
+          {
+            "label": "Candidate next step",
+            "detail": "Awaiting reply",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Lola, recruiter",
+          "text": "Please choose a portfolio example that shows your strategy process. Which piece would you like to discuss?"
+        },
+        "outcome": "The question stays beside the hiring record."
+      },
+      {
+        "label": "Reply",
+        "activity": "Candidate replies in the same thread",
+        "heading": "The candidate can answer back",
+        "body": "Zola names a fictional sample project and asks whether the panel wants creative or commercial context.",
+        "items": [
+          {
+            "label": "Portfolio context",
+            "detail": "Sample brief chosen",
+            "status": "ready"
+          },
+          {
+            "label": "Panel scorecard",
+            "detail": "Director reviewing",
+            "status": "active"
+          },
+          {
+            "label": "Candidate next step",
+            "detail": "Question raised",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Zola Dlamini",
+          "text": "I will bring a sample repositioning brief. Should I focus on the research or the client handoff?"
+        },
+        "outcome": "Both sides can follow the same conversation."
+      },
+      {
+        "label": "Review",
+        "activity": "Interviewer adds structured feedback",
+        "heading": "The panel contributes its evidence",
+        "body": "The strategy director adds structured feedback and clarifies the two perspectives the panel needs.",
+        "items": [
+          {
+            "label": "Portfolio context",
+            "detail": "Panel focus added",
+            "status": "ready"
+          },
+          {
+            "label": "Panel scorecard",
+            "detail": "Evidence recorded",
+            "status": "ready"
+          },
+          {
+            "label": "Candidate next step",
+            "detail": "Question answered",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Dapo, strategy director",
+          "text": "Explain your research choices and how you presented the recommendation. I have recorded feedback against the strategy criteria."
+        },
+        "outcome": "Role criteria and panel feedback stay connected."
+      },
+      {
+        "label": "Coordinate",
+        "activity": "Recruiter records the agreed next step",
+        "heading": "A person owns what happens next",
+        "body": "The recruiter confirms the brief so the next conversation does not start from separate assumptions.",
+        "items": [
+          {
+            "label": "Portfolio context",
+            "detail": "Context agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Panel scorecard",
+            "detail": "Feedback available",
+            "status": "ready"
+          },
+          {
+            "label": "Candidate next step",
+            "detail": "Brief confirmed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Lola, recruiter",
+          "text": "The panel will cover research and recommendation. Your preparation note now reflects both perspectives."
+        },
+        "outcome": "Next step recorded. The hiring decision remains human."
+      }
+    ],
+    "manual": {
+      "title": "A hiring conversation in separate places",
+      "items": [
+        "Portfolio link in email",
+        "Creative feedback in chat",
+        "Client context in separate notes",
+        "Candidate receives a vague brief"
+      ],
+      "outcome": "The recruiter has to reconstruct the next step."
+    }
+  },
+  {
+    "slug": "ai",
+    "product": "Hirebrew Grow",
+    "mode": "goals",
+    "title": "An applied engineer's first month, made discussable.",
+    "intro": "Follow a new engineer and manager turning broad expectations into an agreed learning conversation.",
+    "record": "Applied engineer first-month goals",
+    "person": {
+      "initials": "CE",
+      "name": "Chika Eze",
+      "role": "Applied AI engineer"
+    },
+    "prompt": "What support does Chika need for the first-month goals?",
+    "sources": [
+      "Role expectations",
+      "Development goals",
+      "Check-in notes"
+    ],
+    "frames": [
+      {
+        "label": "Set goals",
+        "activity": "Employee opens the development plan",
+        "heading": "Start with expectations people can discuss",
+        "body": "The manager records learning expectations and an early check-in, without inventing delivery targets.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Manager drafting",
+            "status": "active"
+          },
+          {
+            "label": "Learning need",
+            "detail": "Not yet recorded",
+            "status": "pending"
+          },
+          {
+            "label": "Check-in action",
+            "detail": "Initial outline",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Nana, engineering manager",
+          "text": "Let's start by understanding the team's evaluation approach and how decisions are reviewed."
+        },
+        "outcome": "The role has a shared starting point."
+      },
+      {
+        "label": "Add context",
+        "activity": "Employee records a learning need",
+        "heading": "Progress needs context, not assumptions",
+        "body": "Chika adds a specific learning need rather than being judged from an assumed performance signal.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Shared with Chika",
+            "status": "ready"
+          },
+          {
+            "label": "Learning need",
+            "detail": "Walkthrough requested",
+            "status": "active"
+          },
+          {
+            "label": "Check-in action",
+            "detail": "Employee adds context",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Chika Eze",
+          "text": "I would like a walkthrough of how the team documents evaluation decisions."
+        },
+        "outcome": "The employee adds their own perspective."
+      },
+      {
+        "label": "Discuss",
+        "activity": "Manager prepares the check-in",
+        "heading": "Turn the update into a conversation",
+        "body": "The manager brings that request into the check-in and proposes an introduction to the relevant colleague.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Discussed together",
+            "status": "ready"
+          },
+          {
+            "label": "Learning need",
+            "detail": "Owner identified",
+            "status": "ready"
+          },
+          {
+            "label": "Check-in action",
+            "detail": "Manager preparing",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Nana, engineering manager",
+          "text": "We can arrange a walkthrough with our evaluation lead and use the next check-in to discuss your questions."
+        },
+        "outcome": "The check-in focuses on support and learning."
+      },
+      {
+        "label": "Agree",
+        "activity": "Manager and employee record an action",
+        "heading": "Leave with a useful next step",
+        "body": "Chika and the manager record the learning conversation and agree who will follow up.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Agreed context",
+            "status": "ready"
+          },
+          {
+            "label": "Learning need",
+            "detail": "Learning action agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Check-in action",
+            "detail": "Follow-up recorded",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Chika Eze",
+          "text": "The walkthrough will help. I have added the questions I want to discuss at our next check-in."
+        },
+        "outcome": "Development action agreed. A person owns the follow-through."
+      }
+    ],
+    "manual": {
+      "title": "Development left between documents",
+      "items": [
+        "Expectations in a role document",
+        "Questions in a private chat",
+        "Learning ideas in notes",
+        "Check-in starts without context"
+      ],
+      "outcome": "The next conversation starts by rebuilding context."
+    }
+  },
+  {
+    "slug": "bpo",
+    "product": "Hirebrew Onboard",
+    "mode": "checklist",
+    "title": "A cohort welcome with individual ownership.",
+    "intro": "Follow one customer support starter within a sample cohort, so shared preparation still leaves room for personal questions.",
+    "record": "Customer support cohort welcome",
+    "person": {
+      "initials": "MS",
+      "name": "Maryam Sani",
+      "role": "New customer support associate"
+    },
+    "prompt": "What still needs an owner for Maryam's welcome?",
+    "sources": [
+      "Customer support cohort welcome",
+      "Welcome checklist",
+      "Manager check-in"
+    ],
+    "frames": [
+      {
+        "label": "Prepare",
+        "activity": "HR opens the welcome plan",
+        "heading": "A start date becomes a shared plan",
+        "body": "The coordinator starts a common welcome plan while keeping Maryam's own questions and tasks visible.",
+        "items": [
+          {
+            "label": "Cohort introduction",
+            "detail": "Coordinator preparing",
+            "status": "active"
+          },
+          {
+            "label": "Team contact",
+            "detail": "Not assigned",
+            "status": "pending"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Not arranged",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Titi, onboarding coordinator",
+          "text": "This sample cohort shares an introduction plan. Chinedu, please confirm Maryam's team welcome and first check-in."
+        },
+        "outcome": "The welcome begins with named responsibilities."
+      },
+      {
+        "label": "Assign",
+        "activity": "Manager confirms task owners",
+        "heading": "Every task has a person behind it",
+        "body": "The coordinator and team lead divide the introductions and employee-support explanation.",
+        "items": [
+          {
+            "label": "Cohort introduction",
+            "detail": "Titi confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Team contact",
+            "detail": "Chinedu confirmed",
+            "status": "active"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Manager nominated",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Chinedu, team lead",
+          "text": "I own the team introduction. Titi will explain the employee request process."
+        },
+        "outcome": "The handoff is visible to everyone involved."
+      },
+      {
+        "label": "Respond",
+        "activity": "New colleague adds their question",
+        "heading": "The welcome is a conversation",
+        "body": "Maryam asks whom to contact if she needs help understanding the first-week plan.",
+        "items": [
+          {
+            "label": "Cohort introduction",
+            "detail": "Details shared",
+            "status": "ready"
+          },
+          {
+            "label": "Team contact",
+            "detail": "Question received",
+            "status": "ready"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Questions added",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Maryam Sani",
+          "text": "If I need to clarify the welcome schedule, should I contact my team lead?"
+        },
+        "outcome": "A practical question reaches its responsible owner."
+      },
+      {
+        "label": "Confirm",
+        "activity": "Manager records the next step",
+        "heading": "The first week has a clear shape",
+        "body": "The team lead confirms the contact and first check-in without implying rostering or workforce scheduling.",
+        "items": [
+          {
+            "label": "Cohort introduction",
+            "detail": "Welcome acknowledged",
+            "status": "ready"
+          },
+          {
+            "label": "Team contact",
+            "detail": "Contact clarified",
+            "status": "ready"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Conversation agreed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Chinedu, team lead",
+          "text": "Yes, contact me about your welcome. Our first check-in will cover your questions and learning needs."
+        },
+        "outcome": "Introductions agreed. The first check-in has an owner."
+      }
+    ],
+    "manual": {
+      "title": "A welcome spread across inboxes",
+      "items": [
+        "Cohort names in a workbook",
+        "Welcome message in email",
+        "Individual questions in chat",
+        "Check-in owner not recorded"
+      ],
+      "outcome": "Someone still needs to connect the handoff."
+    }
+  },
+  {
+    "slug": "gaming",
+    "product": "Hirebrew Grow",
+    "mode": "goals",
+    "title": "A studio artist's growth, beyond the portfolio.",
+    "intro": "Watch a game artist and manager turn an early feedback conversation into a practical learning action.",
+    "record": "Game artist development check-in",
+    "person": {
+      "initials": "TM",
+      "name": "Thandi Mokoena",
+      "role": "Game artist"
+    },
+    "prompt": "What does Thandi need to understand the studio's review process?",
+    "sources": [
+      "Role expectations",
+      "Development goals",
+      "Check-in notes"
+    ],
+    "frames": [
+      {
+        "label": "Set goals",
+        "activity": "Employee opens the development plan",
+        "heading": "Start with expectations people can discuss",
+        "body": "The art lead sets role expectations around collaboration and understanding the team's review process.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Art lead preparing",
+            "status": "active"
+          },
+          {
+            "label": "Learning request",
+            "detail": "Not recorded",
+            "status": "pending"
+          },
+          {
+            "label": "Check-in note",
+            "detail": "Initial outline",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Obi, art lead",
+          "text": "Let's use the first check-in to discuss how feedback moves between art and the wider team."
+        },
+        "outcome": "The role has a shared starting point."
+      },
+      {
+        "label": "Add context",
+        "activity": "Employee records a learning need",
+        "heading": "Progress needs context, not assumptions",
+        "body": "Thandi adds a learning question about handoffs without making assumptions about creative quality or output.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Shared for discussion",
+            "status": "ready"
+          },
+          {
+            "label": "Learning request",
+            "detail": "Walkthrough requested",
+            "status": "active"
+          },
+          {
+            "label": "Check-in note",
+            "detail": "Employee adds context",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Thandi Mokoena",
+          "text": "I would like to see how the team records feedback before work moves to the next reviewer."
+        },
+        "outcome": "The employee adds their own perspective."
+      },
+      {
+        "label": "Discuss",
+        "activity": "Manager prepares the check-in",
+        "heading": "Turn the update into a conversation",
+        "body": "The manager proposes a walkthrough with a colleague and records the topic for the next check-in.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Context reviewed",
+            "status": "ready"
+          },
+          {
+            "label": "Learning request",
+            "detail": "Obi owns follow-up",
+            "status": "ready"
+          },
+          {
+            "label": "Check-in note",
+            "detail": "Discussion prepared",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Obi, art lead",
+          "text": "I will arrange a review-process walkthrough. We can discuss what remains unclear at our next conversation."
+        },
+        "outcome": "The check-in focuses on support and learning."
+      },
+      {
+        "label": "Agree",
+        "activity": "Manager and employee record an action",
+        "heading": "Leave with a useful next step",
+        "body": "The agreed action keeps development connected to a person, rather than an automated performance rating.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Expectations agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Learning request",
+            "detail": "Action agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Check-in note",
+            "detail": "Next step recorded",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Thandi Mokoena",
+          "text": "I have noted my questions for the walkthrough. Let's review what I learned at our next check-in."
+        },
+        "outcome": "Development action agreed. A person owns the follow-through."
+      }
+    ],
+    "manual": {
+      "title": "Development left between documents",
+      "items": [
+        "Role expectations in email",
+        "Feedback in private messages",
+        "Learning request in a notebook",
+        "Review context scattered"
+      ],
+      "outcome": "The next conversation starts by rebuilding context."
+    }
+  },
+  {
+    "slug": "it",
+    "product": "Hirebrew Onboard",
+    "mode": "checklist",
+    "title": "A service desk hire, connected from day one.",
+    "intro": "Follow a technical hire's welcome and learning conversations without confusing onboarding tasks with system provisioning.",
+    "record": "Service desk specialist welcome",
+    "person": {
+      "initials": "MD",
+      "name": "Musa Danjuma",
+      "role": "New service desk specialist"
+    },
+    "prompt": "What does Musa need to understand the team handoff?",
+    "sources": [
+      "Service desk specialist welcome",
+      "Welcome checklist",
+      "Manager check-in"
+    ],
+    "frames": [
+      {
+        "label": "Prepare",
+        "activity": "HR opens the welcome plan",
+        "heading": "A start date becomes a shared plan",
+        "body": "HR opens introductions, a role-orientation task and the first manager check-in.",
+        "items": [
+          {
+            "label": "People welcome",
+            "detail": "HR preparing",
+            "status": "active"
+          },
+          {
+            "label": "Delivery introduction",
+            "detail": "Owner needed",
+            "status": "pending"
+          },
+          {
+            "label": "Role check-in",
+            "detail": "Not arranged",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Ada, people coordinator",
+          "text": "Musa's welcome needs a delivery-team introduction and a first-week role conversation."
+        },
+        "outcome": "The welcome begins with named responsibilities."
+      },
+      {
+        "label": "Assign",
+        "activity": "Manager confirms task owners",
+        "heading": "Every task has a person behind it",
+        "body": "The delivery lead owns orientation; HR owns the employee-support introduction.",
+        "items": [
+          {
+            "label": "People welcome",
+            "detail": "Ada confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Delivery introduction",
+            "detail": "Kelechi confirmed",
+            "status": "active"
+          },
+          {
+            "label": "Role check-in",
+            "detail": "Manager nominated",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Kelechi, delivery lead",
+          "text": "I will explain the team's handoff process. Access requests remain in our existing IT workflow."
+        },
+        "outcome": "The handoff is visible to everyone involved."
+      },
+      {
+        "label": "Respond",
+        "activity": "New colleague adds their question",
+        "heading": "The welcome is a conversation",
+        "body": "Musa asks who can explain how the delivery team escalates questions.",
+        "items": [
+          {
+            "label": "People welcome",
+            "detail": "Details shared",
+            "status": "ready"
+          },
+          {
+            "label": "Delivery introduction",
+            "detail": "Coordinator added",
+            "status": "ready"
+          },
+          {
+            "label": "Role check-in",
+            "detail": "Questions captured",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Musa Danjuma",
+          "text": "Who should I meet to understand how the team handles questions that need another specialist?"
+        },
+        "outcome": "A practical question reaches its responsible owner."
+      },
+      {
+        "label": "Confirm",
+        "activity": "Manager records the next step",
+        "heading": "The first week has a clear shape",
+        "body": "The manager adds the relevant introduction and records the early check-in.",
+        "items": [
+          {
+            "label": "People welcome",
+            "detail": "Welcome acknowledged",
+            "status": "ready"
+          },
+          {
+            "label": "Delivery introduction",
+            "detail": "Introduction agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Role check-in",
+            "detail": "Conversation recorded",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Kelechi, delivery lead",
+          "text": "I have added an introduction to our team coordinator. We will discuss your questions in the first check-in."
+        },
+        "outcome": "Introductions agreed. The first check-in has an owner."
+      }
+    ],
+    "manual": {
+      "title": "A welcome spread across inboxes",
+      "items": [
+        "Offer in an inbox",
+        "Technical welcome in chat",
+        "Employee questions elsewhere",
+        "Role conversation not assigned"
+      ],
+      "outcome": "Someone still needs to connect the handoff."
+    }
+  },
+  {
+    "slug": "oil-gas",
+    "product": "Hirebrew People",
+    "mode": "request",
+    "title": "An office employee request, visible across locations.",
+    "intro": "Follow an operations coordinator's letter request between a site office and central HR, without using safety or medical information.",
+    "record": "Employment letter request",
+    "person": {
+      "initials": "TW",
+      "name": "Tamuno Woko",
+      "role": "Office operations coordinator"
+    },
+    "prompt": "What does central HR need to prepare Tamuno's letter?",
+    "sources": [
+      "Employee letter request",
+      "Request details",
+      "Reviewer notes"
+    ],
+    "frames": [
+      {
+        "label": "Request",
+        "activity": "The request owner adds context",
+        "heading": "A clear request starts the handoff",
+        "body": "Tamuno requests an employment confirmation letter from the site office.",
+        "items": [
+          {
+            "label": "Letter purpose",
+            "detail": "Employee supplied",
+            "status": "active"
+          },
+          {
+            "label": "Required details",
+            "detail": "Role and dates",
+            "status": "pending"
+          },
+          {
+            "label": "Preparation owner",
+            "detail": "Awaiting HR",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Tamuno Woko",
+          "text": "Please prepare a letter confirming my role and employment dates for an accommodation application."
+        },
+        "outcome": "The request and its owner are visible."
+      },
+      {
+        "label": "Clarify",
+        "activity": "Reviewer asks for one missing detail",
+        "heading": "Resolve the detail in the record",
+        "body": "Central HR checks whether the letter needs additional information or only the stated facts.",
+        "items": [
+          {
+            "label": "Letter purpose",
+            "detail": "HR reviewing",
+            "status": "ready"
+          },
+          {
+            "label": "Required details",
+            "detail": "Confirmation requested",
+            "status": "active"
+          },
+          {
+            "label": "Preparation owner",
+            "detail": "Funmi reviewing",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Funmi, central HR",
+          "text": "Please confirm that role and employment dates are the only details needed."
+        },
+        "outcome": "The missing information has a named follow-up."
+      },
+      {
+        "label": "Respond",
+        "activity": "The owner supplies the detail",
+        "heading": "The reply reaches the right person",
+        "body": "Tamuno confirms the scope in the same request, rather than starting a new message chain.",
+        "items": [
+          {
+            "label": "Letter purpose",
+            "detail": "Purpose confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Required details",
+            "detail": "Employee confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Preparation owner",
+            "detail": "Ready to prepare",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Tamuno Woko",
+          "text": "Yes, only the role and employment dates are needed. No additional personal information is required."
+        },
+        "outcome": "The reviewer has the context to continue."
+      },
+      {
+        "label": "Record",
+        "activity": "Reviewer records the next action",
+        "heading": "The decision has a visible owner",
+        "body": "HR records the scope and names the person who will prepare the letter for review.",
+        "items": [
+          {
+            "label": "Letter purpose",
+            "detail": "Scope recorded",
+            "status": "ready"
+          },
+          {
+            "label": "Required details",
+            "detail": "Details agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Preparation owner",
+            "detail": "Funmi assigned",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Funmi, central HR",
+          "text": "The scope is recorded. I will prepare the letter through our approved review process."
+        },
+        "outcome": "Request clarified. The preparation owner is visible to the employee."
+      }
+    ],
+    "manual": {
+      "title": "A request passed between inboxes",
+      "items": [
+        "Site request in email",
+        "Central HR asks in chat",
+        "Employee replies to another thread",
+        "Preparation owner remains unclear"
+      ],
+      "outcome": "The requester still needs to chase an update."
+    }
+  },
+  {
+    "slug": "manufacturing",
+    "product": "Hirebrew Hire",
+    "mode": "request",
+    "title": "A plant vacancy with the rationale attached.",
+    "intro": "See a plant manager and HR clarify a maintenance vacancy before the hiring process begins.",
+    "record": "Maintenance technician requisition",
+    "person": {
+      "initials": "EN",
+      "name": "Emeka Nwankwo",
+      "role": "Plant manager"
+    },
+    "prompt": "What needs clarifying before this plant vacancy moves forward?",
+    "sources": [
+      "Plant hiring requisition",
+      "Request details",
+      "Reviewer notes"
+    ],
+    "frames": [
+      {
+        "label": "Request",
+        "activity": "The request owner adds context",
+        "heading": "A clear request starts the handoff",
+        "body": "The plant manager records the location, role and replacement need in a sample requisition.",
+        "items": [
+          {
+            "label": "Plant vacancy",
+            "detail": "Ogun role submitted",
+            "status": "active"
+          },
+          {
+            "label": "Technical panel",
+            "detail": "Owner missing",
+            "status": "pending"
+          },
+          {
+            "label": "Welcome handoff",
+            "detail": "Not assigned",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Emeka Nwankwo",
+          "text": "We need a maintenance technician replacement at the Ogun plant. Please review the role brief."
+        },
+        "outcome": "The request and its owner are visible."
+      },
+      {
+        "label": "Clarify",
+        "activity": "Reviewer asks for one missing detail",
+        "heading": "Resolve the detail in the record",
+        "body": "HR asks who will provide the technical interview evidence and own the welcome.",
+        "items": [
+          {
+            "label": "Plant vacancy",
+            "detail": "HR reviewing",
+            "status": "ready"
+          },
+          {
+            "label": "Technical panel",
+            "detail": "HR requests owner",
+            "status": "active"
+          },
+          {
+            "label": "Welcome handoff",
+            "detail": "HR asks",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Bola, HR partner",
+          "text": "Who will join the technical panel and who owns the administrative welcome?"
+        },
+        "outcome": "The missing information has a named follow-up."
+      },
+      {
+        "label": "Respond",
+        "activity": "The owner supplies the detail",
+        "heading": "The reply reaches the right person",
+        "body": "Emeka names the maintenance supervisor and the site onboarding coordinator.",
+        "items": [
+          {
+            "label": "Plant vacancy",
+            "detail": "Context confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Technical panel",
+            "detail": "Ifeoma nominated",
+            "status": "ready"
+          },
+          {
+            "label": "Welcome handoff",
+            "detail": "Sade nominated",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Emeka Nwankwo",
+          "text": "Ifeoma will join the technical panel. Sade will own the administrative welcome."
+        },
+        "outcome": "The reviewer has the context to continue."
+      },
+      {
+        "label": "Record",
+        "activity": "Reviewer records the next action",
+        "heading": "The decision has a visible owner",
+        "body": "HR records both owners and moves the request to the next agreed approval step.",
+        "items": [
+          {
+            "label": "Plant vacancy",
+            "detail": "Brief recorded",
+            "status": "ready"
+          },
+          {
+            "label": "Technical panel",
+            "detail": "Panel owner named",
+            "status": "ready"
+          },
+          {
+            "label": "Welcome handoff",
+            "detail": "Welcome owner named",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Bola, HR partner",
+          "text": "Owners are recorded. The request can move through the remaining approvals; specialist site clearances stay in their established process."
+        },
+        "outcome": "Panel and welcome owners recorded before recruitment proceeds."
+      }
+    ],
+    "manual": {
+      "title": "A request passed between inboxes",
+      "items": [
+        "Plant vacancy in a workbook",
+        "Technical panel in chat",
+        "Welcome owner in email",
+        "HR reconciles the three lists"
+      ],
+      "outcome": "The requester still needs to chase an update."
+    }
+  },
+  {
+    "slug": "retail",
+    "product": "Hirebrew Onboard",
+    "mode": "checklist",
+    "title": "A familiar welcome at a new branch.",
+    "intro": "Follow a store associate's introduction, role conversation and first check-in across branch management and central HR.",
+    "record": "Lekki branch welcome",
+    "person": {
+      "initials": "AY",
+      "name": "Amina Yusuf",
+      "role": "New store associate"
+    },
+    "prompt": "Who owns Amina's first-week welcome at the branch?",
+    "sources": [
+      "Lekki branch welcome",
+      "Welcome checklist",
+      "Manager check-in"
+    ],
+    "frames": [
+      {
+        "label": "Prepare",
+        "activity": "HR opens the welcome plan",
+        "heading": "A start date becomes a shared plan",
+        "body": "Central HR opens the welcome plan with the branch and role context already attached.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "HR preparing",
+            "status": "active"
+          },
+          {
+            "label": "Branch welcome",
+            "detail": "Owner needed",
+            "status": "pending"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Not arranged",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Tosin, central HR",
+          "text": "Amina joins the Lekki branch. Ebi, please confirm the local introduction and first check-in."
+        },
+        "outcome": "The welcome begins with named responsibilities."
+      },
+      {
+        "label": "Assign",
+        "activity": "Manager confirms task owners",
+        "heading": "Every task has a person behind it",
+        "body": "The branch manager owns the local welcome while HR explains employee support.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "Tosin confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Branch welcome",
+            "detail": "Ebi confirmed",
+            "status": "active"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Manager nominated",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Ebi, branch manager",
+          "text": "I will introduce the branch team. Tosin will share the employee-request guidance."
+        },
+        "outcome": "The handoff is visible to everyone involved."
+      },
+      {
+        "label": "Respond",
+        "activity": "New colleague adds their question",
+        "heading": "The welcome is a conversation",
+        "body": "Amina asks whom to contact with practical questions before arriving.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "Guidance shared",
+            "status": "ready"
+          },
+          {
+            "label": "Branch welcome",
+            "detail": "Contact clarified",
+            "status": "ready"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Questions invited",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Amina Yusuf",
+          "text": "Who should I contact if I have a question about my first-day welcome?"
+        },
+        "outcome": "A practical question reaches its responsible owner."
+      },
+      {
+        "label": "Confirm",
+        "activity": "Manager records the next step",
+        "heading": "The first week has a clear shape",
+        "body": "The branch manager confirms the contact and first-week conversation, without implying shift scheduling.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "Acknowledged by Amina",
+            "status": "ready"
+          },
+          {
+            "label": "Branch welcome",
+            "detail": "Welcome agreed",
+            "status": "ready"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Owner confirmed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Ebi, branch manager",
+          "text": "Please contact me about the welcome. We will review your first-week questions together at our check-in."
+        },
+        "outcome": "Introductions agreed. The first check-in has an owner."
+      }
+    ],
+    "manual": {
+      "title": "A welcome spread across inboxes",
+      "items": [
+        "New starter in an email",
+        "Branch welcome in chat",
+        "People guidance sent separately",
+        "Employee unsure whom to ask"
+      ],
+      "outcome": "Someone still needs to connect the handoff."
+    }
+  },
+  {
+    "slug": "healthcare",
+    "product": "Hirebrew Onboard",
+    "mode": "checklist",
+    "title": "An administrative welcome that respects the boundaries.",
+    "intro": "Follow a hospital administration assistant's introductions and first check-in, with no patient data or clinical clearance in the demo.",
+    "record": "Administration assistant welcome",
+    "person": {
+      "initials": "CO",
+      "name": "Chiamaka Obi",
+      "role": "New administration assistant"
+    },
+    "prompt": "Who owns Chiamaka's administrative welcome?",
+    "sources": [
+      "Administration assistant welcome",
+      "Welcome checklist",
+      "Manager check-in"
+    ],
+    "frames": [
+      {
+        "label": "Prepare",
+        "activity": "HR opens the welcome plan",
+        "heading": "A start date becomes a shared plan",
+        "body": "HR opens a welcome plan focused on introductions, role expectations and employee support.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "HR preparing",
+            "status": "active"
+          },
+          {
+            "label": "Role orientation",
+            "detail": "Owner needed",
+            "status": "pending"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Not arranged",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Yemi, HR coordinator",
+          "text": "Please confirm Chiamaka's administrative introductions and first check-in. This plan does not record clinical authorisation."
+        },
+        "outcome": "The welcome begins with named responsibilities."
+      },
+      {
+        "label": "Assign",
+        "activity": "Manager confirms task owners",
+        "heading": "Every task has a person behind it",
+        "body": "The administration lead owns role orientation while HR explains the employee-request route.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "Yemi confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Role orientation",
+            "detail": "Afi confirmed",
+            "status": "active"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Manager nominated",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Afi, administration lead",
+          "text": "I will explain the administration team's responsibilities. Yemi will cover people-service questions."
+        },
+        "outcome": "The handoff is visible to everyone involved."
+      },
+      {
+        "label": "Respond",
+        "activity": "New colleague adds their question",
+        "heading": "The welcome is a conversation",
+        "body": "Chiamaka asks where to raise a question about the first-week plan.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "Guidance shared",
+            "status": "ready"
+          },
+          {
+            "label": "Role orientation",
+            "detail": "Question captured",
+            "status": "ready"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Topics added",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Chiamaka Obi",
+          "text": "Who should I ask if I need to clarify my role orientation before starting?"
+        },
+        "outcome": "A practical question reaches its responsible owner."
+      },
+      {
+        "label": "Confirm",
+        "activity": "Manager records the next step",
+        "heading": "The first week has a clear shape",
+        "body": "The lead confirms the contact and records the first-week discussion.",
+        "items": [
+          {
+            "label": "People introduction",
+            "detail": "Welcome acknowledged",
+            "status": "ready"
+          },
+          {
+            "label": "Role orientation",
+            "detail": "Contact clarified",
+            "status": "ready"
+          },
+          {
+            "label": "First check-in",
+            "detail": "Conversation agreed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Afi, administration lead",
+          "text": "Please contact me for role orientation. Our first check-in will cover your questions and support needs."
+        },
+        "outcome": "Introductions agreed. The first check-in has an owner."
+      }
+    ],
+    "manual": {
+      "title": "A welcome spread across inboxes",
+      "items": [
+        "Welcome information in email",
+        "Department tasks in notes",
+        "New starter question in chat",
+        "Administrative owner not obvious"
+      ],
+      "outcome": "Someone still needs to connect the handoff."
+    }
+  },
+  {
+    "slug": "construction",
+    "product": "Hirebrew Hire",
+    "mode": "conversation",
+    "title": "Site expertise joins the hiring conversation.",
+    "intro": "Follow a quantity surveyor candidate's question through HR and a project interviewer, with a clear owner for the next step.",
+    "record": "Quantity surveyor interview",
+    "person": {
+      "initials": "IS",
+      "name": "Ibrahim Sani",
+      "role": "Quantity surveyor candidate"
+    },
+    "prompt": "What should Ibrahim prepare for the project interview?",
+    "sources": [
+      "Approved role brief",
+      "Candidate conversation",
+      "Panel scorecards"
+    ],
+    "frames": [
+      {
+        "label": "Open",
+        "activity": "Recruiter opens the candidate record",
+        "heading": "The next step needs an answer",
+        "body": "HR shares the agreed interview focus and invites a practical question from the candidate.",
+        "items": [
+          {
+            "label": "Candidate question",
+            "detail": "Awaiting reply",
+            "status": "active"
+          },
+          {
+            "label": "Project feedback",
+            "detail": "Awaiting lead",
+            "status": "pending"
+          },
+          {
+            "label": "Interview preparation",
+            "detail": "Role focus shared",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Nkem, recruiter",
+          "text": "The conversation will cover your approach to cost coordination. What would help you prepare?"
+        },
+        "outcome": "The question stays beside the hiring record."
+      },
+      {
+        "label": "Reply",
+        "activity": "Candidate replies in the same thread",
+        "heading": "The candidate can answer back",
+        "body": "Ibrahim asks how to demonstrate experience without sharing confidential project records.",
+        "items": [
+          {
+            "label": "Candidate question",
+            "detail": "Example proposed",
+            "status": "ready"
+          },
+          {
+            "label": "Project feedback",
+            "detail": "Lead reviewing",
+            "status": "active"
+          },
+          {
+            "label": "Interview preparation",
+            "detail": "Question captured",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Ibrahim Sani",
+          "text": "Can I use an anonymised example rather than documents from a previous project?"
+        },
+        "outcome": "Both sides can follow the same conversation."
+      },
+      {
+        "label": "Review",
+        "activity": "Interviewer adds structured feedback",
+        "heading": "The panel contributes its evidence",
+        "body": "The project lead confirms the approach and records relevant panel feedback.",
+        "items": [
+          {
+            "label": "Candidate question",
+            "detail": "Guidance received",
+            "status": "ready"
+          },
+          {
+            "label": "Project feedback",
+            "detail": "Scorecard added",
+            "status": "ready"
+          },
+          {
+            "label": "Interview preparation",
+            "detail": "Scope clarified",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Bamidele, project lead",
+          "text": "An anonymised example is suitable. Explain your own contribution and the handoff; no confidential project documents are needed."
+        },
+        "outcome": "Role criteria and panel feedback stay connected."
+      },
+      {
+        "label": "Coordinate",
+        "activity": "Recruiter records the agreed next step",
+        "heading": "A person owns what happens next",
+        "body": "HR records the guidance alongside the candidate conversation, leaving the hiring decision with the panel.",
+        "items": [
+          {
+            "label": "Candidate question",
+            "detail": "Reply acknowledged",
+            "status": "ready"
+          },
+          {
+            "label": "Project feedback",
+            "detail": "Evidence recorded",
+            "status": "ready"
+          },
+          {
+            "label": "Interview preparation",
+            "detail": "Guidance confirmed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Nkem, recruiter",
+          "text": "Confirmed: use an anonymised example. The project lead's preparation guidance is now in your next-step note."
+        },
+        "outcome": "Next step recorded. The hiring decision remains human."
+      }
+    ],
+    "manual": {
+      "title": "A hiring conversation in separate places",
+      "items": [
+        "Role brief in email",
+        "Project feedback in notes",
+        "Candidate question in chat",
+        "HR forwards partial context"
+      ],
+      "outcome": "The recruiter has to reconstruct the next step."
+    }
+  },
+  {
+    "slug": "education",
+    "product": "Hirebrew Grow",
+    "mode": "goals",
+    "title": "A new teacher's first-month support plan.",
+    "intro": "See a department lead and new teacher agree learning support without using student data or inferring classroom performance.",
+    "record": "Teacher first-month check-in",
+    "person": {
+      "initials": "AO",
+      "name": "Abena Osei",
+      "role": "New teacher"
+    },
+    "prompt": "What support would make Abena's first month clearer?",
+    "sources": [
+      "Role expectations",
+      "Development goals",
+      "Check-in notes"
+    ],
+    "frames": [
+      {
+        "label": "Set goals",
+        "activity": "Employee opens the development plan",
+        "heading": "Start with expectations people can discuss",
+        "body": "The department lead starts a conversation about role expectations, collaboration and learning support.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Lead preparing",
+            "status": "active"
+          },
+          {
+            "label": "Learning support",
+            "detail": "Not recorded",
+            "status": "pending"
+          },
+          {
+            "label": "Check-in agenda",
+            "detail": "Initial outline",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Bisi, department lead",
+          "text": "Let's use our first-month check-in to discuss role clarity and the support you need."
+        },
+        "outcome": "The role has a shared starting point."
+      },
+      {
+        "label": "Add context",
+        "activity": "Employee records a learning need",
+        "heading": "Progress needs context, not assumptions",
+        "body": "Abena records a question about departmental planning and the colleague who can explain it.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Shared with Abena",
+            "status": "ready"
+          },
+          {
+            "label": "Learning support",
+            "detail": "Planning introduction requested",
+            "status": "active"
+          },
+          {
+            "label": "Check-in agenda",
+            "detail": "Employee adds questions",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Abena Osei",
+          "text": "I would like an introduction to how our department prepares shared planning materials."
+        },
+        "outcome": "The employee adds their own perspective."
+      },
+      {
+        "label": "Discuss",
+        "activity": "Manager prepares the check-in",
+        "heading": "Turn the update into a conversation",
+        "body": "The lead proposes a planning-process introduction and keeps specialist checks in their existing processes.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Discussed together",
+            "status": "ready"
+          },
+          {
+            "label": "Learning support",
+            "detail": "Coordinator identified",
+            "status": "ready"
+          },
+          {
+            "label": "Check-in agenda",
+            "detail": "Lead preparing",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Bisi, department lead",
+          "text": "I will introduce you to our planning coordinator. We can review your questions at the next check-in."
+        },
+        "outcome": "The check-in focuses on support and learning."
+      },
+      {
+        "label": "Agree",
+        "activity": "Manager and employee record an action",
+        "heading": "Leave with a useful next step",
+        "body": "Abena confirms the learning topic and the lead records the owner of the introduction.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Context agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Learning support",
+            "detail": "Introduction agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Check-in agenda",
+            "detail": "Topics recorded",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Abena Osei",
+          "text": "That would help. I have added my planning questions to the next check-in agenda."
+        },
+        "outcome": "Development action agreed. A person owns the follow-through."
+      }
+    ],
+    "manual": {
+      "title": "Development left between documents",
+      "items": [
+        "Expectations in a handbook",
+        "Planning questions in chat",
+        "Introduction request in email",
+        "Check-in context not connected"
+      ],
+      "outcome": "The next conversation starts by rebuilding context."
+    }
+  },
+  {
+    "slug": "finance",
+    "product": "Hirebrew Hire",
+    "mode": "conversation",
+    "title": "A specialist panel, one visible next step.",
+    "intro": "Follow an operations analyst candidate's interview preparation while keeping regulated checks outside the hiring conversation.",
+    "record": "Operations analyst panel interview",
+    "person": {
+      "initials": "DA",
+      "name": "Damilola Akinyemi",
+      "role": "Operations analyst candidate"
+    },
+    "prompt": "What evidence should Damilola bring to the panel?",
+    "sources": [
+      "Approved role brief",
+      "Candidate conversation",
+      "Panel scorecards"
+    ],
+    "frames": [
+      {
+        "label": "Open",
+        "activity": "Recruiter opens the candidate record",
+        "heading": "The next step needs an answer",
+        "body": "The recruiter records the agreed role criteria and asks the candidate to prepare a relevant example.",
+        "items": [
+          {
+            "label": "Candidate clarification",
+            "detail": "Awaiting reply",
+            "status": "active"
+          },
+          {
+            "label": "Panel evidence",
+            "detail": "Earlier notes pending",
+            "status": "pending"
+          },
+          {
+            "label": "Interview scope",
+            "detail": "Role criteria shared",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Ijeoma, recruiter",
+          "text": "Please prepare an example of improving an operations handoff. Do you need any clarification?"
+        },
+        "outcome": "The question stays beside the hiring record."
+      },
+      {
+        "label": "Reply",
+        "activity": "Candidate replies in the same thread",
+        "heading": "The candidate can answer back",
+        "body": "Damilola asks how to keep the discussion useful without disclosing confidential work.",
+        "items": [
+          {
+            "label": "Candidate clarification",
+            "detail": "Example proposed",
+            "status": "ready"
+          },
+          {
+            "label": "Panel evidence",
+            "detail": "Lead reviewing",
+            "status": "active"
+          },
+          {
+            "label": "Interview scope",
+            "detail": "Question added",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Damilola Akinyemi",
+          "text": "May I use a fictionalised example that explains my method without identifying a client or transaction?"
+        },
+        "outcome": "Both sides can follow the same conversation."
+      },
+      {
+        "label": "Review",
+        "activity": "Interviewer adds structured feedback",
+        "heading": "The panel contributes its evidence",
+        "body": "The operations lead confirms the evidence needed and adds a structured scorecard from the earlier conversation.",
+        "items": [
+          {
+            "label": "Candidate clarification",
+            "detail": "Panel guidance added",
+            "status": "ready"
+          },
+          {
+            "label": "Panel evidence",
+            "detail": "Scorecard recorded",
+            "status": "ready"
+          },
+          {
+            "label": "Interview scope",
+            "detail": "Boundaries clarified",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Kojo, operations lead",
+          "text": "Yes. Focus on your reasoning and your role in the handoff. Do not include client or transaction information."
+        },
+        "outcome": "Role criteria and panel feedback stay connected."
+      },
+      {
+        "label": "Coordinate",
+        "activity": "Recruiter records the agreed next step",
+        "heading": "A person owns what happens next",
+        "body": "The recruiter acknowledges the guidance and records the next conversation, not a regulatory suitability decision.",
+        "items": [
+          {
+            "label": "Candidate clarification",
+            "detail": "Answer acknowledged",
+            "status": "ready"
+          },
+          {
+            "label": "Panel evidence",
+            "detail": "Evidence available",
+            "status": "ready"
+          },
+          {
+            "label": "Interview scope",
+            "detail": "Scope confirmed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Ijeoma, recruiter",
+          "text": "The preparation note is updated. The panel will discuss your method; specialist checks remain in their separate process."
+        },
+        "outcome": "Next step recorded. The hiring decision remains human."
+      }
+    ],
+    "manual": {
+      "title": "A hiring conversation in separate places",
+      "items": [
+        "Role criteria in a file",
+        "Candidate reply in an inbox",
+        "Specialist feedback in notes",
+        "Recruiter reconstructs the scope"
+      ],
+      "outcome": "The recruiter has to reconstruct the next step."
+    }
+  },
+  {
+    "slug": "nonprofit",
+    "product": "Hirebrew Onboard",
+    "mode": "checklist",
+    "title": "A programme officer, welcomed across locations.",
+    "intro": "Follow a distributed team's staff welcome while keeping beneficiary, safeguarding and funding records outside the demonstration.",
+    "record": "Programme officer welcome",
+    "person": {
+      "initials": "FN",
+      "name": "Fatou Ndiaye",
+      "role": "New programme officer"
+    },
+    "prompt": "Who connects Fatou to the country and central teams?",
+    "sources": [
+      "Programme officer welcome",
+      "Welcome checklist",
+      "Manager check-in"
+    ],
+    "frames": [
+      {
+        "label": "Prepare",
+        "activity": "HR opens the welcome plan",
+        "heading": "A start date becomes a shared plan",
+        "body": "The people coordinator starts a welcome plan across the country office and central support team.",
+        "items": [
+          {
+            "label": "Central welcome",
+            "detail": "HR preparing",
+            "status": "active"
+          },
+          {
+            "label": "Country introduction",
+            "detail": "Owner needed",
+            "status": "pending"
+          },
+          {
+            "label": "Early check-in",
+            "detail": "Not arranged",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Ada, people coordinator",
+          "text": "Fatou's welcome needs country-team introductions and a central people-support contact."
+        },
+        "outcome": "The welcome begins with named responsibilities."
+      },
+      {
+        "label": "Assign",
+        "activity": "Manager confirms task owners",
+        "heading": "Every task has a person behind it",
+        "body": "The programme lead owns local introductions; the coordinator owns the central employee-support explanation.",
+        "items": [
+          {
+            "label": "Central welcome",
+            "detail": "Ada confirmed",
+            "status": "ready"
+          },
+          {
+            "label": "Country introduction",
+            "detail": "Aminata confirmed",
+            "status": "active"
+          },
+          {
+            "label": "Early check-in",
+            "detail": "Manager nominated",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Aminata, programme lead",
+          "text": "I will introduce the country team. Ada will explain the route for employee requests."
+        },
+        "outcome": "The handoff is visible to everyone involved."
+      },
+      {
+        "label": "Respond",
+        "activity": "New colleague adds their question",
+        "heading": "The welcome is a conversation",
+        "body": "Fatou asks whom to contact when a first-week question involves both teams.",
+        "items": [
+          {
+            "label": "Central welcome",
+            "detail": "Contact shared",
+            "status": "ready"
+          },
+          {
+            "label": "Country introduction",
+            "detail": "Question clarified",
+            "status": "ready"
+          },
+          {
+            "label": "Early check-in",
+            "detail": "Topics captured",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Fatou Ndiaye",
+          "text": "If a welcome question crosses the country and central teams, who should I ask first?"
+        },
+        "outcome": "A practical question reaches its responsible owner."
+      },
+      {
+        "label": "Confirm",
+        "activity": "Manager records the next step",
+        "heading": "The first week has a clear shape",
+        "body": "The programme lead records the first contact and early check-in without implying field or safeguarding authorisation.",
+        "items": [
+          {
+            "label": "Central welcome",
+            "detail": "Welcome acknowledged",
+            "status": "ready"
+          },
+          {
+            "label": "Country introduction",
+            "detail": "Introduction agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Early check-in",
+            "detail": "Conversation agreed",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Aminata, programme lead",
+          "text": "Start with me and we will involve the right colleague. Our first check-in will cover remaining welcome questions."
+        },
+        "outcome": "Introductions agreed. The first check-in has an owner."
+      }
+    ],
+    "manual": {
+      "title": "A welcome spread across inboxes",
+      "items": [
+        "Country welcome in email",
+        "Central contacts in a document",
+        "Staff questions in chat",
+        "Handoff owner not recorded"
+      ],
+      "outcome": "Someone still needs to connect the handoff."
+    }
+  },
+  {
+    "slug": "technology",
+    "product": "Hirebrew Grow",
+    "mode": "goals",
+    "title": "A product engineer's goals with room for context.",
+    "intro": "Watch an engineer and manager connect role expectations, a learning question and an owned development action.",
+    "record": "Product engineer first-month check-in",
+    "person": {
+      "initials": "TM",
+      "name": "Tariro Moyo",
+      "role": "Product engineer"
+    },
+    "prompt": "What does Tariro need to understand the team's decisions?",
+    "sources": [
+      "Role expectations",
+      "Development goals",
+      "Check-in notes"
+    ],
+    "frames": [
+      {
+        "label": "Set goals",
+        "activity": "Employee opens the development plan",
+        "heading": "Start with expectations people can discuss",
+        "body": "The manager starts with collaboration and learning expectations rather than unagreed delivery commitments.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Manager preparing",
+            "status": "active"
+          },
+          {
+            "label": "Learning question",
+            "detail": "Not recorded",
+            "status": "pending"
+          },
+          {
+            "label": "Development action",
+            "detail": "Initial outline",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Chidi, engineering manager",
+          "text": "Let's focus the first month on understanding the product context and how our team discusses trade-offs."
+        },
+        "outcome": "The role has a shared starting point."
+      },
+      {
+        "label": "Add context",
+        "activity": "Employee records a learning need",
+        "heading": "Progress needs context, not assumptions",
+        "body": "Tariro adds a specific question about how engineering and product share decision context.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Shared with Tariro",
+            "status": "ready"
+          },
+          {
+            "label": "Learning question",
+            "detail": "Decision context requested",
+            "status": "active"
+          },
+          {
+            "label": "Development action",
+            "detail": "Employee adds context",
+            "status": "pending"
+          }
+        ],
+        "message": {
+          "author": "Tariro Moyo",
+          "text": "I would like a walkthrough of how product and engineering record the reasoning behind a decision."
+        },
+        "outcome": "The employee adds their own perspective."
+      },
+      {
+        "label": "Discuss",
+        "activity": "Manager prepares the check-in",
+        "heading": "Turn the update into a conversation",
+        "body": "The manager proposes a joint introduction and brings the question into the check-in agenda.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Discussed together",
+            "status": "ready"
+          },
+          {
+            "label": "Learning question",
+            "detail": "Product lead identified",
+            "status": "ready"
+          },
+          {
+            "label": "Development action",
+            "detail": "Manager preparing",
+            "status": "active"
+          }
+        ],
+        "message": {
+          "author": "Chidi, engineering manager",
+          "text": "I will arrange a conversation with our product lead. We can discuss your remaining questions at the next check-in."
+        },
+        "outcome": "The check-in focuses on support and learning."
+      },
+      {
+        "label": "Agree",
+        "activity": "Manager and employee record an action",
+        "heading": "Leave with a useful next step",
+        "body": "The pair record the learning action and its owner, without suggesting automated assessment or account access.",
+        "items": [
+          {
+            "label": "Role expectations",
+            "detail": "Context agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Learning question",
+            "detail": "Introduction agreed",
+            "status": "ready"
+          },
+          {
+            "label": "Development action",
+            "detail": "Follow-up recorded",
+            "status": "ready"
+          }
+        ],
+        "message": {
+          "author": "Tariro Moyo",
+          "text": "I have added the questions for that conversation. Let's revisit the learning action at our next check-in."
+        },
+        "outcome": "Development action agreed. A person owns the follow-through."
+      }
+    ],
+    "manual": {
+      "title": "Development left between documents",
+      "items": [
+        "Role expectations in email",
+        "Product context in a meeting",
+        "Engineer questions in chat",
+        "Development action not assigned"
+      ],
+      "outcome": "The next conversation starts by rebuilding context."
+    }
+  }
+]

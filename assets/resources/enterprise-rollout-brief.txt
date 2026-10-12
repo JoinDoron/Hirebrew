@@ -1,0 +1,92 @@
+HIREBREW | ROLLOUT BRIEF
+Good people. Great futures.
+
+A proposed rollout framework. Complete and agree it with the relevant owners.
+Version: October 2026
+
+ORGANISATION AND OWNERS
+Organisation: ____________________________________________________________
+Executive sponsor: _______________________________________________________
+HR / workflow owner: _____________________________________________________
+IT / security owner: _____________________________________________________
+Privacy / legal reviewer: ________________________________________________
+Finance / procurement owner: _____________________________________________
+Implementation lead: _____________________________________________________
+
+THE PROBLEM TO SOLVE
+Priority workflow: _______________________________________________________
+Current handoff or process gap: ___________________________________________
+People affected: _________________________________________________________
+Desired outcome: ________________________________________________________
+Why now: _________________________________________________________________
+
+SCOPE
+In-scope modules: ________________________________________________________
+Out-of-scope modules: ____________________________________________________
+Pilot cohort and headcount: ______________________________________________
+Entities and locations: __________________________________________________
+Current systems of record: _______________________________________________
+Proposed integrations: ___________________________________________________
+Device, mobile and connectivity needs: ___________________________________
+Language, local-policy and communication needs: __________________________
+
+PHASE 1: ALIGN
+Work: Map the workflow, stakeholder responsibilities and systems of record.
+Deliverable: Signed-off scope, baseline and success measures.
+Gate: Business owner and implementation lead agree what is being tested.
+Owner: _________________________ Target date: ____________________________
+
+PHASE 2: VALIDATE
+Work: Test the complete workflow with sample data. Verify access, privacy, security, audit, integrations and recovery. Obtain appropriate review for each operating market, including Nigeria where relevant.
+Deliverable: Readiness evidence, issue log and approved data-handling plan.
+Gate: No real people data until required controls, contracts and approvals are in place.
+Owner: _________________________ Target date: ____________________________
+
+PHASE 3: PILOT
+Work: Introduce an approved cohort. Train users, monitor critical journeys and capture feedback. Agree support coverage and an escalation route.
+Deliverable: Adoption evidence, measured outcomes and prioritised issues.
+Gate: Review against the original acceptance criteria before expansion.
+Owner: _________________________ Target date: ____________________________
+
+PHASE 4: EXPAND
+Work: Make an explicit go or no-go decision. Schedule additional teams and workflows only when readiness has been demonstrated.
+Deliverable: Approved expansion plan, owners and ongoing operating cadence.
+Gate: Open risks accepted by accountable owners or resolved before release.
+Owner: _________________________ Target date: ____________________________
+
+SUCCESS MEASURES
+Measure 1: _______________________________________________________________
+Baseline: _____________________ Target: __________________________________
+Method and owner: ________________________________________________________
+
+Measure 2: _______________________________________________________________
+Baseline: _____________________ Target: __________________________________
+Method and owner: ________________________________________________________
+
+Measure 3: _______________________________________________________________
+Baseline: _____________________ Target: __________________________________
+Method and owner: ________________________________________________________
+
+Suggested measures to define, not promised outcomes:
+- Time from candidate stage change to next confirmed action.
+- Interview feedback completed within the agreed window.
+- Onboarding tasks completed by the agreed start date.
+- Employee requests resolved within an internally agreed period.
+- User adoption, unresolved handoffs and data-quality exceptions.
+
+COMMERCIAL SCOPE
+Platform access: _________________________________________________________
+Implementation and training: _____________________________________________
+External provider and messaging costs: ___________________________________
+Support and service commitments: _________________________________________
+Data migration and exit responsibilities: _________________________________
+
+RISKS AND DECISION
+Open risk / mitigation / owner: ___________________________________________
+_________________________________________________________________________
+Decision: GO / CONDITIONAL / NO-GO
+Conditions: ______________________________________________________________
+Approvers and date: ______________________________________________________
+
+IMPORTANT BOUNDARIES
+This framework is not a delivery timeline or contractual commitment. Confirm module availability, integrations and controls against a verified deployment. The website is a product preview. Payroll history does not imply payroll calculation, tax filing or payment execution. AI assistance requires human oversight. Legal and privacy requirements need deployment-specific review by qualified advisers.

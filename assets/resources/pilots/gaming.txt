@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Gaming
+
+WORKFLOW TO EVALUATE
+From first conversation to studio contribution.
+Try a sample technical artist journey that brings creative and engineering perspectives together.
+
+HANDOFFS
+Define | Discipline lead + HR
+Make the capability gap specific
+Create the role request around the work the team needs. Clarify the difference between essential experience and skills the studio can help a new colleague develop.
+
+Interview | Art + engineering panel
+Connect the assessment perspectives
+Explore panel scorecards for craft, technical reasoning and collaboration. Keep the candidate informed through the two-way messaging journey while the team reviews its evidence.
+
+Join | Manager + new hire
+Build a shared first-month map
+Assign introductions and learning tasks, then agree on achievable early goals. Make any specialist setup dependency visible without claiming automatic provisioning.
+
+Develop | Discipline lead + employee
+Keep the person in the picture
+Use check-ins to discuss progress and changing learning needs. Explore development opportunities alongside project work, while production schedules remain in the studio's existing tools.
+
+PILOT SCOPE
+Choose one discipline and one real handoff.
+Use sample records for a hire involving two disciplines. Include a studio team working across locations if that reflects your operating model.
+
+VALIDATION CHECKLIST
+[ ] Interviewers know which evidence they are responsible for.
+[ ] Specialist onboarding dependencies have named owners.
+[ ] The first review includes learning and development, not only output.
+
+BOUNDARIES
+Game production scheduling, asset pipelines, contractor administration and engine integrations are outside the demonstrated people-workflow scope.
+
+AI EVALUATION
+Brew's illustrative drafts can help frame an onboarding conversation. A discipline lead should check relevance and workload, and exclude confidential game assets or unreleased project information.
+Example prompt: Draft first-month check-in topics for a technical artist joining a cross-discipline studio team.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

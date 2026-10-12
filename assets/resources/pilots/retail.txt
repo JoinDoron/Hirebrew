@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Retail
+
+WORKFLOW TO EVALUATE
+From a branch vacancy to the first check-in.
+Test the handoffs around a store associate role with central HR, a branch manager and a sample candidate.
+
+HANDOFFS
+Approve | Branch manager + HR
+Agree the hiring need
+Document the vacancy and agree the role requirements before recruiting. Use the requisition approval flow to make the next decision visible.
+
+Interview | Recruiter + store manager
+Bring local context to selection
+Invite the manager into the interview process and capture structured feedback. Keep candidate questions and replies connected to the hiring journey.
+
+Welcome | Store onboarding owner
+Prepare a consistent first week
+Assign introductions, role orientation and manager check-ins. Make ownership clear before the new colleague arrives at the branch.
+
+Develop | Employee + manager
+Build beyond the first day
+Use goals, learning conversations and employee requests to support the next stage. Review what the new starter needs before repeating the process at another store.
+
+PILOT SCOPE
+Prove the experience with one store group.
+Choose locations with different staffing and access patterns. Walk through hiring and employee support before deciding what should become standard across the network.
+
+VALIDATION CHECKLIST
+[ ] Test candidate and employee journeys on everyday mobile devices.
+[ ] Agree which decisions stay local and which need central HR.
+[ ] Review a first-week task plan with the managers who will use it.
+
+BOUNDARIES
+Shift planning, POS connections, attendance tracking and payroll execution are not included in this preview. Test connectivity and production permissions before rollout.
+
+AI EVALUATION
+An illustrative Brew AI draft can turn approved role expectations into a welcome checklist or first check-in outline. Managers review it for store context and practical language. It does not make staffing or performance decisions.
+Example prompt: Draft a first check-in guide for a new store associate. Ask about role clarity, support and learning needs, without assuming sales results or attendance data.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "grow",
+    "name": "Grow",
+    "metaTitle": "Hirebrew Grow | Goals, feedback and development",
+    "metaDescription": "Connect goals, manager conversations, reviews and learning with Hirebrew Grow. Explore a clearer development rhythm from the first check-in to the next opportunity.",
+    "headline": "Make progress part of everyday work.",
+    "subhead": "Give goals a conversation, feedback a next step and every employee a clearer path to what comes next.",
+    "summary": "Connect goals, feedback and learning around the people doing the work.",
+    "challengeTitle": "A review should not be a year of surprises.",
+    "challenge": "When objectives live in a spreadsheet and feedback lives in someone's memory, development becomes an annual reconstruction. Grow connects the work, the conversation and the next action. Make progress easier to discuss while there is still time to support it.",
+    "priorities": [
+      { "title": "Make expectations discussable", "body": "Give a goal an owner, a meaningful result and a review point. Connect individual work with department priorities so people understand what matters and why." },
+      { "title": "Turn feedback into follow-through", "body": "Use check-ins to surface blockers, recognise progress and agree what happens next. The conversation should lead to support, not another forgotten note." },
+      { "title": "Develop the people you already have", "body": "Connect learning and internal opportunities with the employee journey. Help a manager turn an emerging skill into a real assignment or future role." }
+    ],
+    "workflowTitle": "From a first goal to a stronger next quarter.",
+    "workflowIntro": "A development rhythm small enough to repeat and clear enough for both sides to own.",
+    "steps": [
+      { "label": "Agree", "owner": "Employee + manager", "title": "Define useful progress", "body": "Choose a goal tied to the team's work. Agree the evidence of progress, the support required and when to discuss it again." },
+      { "label": "Discuss", "owner": "Manager", "title": "Make room for the check-in", "body": "Bring the current goal and recent feedback into a focused conversation. Separate a capability gap from a missing resource or unclear instruction." },
+      { "label": "Develop", "owner": "Employee", "title": "Choose the next learning action", "body": "Connect the conversation to a course, practice task or stretch assignment. Name the person who can help and a realistic next review point." },
+      { "label": "Reflect", "owner": "Employee + manager", "title": "Review with context", "body": "Look at agreed goals, feedback and development activity together. Record the next commitment rather than treating a rating as the end of the process." }
+    ],
+    "capabilities": [
+      { "name": "Goals and alignment", "body": "Explore company, department and individual goals with measurable key results. Make the relationship between a person's work and the wider plan visible." },
+      { "name": "Reviews and check-ins", "body": "Bring review cycles, employee reflections and manager conversations into a shared rhythm. Define your approach before configuring a pilot." },
+      { "name": "Feedback and one-to-ones", "body": "Create space for specific feedback throughout the year, especially when teams work across offices or operational sites." },
+      { "name": "Learning and opportunity", "body": "Connect learning with internal opportunities. Explore progression without assuming every valuable next step must be an external hire." }
+    ],
+    "useCases": [
+      { "title": "Make probation a supported beginning", "situation": "A new team member reaches week four without a clear picture of what a good first quarter looks like.", "workflow": "Carry the onboarding plan into an agreed goal, schedule a check-in and identify one learning action before the review.", "outcome": "Both employee and manager have something concrete to discuss before the probation decision." },
+      { "title": "Help a first-time manager coach", "situation": "A strong individual contributor now leads a small team across Lagos and another office.", "workflow": "Use shared goals and one-to-one prompts to discuss priorities, capture feedback and agree individual support.", "outcome": "Coaching becomes a repeatable conversation instead of relying on the manager to invent a process." },
+      { "title": "Build capability before opening a role", "situation": "A department needs a new capability and wants to consider its existing team alongside external recruitment.", "workflow": "Review development interests and learning plans, then discuss a suitable internal opportunity with the employee.", "outcome": "The team can consider an internal growth path with evidence and a named development commitment." }
+    ],
+    "ai": { "title": "A starting point for a better conversation.", "body": "Brew's direction includes clearer drafts and next-step suggestions. For development, use an illustrative rewrite to test whether a goal is specific, understandable and fair. The manager and employee still agree the objective; no automated performance judgement is implied.", "example": "Illustrative prompt: Turn this fictional first-month objective into a clearer goal, and list the questions the manager and employee should agree together." },
+    "pilot": { "title": "Start with one team and one development cycle.", "body": "Choose a manager group with a real need, agree a lightweight review rhythm and assess whether employees understand the next action after each conversation.", "checks": ["Agree goal ownership, review dates and the evidence that counts as progress.", "Validate who can see feedback, review notes and development records.", "Test a complete employee and manager journey with representative sample data."], "boundary": "Grow is represented in the current prototype. Persistence, access controls, notifications and any live AI support must be validated before using sensitive employee review data." },
+    "faqs": [
+      { "q": "Does Grow replace manager judgement?", "a": "No. Goals, reviews and learning provide context for a conversation. Managers remain responsible for fair decisions, and employees need a clear opportunity to contribute, question and respond." },
+      { "q": "Can we use our existing review approach?", "a": "Map your cycle, questions and evidence needs to the pilot workflows. Confirm custom scoring, calibration and integrations rather than assuming availability." },
+      { "q": "Is this a complete learning management system?", "a": "The product includes learning and development experiences. Course standards, external content providers, certification management and mandatory-training rules require separate validation for your organisation." }
+    ],
+    "related": [{ "slug": "onboard", "why": "Carry the first-week plan into meaningful goals and regular support." }, { "slug": "people", "why": "Keep development connected to the wider employee experience." }],
+    "audiences": [{ "slug": "hr-teams", "why": "Give people development a repeatable rhythm across manager groups." }, { "slug": "mid-market", "why": "Keep expectations clear as teams and management layers grow." }],
+    "demo": { "label": "Explore the employee perspective", "href": "index.html?perspective=employee#tour" }
+  },
+  {
+    "slug": "intelligence",
+    "name": "Intelligence",
+    "metaTitle": "Hirebrew Intelligence | Workforce and hiring context",
+    "metaDescription": "Explore Hirebrew's workforce, headcount and hiring views. Connect people questions with clearer context, accountable review and a focused next decision.",
+    "headline": "Give your next people decision context.",
+    "subhead": "Explore workforce, hiring and department views that turn a broad concern into a better question and an accountable next step.",
+    "summary": "Connect workforce questions with the people, roles and evidence behind them.",
+    "challengeTitle": "A dashboard is only useful if it changes the conversation.",
+    "challenge": "Leadership needs more than a number on a slide. An open role or a stretched department needs context: who is included, which period is compared and what comes next. Intelligence explores these connections across Hirebrew's people journey, turning reporting into a focused decision process.",
+    "priorities": [
+      { "title": "Start with the business question", "body": "Filling approved roles, understanding a department or planning headcount? Give the review a specific purpose before choosing a view or interpreting a measure." },
+      { "title": "Know what the number includes", "body": "Check the populations and periods behind a view. In mixed workforces, a contractor deployment and an employee departure should not automatically tell the same story." },
+      { "title": "Leave with a responsible owner", "body": "Turn a finding into a question for the relevant manager or people partner. Name the person checking evidence and owning the next action." }
+    ],
+    "workflowTitle": "A clearer route from question to action.",
+    "workflowIntro": "Use sample views to assess your leadership review process. The sequence matters as much as the visualisation.",
+    "steps": [
+      { "label": "Frame", "owner": "Business leader", "title": "Name the decision", "body": "Define the question, the department or workforce group in scope and the decision deadline. Avoid collecting unrelated metrics because they are available." },
+      { "label": "Explore", "owner": "HR + operations", "title": "Find the relevant context", "body": "Review the workforce, headcount or hiring view that addresses the question. Check the period, population and organisational ownership before drawing a conclusion." },
+      { "label": "Validate", "owner": "Data owner", "title": "Check the explanation", "body": "Compare the apparent finding with its source records and the team's real experience. Record gaps or exceptions that change what the view can support." },
+      { "label": "Act", "owner": "Accountable leader", "title": "Agree the next check", "body": "Choose a proportionate next action, name an owner and set a follow-up point. Keep consequential decisions with people who can assess the wider context." }
+    ],
+    "capabilities": [
+      { "name": "Workforce context", "body": "Explore prototype roster and worker-type views. Consider how employees, contractors, agency workers and service-year placements should appear in your reporting scope." },
+      { "name": "Headcount planning views", "body": "Bring approved roles into a clearer planning conversation. Define how requested roles, approvals and filled positions relate during pilot scoping." },
+      { "name": "Hiring visibility", "body": "Review sample pipeline views alongside requisitions and candidate stages. Identify where a role needs attention without turning incomplete metrics into recruiter verdicts." },
+      { "name": "Department perspectives", "body": "Use department context to structure a management review. Agree definitions, access boundaries and source freshness before operational use." }
+    ],
+    "useCases": [
+      { "title": "Make the headcount review specific", "situation": "Finance and HR enter a planning meeting with different interpretations of approved and open roles.", "workflow": "Agree the role definitions, examine a sample department view and trace the discussion back to requisition ownership.", "outcome": "The meeting can focus on which assumptions need checking and who should resolve them." },
+      { "title": "Understand a multi-site workforce", "situation": "An operation needs to discuss people on site without treating every worker as a direct employee.", "workflow": "Review worker categories and decide who belongs in each planning measure, including contractors and temporary placements where relevant.", "outcome": "The team has a defensible population definition before comparing sites or planning requirements." },
+      { "title": "Find the question behind a hiring delay", "situation": "A department says recruitment is slow, but the blockage may be an approval or an unfinished interview review.", "workflow": "Explore the hiring stages, identify the next responsible owner and verify the actual record behind the delay.", "outcome": "A broad complaint becomes a specific follow-up that HR and the hiring manager can discuss." }
+    ],
+    "ai": { "title": "A summary should invite scrutiny, not end it.", "body": "Brew's intended contribution is to organise approved context into a readable draft and highlight questions for review. It is not a predictive authority, an employee risk score or a substitute for inspecting the underlying evidence.", "example": "Illustrative prompt: Summarise this fictional hiring review, separate confirmed facts from open questions and suggest what the responsible manager should verify." },
+    "pilot": { "title": "Prove one reporting question before widening the scope.", "body": "Choose a recurring leadership decision, identify its source records and compare a sample view with the process your team uses today. Agree what would make the result trustworthy and useful.", "checks": ["Define each measure, population, reporting period and responsible source owner.", "Validate access by role, source freshness and reconciliation with approved records.", "Trace a sample finding through to a reviewed decision and named follow-up."], "boundary": "Current intelligence views use sample or seeded data. Live reporting feeds, refresh schedules, data quality, exports, predictive models and BI integrations are not implied and require separate validation." },
+    "faqs": [
+      { "q": "Are these live operational dashboards?", "a": "The current product and website demonstrate reporting concepts using sample or seeded data. Operational feeds, refresh timing and source reconciliation must be validated for a pilot." },
+      { "q": "Can Intelligence forecast attrition or hiring outcomes?", "a": "Do not treat illustrative scores or sample views as validated forecasts. Predictive use would need its own evidence, data controls, suitability assessment and accountable human review." },
+      { "q": "Can we connect existing HR or finance data?", "a": "Specify the systems, fields and update needs. Integration foundations are not evidence of a live connection; validate the exact flow in your pilot." }
+    ],
+    "related": [{ "slug": "hire", "why": "Connect a hiring question with requisitions, candidate stages and interview ownership." }, { "slug": "people", "why": "Ground workforce discussions in the employee context behind the view." }],
+    "audiences": [{ "slug": "finance-teams", "why": "Bring headcount assumptions and hiring context into planning conversations." }, { "slug": "enterprise", "why": "Define reporting boundaries and accountable ownership across departments." }],
+    "demo": { "label": "Explore the Intelligence overview", "href": "index.html?product=intelligence#platform" }
+  },
+  {
+    "slug": "brew-ai",
+    "name": "Brew AI",
+    "metaTitle": "Brew AI by Hirebrew | A head start, not a handover",
+    "metaDescription": "Explore Brew AI's illustrative drafts for candidate messages, interview summaries and welcome plans. Review and edit every example while keeping people accountable.",
+    "headline": "A head start. Never a handover.",
+    "subhead": "Explore a more thoughtful first draft for people work, with room to question, edit and decide before anything moves.",
+    "summary": "Drafts and summaries designed to support the people making the decisions.",
+    "challengeTitle": "The blank page should not take your best energy.",
+    "challenge": "A candidate deserves a considered reply. A new joiner needs a welcoming plan. A panel needs its notes organised without losing the nuance. Brew explores how an assistant can prepare a useful first draft while the person closest to the situation remains responsible for it.",
+    "priorities": [
+      { "title": "Start with useful context", "body": "Work from an approved role brief, fictional panel notes or a sample onboarding checklist. Give the draft a purpose without an unrestricted stream of personal information." },
+      { "title": "Make review visible", "body": "Read the suggestion, question the assumptions and change the language. The website's editable examples make that review step tangible." },
+      { "title": "Keep the decision human", "body": "A summary can organise evidence, not appoint itself the hiring manager. Keep consequential employment decisions with people who understand the context." }
+    ],
+    "workflowTitle": "An assistant's draft. Your considered next step.",
+    "workflowIntro": "Try the intended review pattern through scripted illustrations, not output from a connected AI model.",
+    "steps": [
+      { "label": "Choose", "owner": "HR or manager", "title": "Pick a bounded task", "body": "Choose a candidate message, interview-note summary or first-week plan. Define the audience and intended outcome." },
+      { "label": "Read", "owner": "Reviewer", "title": "Inspect the suggestion", "body": "Check names, role details, tone and facts. Treat missing information as a question to resolve, not permission to invent." },
+      { "label": "Edit", "owner": "Reviewer", "title": "Make the draft yours", "body": "Change the example's wording. Remove unsupported claims, add appropriate context and keep sensitive information out of this public preview." },
+      { "label": "Decide", "owner": "Accountable person", "title": "Choose what happens next", "body": "Save the revision locally. No message or hiring action is triggered. Live workflows require separately validated permissions and approval controls." }
+    ],
+    "capabilities": [
+      { "name": "Candidate-message examples", "body": "Explore a sample interview invitation. Review the tone, details and opportunity to reply before considering a real message." },
+      { "name": "Interview-summary examples", "body": "Read a summary separating positive evidence from an open question. Support a follow-up conversation without presenting a hiring recommendation." },
+      { "name": "Welcome-plan examples", "body": "Start with introductions, context, a learning goal and a check-in. Adjust the sample plan to the role and working environment." },
+      { "name": "An editable review experience", "body": "Edit the draft and save it for this preview session. This demonstrates human review, not a production approval record or audit trail." }
+    ],
+    "useCases": [
+      { "title": "Write a more considerate candidate follow-up", "situation": "A recruiter needs a clear next-step message but does not want a cold, generic invitation.", "workflow": "Try the sample invitation, confirm the requested action and edit the tone so the candidate knows how to respond.", "outcome": "The reviewer has a considered draft ready for the appropriate communication process, without anything being sent by this preview." },
+      { "title": "Keep an interview summary honest", "situation": "A panel has useful observations and one important area it has not yet tested.", "workflow": "Explore a summary that distinguishes the evidence from the gap, then edit it before discussing a follow-up with the hiring team.", "outcome": "The open question remains visible rather than being turned into an unsupported judgement about the candidate." },
+      { "title": "Give the first week a human rhythm", "situation": "A manager wants a new colleague to meet the right people and start learning without an overwhelming checklist.", "workflow": "Review the sample welcome plan, adapt its sequence to the role and identify the manager's check-in point.", "outcome": "The manager has a starting structure to discuss with the new joiner and people team." }
+    ],
+    "ai": { "title": "Optimistic about assistance. Clear about its limits.", "body": "The design principle is simple: suggestions should be understandable, editable and proportionate to the task. Before any live AI pilot, agree the provider, allowed inputs, data handling, review responsibilities and evaluation criteria. Do not use the public preview for candidate or employee personal information.", "example": "Example evaluation question: Does this fictional draft preserve the source facts, surface uncertainty and leave the consequential decision with the responsible person?" },
+    "pilot": { "title": "Prove a low-risk drafting task first.", "body": "Start with approved, non-personal sample inputs and a named reviewer. Evaluate whether the result is accurate, appropriate and useful before considering broader access or a live action.", "checks": ["Agree permitted inputs, provider settings, retention expectations and reviewer responsibilities.", "Test factual accuracy, tone and handling of missing information with representative examples.", "Validate access controls and ensure consequential actions cannot bypass the required human review."], "boundary": "Brew examples on this website are scripted and run locally. No live model, autonomous decision, message delivery, production approval enforcement or enterprise data access is represented as deployed." },
+    "faqs": [
+      { "q": "Is Brew generating live AI responses here?", "a": "No. The three website examples use prepared text that you can review and edit locally. They demonstrate the intended interaction, not a connected model or live service." },
+      { "q": "Does saving a draft send it or update employee records?", "a": "No. Saving only changes the current preview session. It does not send an email, contact a candidate, update the product database or create a production audit record." },
+      { "q": "What would a live Brew pilot need?", "a": "An agreed provider and task scope, approved data access, security and retention review, accountable reviewers and measured evaluation. Availability and approval enforcement must be verified before real people data or operational use." }
+    ],
+    "related": [{ "slug": "hire", "why": "Place a reviewed candidate-message draft within a clear hiring process." }, { "slug": "onboard", "why": "Give a welcome-plan draft a manager, a new joiner and a thoughtful next step." }],
+    "audiences": [{ "slug": "hr-teams", "why": "Explore a useful first draft for recurring people communications." }, { "slug": "legal-teams", "why": "Define the review boundaries and evidence needed before a live AI pilot." }],
+    "demo": { "label": "Try the editable Brew examples", "href": "index.html#brew" }
+  }
+]

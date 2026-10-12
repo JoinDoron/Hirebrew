@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Startups
+
+WORKFLOW TO EVALUATE
+From an open role to a confident start.
+Start with the next role you genuinely need. Keep the process small enough for everyone involved to understand and use.
+
+HANDOFFS
+Define | Founder + hiring lead
+Approve a real business need
+Capture the purpose of the role, decision owner and interview criteria before sourcing begins. Avoid changing the brief halfway through selection.
+
+Connect | Recruiter + candidate
+Keep both sides informed
+Follow candidate stages and exchange messages around the next step. Test the experience from the candidate's side, not only the recruiter's.
+
+Decide | Interview panel
+Compare evidence, not memory
+Bring interviewers into the process and collect structured scorecards. Keep the final hiring decision with the people responsible for the role.
+
+Welcome | Manager + new starter
+Carry the context into day one
+Assign first-week tasks and a first-month plan. Make introductions, responsibilities and the first check-in explicit before the new hire starts.
+
+PILOT SCOPE
+Prove the rhythm with one role.
+Use sample candidates to walk through the journey before introducing real applicant data. For teams hiring across African markets, capture location and policy differences explicitly.
+
+VALIDATION CHECKLIST
+[ ] A named owner for every handoff
+[ ] A candidate reply reaches the right person
+[ ] A first-month plan exists before day one
+
+BOUNDARIES
+This preview demonstrates the workflow. Validate data handling, access and any external notifications before a live pilot.
+
+AI EVALUATION
+Explore Brew's illustrative drafting concept for a role brief or welcome plan. Your team supplies the context, checks the content and decides what to use.
+Example prompt: Draft a first-month onboarding outline for our first customer success hire, with a weekly manager check-in.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

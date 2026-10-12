@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Oil & Gas
+
+WORKFLOW TO EVALUATE
+Follow the journey from approval to site support.
+Use a sample operational support role to test coordination between central HR, a manager and the relevant location.
+
+HANDOFFS
+Approve | Operations manager + HR
+Make the local requirement clear
+Create the role request with explicit ownership and selection criteria. Agree on who approves the hire and which stakeholders need to participate in the interview.
+
+Assess | Technical + operational panel
+Bring the right evidence into view
+Explore structured scorecards and a shared candidate stage. Use two-way messages for process questions while any specialist qualification verification remains a separate requirement.
+
+Prepare | HR + manager + site owner
+Map the onboarding responsibilities
+Assign people-related tasks and identify dependencies handled elsewhere. A completed Hirebrew checklist must not be treated as a safety clearance or authorisation to enter an operational area.
+
+Support | Employee + HR
+Keep the route to help clear
+Explore how an employee requests a letter or leave and who follows up. Include local access conditions in testing, then use manager check-ins to discuss the first-month experience.
+
+PILOT SCOPE
+Start with one location and sample records.
+Bring central HR and a local manager into the same evaluation. Test the employee experience on realistic devices and connections.
+
+VALIDATION CHECKLIST
+[ ] Role approvals include the appropriate operational owner.
+[ ] People tasks and specialist clearance responsibilities stay distinct.
+[ ] An employee can identify where a routine request should go.
+
+BOUNDARIES
+Hirebrew does not replace safety management, permit-to-work, credential verification, medical fitness, rotation scheduling or sector compliance systems.
+
+AI EVALUATION
+Explore Brew's illustrative drafting approach for a non-safety onboarding conversation. A manager must review the result; do not use AI-generated text as operational instruction, certification or clearance.
+Example prompt: Draft first-month check-in questions for an office-based operations coordinator, focused on introductions and employee support.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

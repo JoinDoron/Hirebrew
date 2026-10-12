@@ -1,0 +1,90 @@
+HIREBREW | ENTERPRISE EVALUATION CHECKLIST
+Good people. Great futures.
+
+A working document for HR, IT, security, finance, privacy and procurement teams.
+Version: October 2026
+
+PURPOSE
+Use this checklist to decide whether a proposed Hirebrew deployment meets your organisation's needs. It is a list of evidence to request and tests to perform, not a claim that the controls are already implemented or certified. Record a named owner and evidence link for each item.
+
+1. PRODUCT AND OPERATING FIT
+[ ] Document the priority workflow, current pain points and expected users.
+[ ] Identify HR, manager, interviewer, candidate, employee and executive access needs.
+[ ] Agree which entities, locations and operating markets are in scope.
+[ ] Confirm module availability in the proposed deployment.
+[ ] Walk through candidate messaging and candidate replies end to end.
+[ ] Test interviewer invitations, sign-in, attendance and feedback permissions.
+[ ] Test the handoff from offer acceptance to onboarding ownership.
+[ ] Review employee services, leave, letters, learning and performance only where included.
+[ ] Confirm payroll history scope separately from any external payroll engine.
+[ ] Validate mobile access, keyboard navigation and relevant connectivity conditions.
+
+Evidence / owner / decision: ______________________________________________
+
+2. IDENTITY AND PERMISSIONS
+[ ] Identify the production identity provider and user provisioning model.
+[ ] Test MFA, password recovery and any proposed SSO configuration.
+[ ] Verify server-side role enforcement and record-level data isolation.
+[ ] Test denied-access cases across portals, organisations and user roles.
+[ ] Define who can export data, change permissions and approve requests.
+[ ] Test joiner, mover and leaver scenarios, including access revocation.
+
+Evidence / owner / decision: ______________________________________________
+
+3. DATA AND PRIVACY
+[ ] Map personal data, purposes, lawful basis and responsible parties with advisers.
+[ ] Identify hosting region, subprocessors and cross-border data flows.
+[ ] Obtain evidence of encryption in transit, encryption at rest and key management.
+[ ] Agree retention schedules, data minimisation and access review responsibilities.
+[ ] Test export, correction, deletion and relevant data-subject request workflows.
+[ ] Review NDPA/NDPR applicability in Nigeria with qualified advisers.
+[ ] Review requirements for every additional operating market.
+[ ] Agree contractual data-processing responsibilities before real data is introduced.
+
+Evidence / owner / decision: ______________________________________________
+
+4. AUDIT AND OPERATIONS
+[ ] Demonstrate attributable history for sensitive changes and decisions.
+[ ] Confirm audit log access, integrity, retention and export controls.
+[ ] Perform a backup restoration test, not only a backup configuration review.
+[ ] Agree incident handling, notification responsibilities and escalation contacts.
+[ ] Confirm monitoring, failure alerts, environment isolation and release rollback.
+[ ] Establish support terms and service commitments contractually.
+
+Evidence / owner / decision: ______________________________________________
+
+5. AI OVERSIGHT
+[ ] Document which tasks AI may assist and which actions it cannot take.
+[ ] Require a person's review before employment decisions or outbound messages.
+[ ] Confirm model providers, subprocessors, data use and retention.
+[ ] Test source context, factual errors, inappropriate output and failure states.
+[ ] Evaluate output quality and potential bias using relevant local contexts.
+[ ] Define opt-out, escalation and accountability for AI-assisted work.
+
+Evidence / owner / decision: ______________________________________________
+
+6. INTEGRATIONS
+All categories below require scoping and validation. No connection is implied.
+[ ] Email: sender domain, permissions, delivery and retries.
+[ ] Calendar: time zones, invite updates, cancellations and consent.
+[ ] WhatsApp / SMS: opt-in, message approvals, provider costs and callbacks.
+[ ] Payroll / HRIS: system of record, field mapping, reconciliation and exceptions.
+[ ] Test credentials, least-privilege scopes and credential rotation.
+[ ] Test duplicate handling, failure recovery and monitoring.
+[ ] Assign an owner for every integration and data field.
+
+Evidence / owner / decision: ______________________________________________
+
+7. COMMERCIAL AND ROLLOUT REVIEW
+[ ] Separate platform access, implementation, provider usage and support costs.
+[ ] Agree any licensing measure and renewal, exit and export terms.
+[ ] Define the pilot cohort, training plan, review date and escalation route.
+[ ] Record a baseline, target, measurement method and accountable owner.
+[ ] Confirm formal go / no-go gates before live data and before expansion.
+
+Pilot decision: GO / CONDITIONAL / NO-GO
+Open conditions: _________________________________________________________
+Executive sponsor: ____________________  Review date: _____________________
+
+AVAILABILITY NOTE
+The Hirebrew website is a product and buyer-experience preview. Confirm capabilities and controls against a verified deployment. Scripted AI demonstrations are not live AI. Payroll history does not imply payroll calculation, tax filing or payment execution. This document is not a security certification, legal opinion or service commitment.

@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Manufacturing
+
+WORKFLOW TO EVALUATE
+From a site vacancy to a supported starter.
+A proposed pilot for one plant and one job family. Use sample records to test where central and local responsibilities meet.
+
+HANDOFFS
+Request | Plant manager
+Describe the vacancy
+Raise a requisition with the location and role requirements. Route the request through the agreed approval path before HR opens the candidate pipeline.
+
+Select | HR + supervisor
+Compare the evidence
+Coordinate candidate stages, panel participation and structured feedback. Use two-way messaging to resolve candidate questions before the next step.
+
+Prepare | Site onboarding owner
+Assign the first-week tasks
+Make the welcome, introductions and local onboarding responsibilities visible. Keep specialist safety sign-off with the qualified team and its established system.
+
+Support | Manager + employee
+Keep the conversation going
+Explore leave, letters and employee requests alongside development goals. Use early check-ins to identify where a new colleague still needs support.
+
+PILOT SCOPE
+Start with one plant, not your whole operation.
+Walk through a sample vacancy with a supervisor, recruiter and employee representative. Agree what successful ownership looks like before expanding to other sites.
+
+VALIDATION CHECKLIST
+[ ] Test frontline access and mobile usability on the devices people actually use.
+[ ] Confirm who owns every central-to-site onboarding handoff.
+[ ] Compare the sample workflow with existing attendance and safety processes.
+
+BOUNDARIES
+This preview does not provide shift rostering, time-and-attendance, safety certification or payroll execution. Production access controls and integrations require validation.
+
+AI EVALUATION
+Brew AI concepts can help draft a role-specific onboarding outline from approved requirements. A site leader reviews the language, responsibilities and omissions. The website demonstrates illustrative drafting, not live safety guidance or automated decisions.
+Example prompt: Draft a first-week welcome plan for a maintenance technician. Include manager introductions and learning discussions. Leave safety authorisation to the site's approved process.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

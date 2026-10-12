@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Education
+
+WORKFLOW TO EVALUATE
+From a department vacancy to the new term.
+Test one teaching or administrative role with an HR owner, department lead and sample candidate.
+
+HANDOFFS
+Agree | Department lead + HR
+Define the role
+Capture the hiring need and approval path. Agree what the interview panel should assess before inviting candidates into the process.
+
+Interview | Selection panel
+Build a shared view of evidence
+Coordinate panel participation and structured feedback. Let the candidate ask questions and receive replies through the demonstrated conversation flow.
+
+Orient | Department onboarding owner
+Make the welcome usable
+Assign introductions, role orientation and a first-week check-in. Keep specialist checks separate and confirm their responsible owners in your wider process.
+
+Develop | Employee + manager
+Plan the early conversation
+Explore goals, learning needs and 30/60/90-day check-ins. Give new staff a route for requests while discussing the support they need to settle in.
+
+PILOT SCOPE
+Use one department as your starting point.
+Choose a sample role and walk through its journey with the people responsible for recruitment and staff support. Plan around your institution's actual calendar, devices and access conditions.
+
+VALIDATION CHECKLIST
+[ ] Align the hiring and onboarding owners before the next intake of staff.
+[ ] Separate workforce information from student and safeguarding records.
+[ ] Test a development conversation with both teaching and support staff.
+
+BOUNDARIES
+Student information, timetabling, safeguarding checks and professional credential verification are outside this preview. Production data controls and required integrations must be validated.
+
+AI EVALUATION
+Brew AI concepts can help draft onboarding and check-in outlines from approved role expectations. A department lead reviews the result for context and suitability. The website's illustrative drafts do not assess teaching quality or make hiring decisions.
+Example prompt: Draft a 30-day check-in agenda for a new teacher. Focus on role clarity, collaboration and development support. Do not include student data or infer classroom performance.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

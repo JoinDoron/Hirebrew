@@ -1,0 +1,70 @@
+HIREBREW INTELLIGENCE | PRODUCT PILOT BRIEF
+
+Give your next people decision context.
+Explore workforce, hiring and department views that turn a broad concern into a better question and an accountable next step.
+
+CAPABILITIES TO EXPLORE
+Workforce context
+Explore prototype roster and worker-type views. Consider how employees, contractors, agency workers and service-year placements should appear in your reporting scope.
+
+Headcount planning views
+Bring approved roles into a clearer planning conversation. Define how requested roles, approvals and filled positions relate during pilot scoping.
+
+Hiring visibility
+Review sample pipeline views alongside requisitions and candidate stages. Identify where a role needs attention without turning incomplete metrics into recruiter verdicts.
+
+Department perspectives
+Use department context to structure a management review. Agree definitions, access boundaries and source freshness before operational use.
+
+PRACTICAL USE CASES
+Make the headcount review specific
+Situation: Finance and HR enter a planning meeting with different interpretations of approved and open roles.
+Workflow: Agree the role definitions, examine a sample department view and trace the discussion back to requisition ownership.
+Intended improvement: The meeting can focus on which assumptions need checking and who should resolve them.
+
+Understand a multi-site workforce
+Situation: An operation needs to discuss people on site without treating every worker as a direct employee.
+Workflow: Review worker categories and decide who belongs in each planning measure, including contractors and temporary placements where relevant.
+Intended improvement: The team has a defensible population definition before comparing sites or planning requirements.
+
+Find the question behind a hiring delay
+Situation: A department says recruitment is slow, but the blockage may be an approval or an unfinished interview review.
+Workflow: Explore the hiring stages, identify the next responsible owner and verify the actual record behind the delay.
+Intended improvement: A broad complaint becomes a specific follow-up that HR and the hiring manager can discuss.
+
+WORKFLOW
+A clearer route from question to action.
+Frame | Business leader
+Name the decision
+Define the question, the department or workforce group in scope and the decision deadline. Avoid collecting unrelated metrics because they are available.
+
+Explore | HR + operations
+Find the relevant context
+Review the workforce, headcount or hiring view that addresses the question. Check the period, population and organisational ownership before drawing a conclusion.
+
+Validate | Data owner
+Check the explanation
+Compare the apparent finding with its source records and the team's real experience. Record gaps or exceptions that change what the view can support.
+
+Act | Accountable leader
+Agree the next check
+Choose a proportionate next action, name an owner and set a follow-up point. Keep consequential decisions with people who can assess the wider context.
+
+PILOT
+Prove one reporting question before widening the scope.
+Choose a recurring leadership decision, identify its source records and compare a sample view with the process your team uses today. Agree what would make the result trustworthy and useful.
+
+EVALUATION CHECKLIST
+[ ] Define each measure, population, reporting period and responsible source owner.
+[ ] Validate access by role, source freshness and reconciliation with approved records.
+[ ] Trace a sample finding through to a reviewed decision and named follow-up.
+
+SCOPE BOUNDARIES
+Current intelligence views use sample or seeded data. Live reporting feeds, refresh schedules, data quality, exports, predictive models and BI integrations are not implied and require separate validation.
+
+AI AND HUMAN REVIEW
+Brew's intended contribution is to organise approved context into a readable draft and highlight questions for review. It is not a predictive authority, an employee risk score or a substitute for inspecting the underlying evidence.
+Example prompt: Illustrative prompt: Summarise this fictional hiring review, separate confirmed facts from open questions and suggest what the responsible manager should verify.
+
+NEXT STEP
+Assign an owner, walk through the workflow with sample data and record the evidence required before a live rollout. This document is not a submitted enquiry, booking or confirmation of production readiness.

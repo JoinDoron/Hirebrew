@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Construction
+
+WORKFLOW TO EVALUATE
+From project need to an owned welcome.
+Walk through a sample quantity surveyor vacancy with HR and one project team before considering a wider site rollout.
+
+HANDOFFS
+Scope | Project lead
+Set out the vacancy
+Describe the role and request the required approval. Align the hiring brief with the project team's needs before moving into candidate selection.
+
+Select | HR + technical interviewer
+Compare relevant experience
+Coordinate candidate stages and interview participation. Use scorecards to capture evidence, then answer candidate questions through the demonstrated messaging flow.
+
+Welcome | Site manager
+Coordinate the people handoff
+Assign introductions, administrative welcome tasks and first-week conversations. Keep mandatory site approvals with the competent teams who own them.
+
+Review | Manager + employee
+Check the first weeks
+Use goals and check-ins to clarify expectations and learning needs. Explore requests and letters as part of the employee's ongoing support experience.
+
+PILOT SCOPE
+Start with one project team.
+Use a sample professional or support role to trace the full hiring handoff. Include a site participant so the evaluation reflects working conditions outside head office.
+
+VALIDATION CHECKLIST
+[ ] Agree the approval route between project leadership and central HR.
+[ ] Test mobile access and realistic connectivity at the selected location.
+[ ] Identify where safety, contractor and site-access processes remain separate.
+
+BOUNDARIES
+Site safety certification, contractor compliance, timesheets, labour rostering and project cost accounting are outside this preview. Live integrations and production permissions require validation.
+
+AI EVALUATION
+Illustrative Brew AI drafts can organise approved role requirements into a manager check-in outline. The project leader reviews the context and removes assumptions. It is not a source of engineering guidance, safety procedures or autonomous staffing decisions.
+Example prompt: Draft an early check-in agenda for a newly hired quantity surveyor. Cover role expectations, introductions and support needs. Do not invent project milestones or safety approvals.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Advertising
+
+WORKFLOW TO EVALUATE
+From a new brief to a confident starter.
+Use a sample account strategist role to test how creative and commercial perspectives come together.
+
+HANDOFFS
+Brief | Team lead + HR
+Agree on the hire you actually need
+Create a role request tied to the team's capability gap. Separate the must-have skills from the experience a new colleague can develop with support.
+
+Review | Creative + strategy + accounts
+Give the panel a common frame
+Explore structured interview scorecards with distinct areas of responsibility. Bring the feedback together for a human decision, rather than treating personal taste as a universal hiring criterion.
+
+Welcome | Manager + new hire
+Make the first week intentional
+Assign onboarding tasks and introductions, then outline a manageable first-month plan. Give the new employee a named person to approach when expectations are unclear.
+
+Grow | Discipline lead + employee
+Turn feedback into development
+Use check-ins and goals to discuss strengths and learning needs. Revisit the plan as responsibilities evolve without turning the people platform into client-project management software.
+
+PILOT SCOPE
+Bring one agency team into the room.
+Choose a permanent hire involving two disciplines. Follow the sample journey from interview feedback to a first-month check-in.
+
+VALIDATION CHECKLIST
+[ ] Each interviewer understands their assessment responsibility.
+[ ] The candidate can ask questions and receive a response.
+[ ] The manager owns a realistic first-month development plan.
+
+BOUNDARIES
+Freelancer administration, client billing, timesheets and campaign delivery are not demonstrated Hirebrew capabilities. Scope employment models separately.
+
+AI EVALUATION
+Explore Brew's illustrative drafting approach for an onboarding plan. A manager should adjust the tone, workload and learning priorities, and keep unreleased campaigns or confidential client material out of prompts.
+Example prompt: Draft a first-week welcome plan for an account strategist joining a Lagos creative agency.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

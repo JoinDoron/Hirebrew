@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Healthcare
+
+WORKFLOW TO EVALUATE
+A considered handoff into a department.
+A sample administrative role is a useful first pilot. It tests the people process without requiring sensitive clinical or patient data.
+
+HANDOFFS
+Define | Department lead + HR
+Agree the role and approval
+Set out the vacancy and role expectations. Confirm the people responsible for approving the requisition before candidates enter the pipeline.
+
+Assess | Interview panel
+Record relevant evidence
+Coordinate the panel and capture structured scorecards. Keep candidate communication two-way so unanswered practical questions are visible before an offer.
+
+Prepare | Onboarding coordinator
+Name the handoff owners
+Assign introductory and administrative tasks. Record who must coordinate with specialist verification teams without suggesting that Hirebrew performs their checks.
+
+Follow through | Manager + employee
+Make early support deliberate
+Use check-ins and development goals to discuss role clarity and learning needs. Explore a sample employee request to test the ongoing support route.
+
+PILOT SCOPE
+Begin with a low-risk workforce scenario.
+Bring HR, a departmental representative and your privacy owner into a sample-data walkthrough. Agree the boundary between people administration and specialist clinical responsibilities.
+
+VALIDATION CHECKLIST
+[ ] Use fictional workforce records and no patient information.
+[ ] Map professional checks to the qualified teams and systems that own them.
+[ ] Review access, data handling and production requirements before any live-data trial.
+
+BOUNDARIES
+The preview does not provide patient records, clinical rostering, credential verification or health-information compliance certification. Production security and integrations require validation.
+
+AI EVALUATION
+Brew AI's illustrative drafting can help organise an administrative onboarding outline using approved role information. A responsible manager reviews every suggestion. Do not include patient details, medical information or professional verification records in the website demo.
+Example prompt: Draft a welcome checklist for a hospital administration assistant. Include introductions and an early manager check-in. Exclude patient data, clinical guidance and credential decisions.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

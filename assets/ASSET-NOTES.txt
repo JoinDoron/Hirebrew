@@ -1,0 +1,38 @@
+HIREBREW / HANDOFF
+Working primary identity, refined 12 October 2026.
+
+brand/: Handoff vector logo and offset-band patterns. The symbol connects
+two folded bands through an open negative-space channel. Its standard
+120 x 120 SVG canvas centres the wide form. Wordmarks use bold outlined
+Bricolage Grotesque glyphs with optical spacing under the SIL Open Font
+Licence; this is not a custom typeface. SVGs do not need fonts installed
+to display. Primary, monochrome, reversed and stacked lockups are supplied,
+alongside symbol variants and a dedicated monochrome favicon.
+Matching PNG exports are supplied for slides and documents. Lockups are
+1600 px wide; symbol and favicon exports are 512 px. Use SVG on the web.
+The direction was selected from an AI-generated comparison board, then
+refined as vector artwork. The concept board is not a production logo.
+Trademark and brand-name clearance have not been performed.
+
+Keep clear space of at least one quarter of the visible symbol height around
+the mark and wordmark. Standard minimum sizes: symbol 24 px, full lockup
+120 px and dedicated favicon 16 px. The 22 px mark is reserved for incidental
+product-demo branding. Keep both bands and the open channel in proportion.
+
+fonts/: Bricolage Grotesque and DM Sans from official Google Fonts sources.
+Their SIL Open Font Licence files are included. Localisation needs glyph
+testing; do not assume comprehensive coverage of African-language scripts.
+
+future-form.webp: Optimised original AI-generated brand artwork, not a product
+screenshot or customer photograph. The full source PNG and exact generation
+prompt are supplied with the website in assets/future-form.png and the
+Asset provenance section of design-notes.html respectively.
+
+brand-tokens.json: Colour, typography, spacing, motion and accessibility
+guidance. Coral action surfaces use dark ink text for contrast.
+
+No paid Craftwork resource is included. Craftwork design guidance informed
+the work; public catalog metadata was consulted without acquiring asset files.
+
+This is an identity direction, not a certification of trademark clearance,
+production readiness, legal compliance or third-party integration availability.

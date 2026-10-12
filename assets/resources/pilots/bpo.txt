@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+BPO
+
+WORKFLOW TO EVALUATE
+One sample cohort. Every handoff in view.
+Choose a small customer-support cohort and follow its journey through the first manager check-in.
+
+HANDOFFS
+Request | Operations lead + HR
+Agree on the requirement
+Describe the roles, approver and interview criteria before recruiting begins. Use a sample requisition to check whether the operational need is understood by the hiring team.
+
+Select | Recruiters + interviewers
+Keep selection and communication together
+Explore candidate stages, panel feedback and two-way messages. Name the person responsible for responding when a candidate asks about the next step.
+
+Prepare | Team lead + new starters
+Assign the first-week essentials
+Map onboarding tasks and learning responsibilities for each sample new hire. Review what must happen outside Hirebrew, including specialist access or operational readiness checks.
+
+Support | Employee + HR + manager
+Keep ownership after the cohort joins
+Follow a leave or letter request into the employee-service journey. Use an early check-in to identify learning needs rather than treating onboarding completion as the end.
+
+PILOT SCOPE
+Test a small cohort before testing volume.
+Include recruiters, a team lead and sample employee users. Observe the experience on the devices and connections people expect to use.
+
+VALIDATION CHECKLIST
+[ ] Candidate questions reach an accountable responder.
+[ ] Every first-week task has a clear owner.
+[ ] A routine employee request reaches the appropriate team.
+
+BOUNDARIES
+High-volume performance, bulk onboarding, shift rostering, attendance and contact-centre integrations are not demonstrated in this preview.
+
+AI EVALUATION
+Explore Brew's illustrative drafting approach for first-week guidance. A team lead should check the instructions, local context and learning sequence before sharing anything with a cohort.
+Example prompt: Draft a first-week check-in agenda for a new customer-support team using sample onboarding tasks.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

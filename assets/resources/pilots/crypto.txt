@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Crypto
+
+WORKFLOW TO EVALUATE
+From specialist search to a shared first month.
+Try the journey with a sample protocol engineering role and a small interview panel.
+
+HANDOFFS
+Align | Hiring manager + HR
+Define what the role must deliver
+Create the hiring request around the team's actual need. Agree on the approver, interview criteria and who can make the final selection before candidates enter the pipeline.
+
+Evaluate | Technical + business panel
+Bring different perspectives together
+Collect structured feedback from the people assessing engineering depth, collaboration and operational judgement. Review evidence against the same role requirements without turning one score into an automatic decision.
+
+Connect | Recruiter + candidate
+Keep the conversation open
+Use the candidate messaging journey to explain the next step and receive questions. Agree on local working hours for an African and internationally distributed team.
+
+Welcome | Manager + new hire
+Turn selection into a useful start
+Explore onboarding tasks and a 30/60/90-day plan. Name the person responsible for each handoff, while access provisioning remains with your existing technology owners.
+
+PILOT SCOPE
+Start with one specialist hiring journey.
+Use sample candidates and a panel spanning two functions. Evaluate whether the decision context survives every handoff.
+
+VALIDATION CHECKLIST
+[ ] Every interview criterion has an accountable reviewer.
+[ ] Candidate questions have a named response owner.
+[ ] The first-month plan reflects the role that was approved.
+
+BOUNDARIES
+This is a people-workflow preview, not crypto payroll, token compensation, wallet infrastructure or a regulatory service.
+
+AI EVALUATION
+Explore Brew's illustrative drafting approach for a specialist role brief. A hiring manager should check technical terminology, requirements and inclusive language before anything is shared.
+Example prompt: Draft interview topics for a protocol engineer, separating essential engineering evidence from ecosystem-specific experience.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

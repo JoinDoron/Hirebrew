@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+AI
+
+WORKFLOW TO EVALUATE
+From an ambitious role to a grounded plan.
+Explore a sample applied AI engineer journey involving engineering, product and the future manager.
+
+HANDOFFS
+Scope | Technical lead + HR
+Name the problem the hire will solve
+Connect the role request to specific team needs. Agree on essential skills and the parts of the job that the employee can learn after joining.
+
+Evaluate | Engineering + product panel
+Bring complementary evidence together
+Use scorecards to capture technical judgement, collaboration and practical problem-solving. Keep candidate communication open while the panel resolves differing views.
+
+Onboard | Manager + new hire
+Set up the first learning loop
+Explore first-week tasks and a 30/60/90-day plan. Assign introductions and learning responsibilities while infrastructure and repository permissions stay with their existing owners.
+
+Develop | Manager + employee
+Revisit goals as the work changes
+Use check-ins and development conversations to discuss progress and emerging skill needs. Keep the employee's growth visible alongside a changing product or research roadmap.
+
+PILOT SCOPE
+Evaluate the people workflow like a product.
+Choose one specialist role and a sample-data journey. Inspect the handoffs and define acceptance criteria before broadening the pilot.
+
+VALIDATION CHECKLIST
+[ ] The approved role and panel criteria describe the same need.
+[ ] Every hiring decision has an accountable human owner.
+[ ] The onboarding plan turns expectations into named tasks.
+
+BOUNDARIES
+The preview does not provide live AI screening, automated hiring decisions, model evaluation infrastructure or production AI safeguards.
+
+AI EVALUATION
+Brew's website examples are scripted, illustrative drafts, not a connected model or autonomous agent. Use them to discuss permitted data, output quality and human review before scoping any live implementation.
+Example prompt: Draft interview discussion topics for an applied AI engineer, without ranking candidates or inferring personal characteristics.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

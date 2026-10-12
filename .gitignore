@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.pyc
+review/*.png
+review/*.jpg
+review/*.jpeg
+review/*.webp
+review/*.json
+*.log

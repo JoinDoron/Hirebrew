@@ -1,0 +1,70 @@
+HIREBREW HIRE | PRODUCT PILOT BRIEF
+
+A better hire starts between people.
+Connect approvals, candidate conversations and interview evidence, so everyone knows what happens next and who moves it forward.
+
+CAPABILITIES TO EXPLORE
+Requisitions and approvals
+Connect a vacancy to its business need and approval journey, so recruitment starts with a considered brief.
+
+Pipeline and candidate messages
+Explore hiring stages with a two-way conversation, giving recruiters and candidates a clearer place to continue the exchange.
+
+Interview panels and scorecards
+Bring multiple interviewers into the selection journey and gather structured feedback against the role rather than relying on memory.
+
+Assessment dispatch
+Include assessment invitations in the recruitment process and agree how assessment evidence will inform, rather than replace, human judgment.
+
+PRACTICAL USE CASES
+A specialist role with several interviewers
+Situation: An engineering lead, department manager and HR partner assess different aspects of one candidate.
+Workflow: Agree on responsibilities, collect panel scorecards and review unanswered questions before the decision meeting.
+Intended improvement: A decision discussion with identifiable evidence and fewer assumptions about who has already contributed.
+
+Hiring across several locations
+Situation: A recruiter in Lagos coordinates vacancies with managers at other operating sites.
+Workflow: Start each vacancy with an approved request, name a local decision owner and keep candidate replies within the journey.
+Intended improvement: A common process that makes location-specific responsibilities explicit without pretending every site has identical needs.
+
+A candidate who needs clarification
+Situation: An applicant has a question about an upcoming interview and needs an answer before participating.
+Workflow: Use the candidate messaging view to reply, then review the conversation from the recruiter perspective.
+Intended improvement: A candidate experience that includes a response path, not just one-way status updates.
+
+WORKFLOW
+One role. Four connected moments.
+Approve | Hiring manager + approver
+Give the role a clear purpose
+Capture the hiring request and its business rationale. Agree who approves the vacancy and what evidence the panel should collect before candidate selection begins.
+
+Connect | Recruiter + candidate
+Keep the next step visible
+Follow the candidate pipeline and exchange messages. A candidate can ask a question, and the recruiter can respond with context rather than restarting the conversation.
+
+Interview | Interview panel
+Bring the right perspectives together
+Organise interview participation and structured scorecards. Give technical, functional and people interviewers clear responsibilities, then check which feedback is still needed.
+
+Decide | Hiring manager + HR
+Make the judgment together
+Review the evidence, outstanding questions and candidate conversation before deciding. Carry an agreed selection into onboarding with an explicit owner for the next handoff.
+
+PILOT
+Prove one complete hiring journey.
+Use one sample vacancy, two candidates and a small panel. Test the candidate's view as carefully as the recruiter's, including a reply and an incomplete scorecard.
+
+EVALUATION CHECKLIST
+[ ] The hiring request has an explicit approval owner
+[ ] A candidate reply reaches the recruiter view
+[ ] Panel feedback supports a human-led decision
+
+SCOPE BOUNDARIES
+The preview demonstrates workflows. Production sign-in, record permissions, external email or calendar delivery and assessment-provider connections need separate configuration and verification.
+
+AI AND HUMAN REVIEW
+Brew illustrates how a recruiter might prepare a role brief or interview follow-up. Check requirements, tone and accuracy before sharing. It does not rank candidates or make selection decisions in this preview.
+Example prompt: Draft an interview follow-up for a sample operations-manager candidate, explaining the next step without implying an offer.
+
+NEXT STEP
+Assign an owner, walk through the workflow with sample data and record the evidence required before a live rollout. This document is not a submitted enquiry, booking or confirmation of production readiness.

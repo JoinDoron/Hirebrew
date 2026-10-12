@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+IT teams
+
+WORKFLOW TO EVALUATE
+From product walkthrough to deployment evidence.
+Choose a narrow employee journey, then test both the visible experience and the controls that must support it in a real deployment.
+
+HANDOFFS
+Inspect | IT + process owners
+Walk every participating role
+Follow a recruiter, candidate, interviewer and manager through the same sample journey. Capture the minimum information and actions each participant actually requires.
+
+Design | Identity + security owners
+Define access before live use
+Specify identity provider, MFA, SSO and permission expectations. Include denied-access tests and account lifecycle requirements rather than checking only successful sign-in.
+
+Connect | Integration owners
+Treat interfaces as individual workstreams
+Agree source systems, provider credentials, field mappings and error ownership. Validate each proposed exchange with sample records before relying on it operationally.
+
+Operate | Delivery + support owners
+Prove recovery and escalation paths
+Establish monitoring, backup and incident tests appropriate to the deployment. Document who responds when a workflow or external delivery fails during the pilot.
+
+PILOT SCOPE
+A narrow scope with meaningful failure tests.
+Include the devices, connectivity and locations your teams actually use. Test a Nigerian branch or field setting where relevant, not only a head-office desktop.
+
+VALIDATION CHECKLIST
+[ ] Denied-access and account lifecycle cases are specified
+[ ] Integration errors have a responsible owner
+[ ] Recovery and monitoring evidence is reviewed
+
+BOUNDARIES
+Production identity, SSO, MFA, strict permissions and operational assurance require implementation and verification; this preview does not establish them.
+
+AI EVALUATION
+Brew's examples are local and illustrative. A live implementation needs provider selection, approved data flows, error handling and human review; none should be inferred from a polished draft.
+Example prompt: Outline an evaluation checklist for a draft-assistance service, covering permitted inputs, review ownership and provider failure.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

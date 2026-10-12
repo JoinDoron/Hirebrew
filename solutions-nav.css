@@ -1,0 +1,38 @@
+/* Reference-led three-column navigation, shared across marketing pages. */
+.enterprise-nav{position:relative}
+.solutions-nav{position:static}
+.solutions-fallback{font-size:13px}
+.solutions-toggle{display:flex;align-items:center;gap:8px;padding:13px 0;font-size:12px;font-weight:500;min-height:44px;white-space:nowrap}
+.solutions-toggle>span{font-size:16px;transition:transform .18s}
+.solutions-toggle[aria-expanded=true]>span{transform:rotate(180deg)}
+.solutions-panel{position:absolute;top:100%;left:0;right:0;z-index:35;display:grid;grid-template-columns:.9fr 1fr 1.35fr;gap:35px;padding:32px 35px 28px;background:var(--paper,#fffefa);border:1px solid var(--line,#d9dcd4);border-radius:0 0 16px 16px;box-shadow:0 22px 40px #17232613;max-height:calc(100svh - 96px);overflow:auto;overscroll-behavior:contain}
+.solutions-panel[hidden]{display:none!important}
+.solutions-group{min-width:0}
+.solutions-group>h2{font:600 11px/1.4 var(--body,'DM Sans',sans-serif);text-transform:uppercase;letter-spacing:.06em;color:#626a62;padding-bottom:19px;border-bottom:1px solid #d9dcd4;margin:0 0 14px}
+.solutions-group ul{list-style:none;margin:0;padding:0;display:grid;gap:13px}
+.solutions-group a{display:block;padding:10px 11px 12px;margin-inline:-11px;border-radius:8px;min-height:44px;transition:background-color .15s}
+.solutions-group a:hover,.solutions-group a:focus-visible,.solutions-group a[aria-current=page]{background:#f0efe7}
+.solutions-group strong{display:block;font:600 23px/1.15 var(--display,Bricolage,sans-serif);letter-spacing:-.035em;color:var(--ink,#172326)}
+.solutions-description{display:block;font-size:12px;line-height:1.6;color:#5c6665;margin-top:9px;max-width:270px}
+.solutions-group-compact ul{grid-template-columns:1fr 1fr;gap:3px 18px}
+.solutions-group-compact a{padding-block:9px;min-height:44px}
+.solutions-group-compact strong{font-size:18px}
+.solutions-group-compact .solutions-directory-link{grid-column:1/-1;margin-top:7px}
+.solutions-count{display:inline-flex;vertical-align:middle;align-items:center;justify-content:center;min-width:27px;height:25px;padding:2px 7px;margin-left:10px;background:var(--coral-soft,#ffe0d3);border-radius:30px;font:600 11px/1 var(--body,'DM Sans',sans-serif);letter-spacing:0;color:var(--ink,#172326)}
+.enterprise-page .solutions-toggle{font-size:13px}
+@media(max-width:1000px){.solutions-panel{padding:27px}.solutions-group strong{font-size:21px}.solutions-group-compact strong{font-size:18px}.solutions-description{font-size:11px}.enterprise-links{gap:23px}}
+@media(max-width:800px){
+  .solutions-toggle,.enterprise-page .solutions-toggle{font-size:15px;padding:10px;justify-content:space-between;width:100%}
+  .solutions-panel{position:static;grid-template-columns:1fr;gap:26px;margin:4px 0 13px;padding:20px 12px 24px;border:0;border-radius:10px;box-shadow:none;background:#fffefa;max-height:none;overflow:visible}
+  .solutions-group>h2{font-size:10px;padding-bottom:13px;margin-bottom:9px}
+  .solutions-group ul{gap:5px}.solutions-group a{padding:10px;margin-inline:-4px}
+  .solutions-group strong{font-size:21px}.solutions-description{font-size:12px;margin-top:6px;max-width:none}
+  .solutions-group-compact ul{grid-template-columns:1fr 1fr;gap:4px 14px}.solutions-group-compact strong{font-size:18px}.solutions-group-compact .solutions-directory-link{margin-top:5px}
+  .enterprise-header .enterprise-nav{height:68px}
+  .enterprise-header .enterprise-menu{display:flex;align-items:center;gap:13px;font-size:13px;min-height:44px}
+  .enterprise-header .enterprise-links{display:none;position:absolute;top:67px;left:-20px;right:-20px;padding:20px;background:#f7f5ef;border-bottom:1px solid #d9dcd4;max-height:calc(100svh - 68px);overflow:auto;overscroll-behavior:contain}
+  .enterprise-header .enterprise-links.is-open{display:flex;flex-direction:column;align-items:stretch;gap:5px}
+  .enterprise-header .enterprise-links>a{padding:13px 10px;font-size:15px}
+  .enterprise-header .enterprise-links>.enterprise-button{margin-top:9px;align-self:flex-start;padding:11px 18px;font-size:12px}
+}
+@media(prefers-reduced-motion:reduce){.solutions-toggle>span,.solutions-group a{transition:none}}

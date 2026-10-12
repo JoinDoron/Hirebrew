@@ -1,0 +1,155 @@
+[
+  {
+    "slug": "hire",
+    "name": "Hire",
+    "metaTitle": "Hire | Connected recruitment and candidate conversations | Hirebrew",
+    "metaDescription": "Connect requisition approvals, candidate conversations, interview panels and scorecards. Explore Hirebrew Hire and plan a focused recruitment pilot.",
+    "headline": "A better hire starts between people.",
+    "subhead": "Connect approvals, candidate conversations and interview evidence, so everyone knows what happens next and who moves it forward.",
+    "summary": "Bring the hiring team and candidate into one considered recruitment journey.",
+    "challengeTitle": "The role is open. The handoffs should not be.",
+    "challenge": "A promising candidate can wait while a manager approves the role, an interviewer finds their notes or a recruiter chases a reply. Separate trackers rarely show the whole story. Hire brings the stages of selection into a connected workflow, from the reason for hiring to the evidence behind a decision. The aim is a process people can follow, on both sides of the interview.",
+    "priorities": [
+      { "title": "Start with an agreed role", "body": "Put the business need, approval and hiring ownership before the shortlist. Give the recruiter and panel a shared starting point instead of asking them to reconcile changing expectations later." },
+      { "title": "Make communication two-way", "body": "Candidates need a way to ask, clarify and respond. Keep their conversation alongside the hiring journey so the next action is not hidden in someone else's inbox." },
+      { "title": "Keep decisions grounded in evidence", "body": "Bring interviewers into structured feedback around the role. Review different perspectives together, identify missing input and leave the final decision with the accountable hiring team." }
+    ],
+    "workflowTitle": "One role. Four connected moments.",
+    "workflowIntro": "Follow a sample operations-manager vacancy from approval to decision, with an owner at each step.",
+    "steps": [
+      { "label": "Approve", "owner": "Hiring manager + approver", "title": "Give the role a clear purpose", "body": "Capture the hiring request and its business rationale. Agree who approves the vacancy and what evidence the panel should collect before candidate selection begins." },
+      { "label": "Connect", "owner": "Recruiter + candidate", "title": "Keep the next step visible", "body": "Follow the candidate pipeline and exchange messages. A candidate can ask a question, and the recruiter can respond with context rather than restarting the conversation." },
+      { "label": "Interview", "owner": "Interview panel", "title": "Bring the right perspectives together", "body": "Organise interview participation and structured scorecards. Give technical, functional and people interviewers clear responsibilities, then check which feedback is still needed." },
+      { "label": "Decide", "owner": "Hiring manager + HR", "title": "Make the judgment together", "body": "Review the evidence, outstanding questions and candidate conversation before deciding. Carry an agreed selection into onboarding with an explicit owner for the next handoff." }
+    ],
+    "capabilities": [
+      { "name": "Requisitions and approvals", "body": "Connect a vacancy to its business need and approval journey, so recruitment starts with a considered brief." },
+      { "name": "Pipeline and candidate messages", "body": "Explore hiring stages with a two-way conversation, giving recruiters and candidates a clearer place to continue the exchange." },
+      { "name": "Interview panels and scorecards", "body": "Bring multiple interviewers into the selection journey and gather structured feedback against the role rather than relying on memory." },
+      { "name": "Assessment dispatch", "body": "Include assessment invitations in the recruitment process and agree how assessment evidence will inform, rather than replace, human judgment." }
+    ],
+    "useCases": [
+      { "title": "A specialist role with several interviewers", "situation": "An engineering lead, department manager and HR partner assess different aspects of one candidate.", "workflow": "Agree on responsibilities, collect panel scorecards and review unanswered questions before the decision meeting.", "outcome": "A decision discussion with identifiable evidence and fewer assumptions about who has already contributed." },
+      { "title": "Hiring across several locations", "situation": "A recruiter in Lagos coordinates vacancies with managers at other operating sites.", "workflow": "Start each vacancy with an approved request, name a local decision owner and keep candidate replies within the journey.", "outcome": "A common process that makes location-specific responsibilities explicit without pretending every site has identical needs." },
+      { "title": "A candidate who needs clarification", "situation": "An applicant has a question about an upcoming interview and needs an answer before participating.", "workflow": "Use the candidate messaging view to reply, then review the conversation from the recruiter perspective.", "outcome": "A candidate experience that includes a response path, not just one-way status updates." }
+    ],
+    "ai": { "title": "A helpful draft before the conversation.", "body": "Brew illustrates how a recruiter might prepare a role brief or interview follow-up. Check requirements, tone and accuracy before sharing. It does not rank candidates or make selection decisions in this preview.", "example": "Draft an interview follow-up for a sample operations-manager candidate, explaining the next step without implying an offer." },
+    "pilot": { "title": "Prove one complete hiring journey.", "body": "Use one sample vacancy, two candidates and a small panel. Test the candidate's view as carefully as the recruiter's, including a reply and an incomplete scorecard.", "checks": ["The hiring request has an explicit approval owner", "A candidate reply reaches the recruiter view", "Panel feedback supports a human-led decision"], "boundary": "The preview demonstrates workflows. Production sign-in, record permissions, external email or calendar delivery and assessment-provider connections need separate configuration and verification." },
+    "faqs": [
+      { "q": "Can candidates reply to HR?", "a": "Yes. The local product tour demonstrates a two-way exchange between candidate and HR views. Use that journey to evaluate response ownership before introducing real applicant information." },
+      { "q": "How do additional interviewers participate?", "a": "The product includes an interviewer journey and structured scorecards. A live pilot must verify panel membership, invitations, sign-in and the records each interviewer may access." },
+      { "q": "Can we start with one recruitment team?", "a": "Yes. Begin with one vacancy and an agreed panel. Review the complete candidate journey before adding departments, more locations or integrations." }
+    ],
+    "related": [
+      { "slug": "onboard", "why": "Carry a hiring decision into an owned first-week plan." },
+      { "slug": "intelligence", "why": "Put the hiring journey in a wider workforce discussion." }
+    ],
+    "audiences": [
+      { "slug": "hr-teams", "why": "Connect recruiter follow-up with manager and candidate actions." },
+      { "slug": "mid-market", "why": "Establish a common recruitment rhythm across growing departments." }
+    ],
+    "demo": { "label": "Try the hiring conversation", "href": "index.html?perspective=hr#tour" }
+  },
+  {
+    "slug": "onboard",
+    "name": "Onboard",
+    "metaTitle": "Onboard | A clearer welcome and first 90 days | Hirebrew",
+    "metaDescription": "Connect preboarding tasks, manager ownership and first-week plans with Hirebrew Onboard. Explore a considered journey through the first 30, 60 and 90 days.",
+    "headline": "Make the first day a real beginning.",
+    "subhead": "Give new starters, managers and HR a shared welcome plan that continues beyond paperwork into confidence, connection and early progress.",
+    "summary": "Turn a hiring decision into a coordinated welcome and meaningful early progress.",
+    "challengeTitle": "A signed offer is not a starting plan.",
+    "challenge": "The offer is accepted, but the manager is busy, introductions are informal and the first week has no clear purpose. New employees assemble their own welcome. Onboard connects practical tasks with human ones, giving each starter a clearer path from preparation to their first useful contribution.",
+    "priorities": [
+      { "title": "Prepare before the first morning", "body": "Bring preboarding tasks and owners into view while there is still time to act. Separate what HR must prepare from what the manager and new starter need to contribute." },
+      { "title": "Give the manager a visible part", "body": "A welcome is more than an HR checklist. Include introductions, role expectations and first-week conversations in the manager handoff, with responsibility for follow-through." },
+      { "title": "Connect a good start to progress", "body": "Use the first 30, 60 and 90 days to clarify priorities and learning. Help the employee understand what comes next instead of treating orientation as the finish line." }
+    ],
+    "workflowTitle": "From ready to join to ready to contribute.",
+    "workflowIntro": "Follow a sample customer-support hire through preparation, a first-week welcome and a manager check-in.",
+    "steps": [
+      { "label": "Prepare", "owner": "HR + hiring manager", "title": "Turn the handoff into a plan", "body": "Agree on the start context, manager and first-week priorities. Assign preboarding responsibilities before the new employee arrives, including dependencies owned outside the people team." },
+      { "label": "Welcome", "owner": "New starter + HR", "title": "Make the essentials understandable", "body": "Give the employee a clear task list and a place to begin. Explain what each task supports and who can help when something is missing or unclear." },
+      { "label": "Connect", "owner": "Manager + team", "title": "Make room for the human welcome", "body": "Plan introductions, initial learning and the first manager conversation. Check that the employee knows the team's priorities and how to ask for support." },
+      { "label": "Progress", "owner": "Employee + manager", "title": "Look beyond the first week", "body": "Review a 30/60/90-day outline together. Adjust goals as the employee learns, identify development needs and make the next check-in a deliberate part of the journey." }
+    ],
+    "capabilities": [
+      { "name": "Preboarding and new-joiner tasks", "body": "Organise the practical steps that prepare a new starter for day one, with a clear view of what remains to be done." },
+      { "name": "Manager and HR handoffs", "body": "Make shared responsibilities explicit so a task is not considered complete simply because it left the recruiter's desk." },
+      { "name": "A first-week starting point", "body": "Give the employee a task-led welcome, with introductions, context and realistic expectations from their manager." },
+      { "name": "30/60/90-day planning", "body": "Carry the welcome into early goals, learning and check-ins, connecting initial expectations with an ongoing development conversation." }
+    ],
+    "useCases": [
+      { "title": "A first employee in a new location", "situation": "A growing business welcomes a team member outside its Lagos headquarters.", "workflow": "Agree on the local manager, essential introductions and location-specific policy questions before the employee starts.", "outcome": "A welcome with local ownership rather than a headquarters checklist that leaves practical questions unanswered." },
+      { "title": "Several starters joining together", "situation": "HR coordinates a group of new employees while managers have different team priorities.", "workflow": "Separate shared preparation from each manager's first-week plan, then review the responsibilities for every new starter.", "outcome": "A consistent foundation without assuming that every person needs the same learning or introductions." },
+      { "title": "A technical hire learning the business", "situation": "A specialist understands their discipline but is new to the organisation, its customers and its working practices.", "workflow": "Combine practical onboarding tasks with manager conversations and a 30/60/90-day outline for learning the business context.", "outcome": "Early expectations that include understanding and relationships, not only a list of completed tasks." }
+    ],
+    "ai": { "title": "Start the plan with a thoughtful draft.", "body": "Brew's illustrative welcome-plan concept can help a manager consider introductions, learning and check-ins. The manager must review the workload, role context and local requirements before using any draft.", "example": "Draft a first-month welcome outline for a sample customer-support hire, including introductions and a weekly manager check-in." },
+    "pilot": { "title": "Walk through one new starter's first month.", "body": "Use a fictional employee and ask HR, a manager and a colleague to complete their part. Include a missing dependency, not only a perfect start.", "checks": ["Every preparation task has a responsible person", "The employee knows their first-week priorities", "The manager and employee agree on a first-month check-in"], "boundary": "The preview demonstrates task and handoff concepts, not automatic provisioning, equipment delivery, background screening, electronic signatures or a verified HRIS connection." },
+    "faqs": [
+      { "q": "Is onboarding only an HR responsibility?", "a": "No. HR, the manager and the employee each contribute. Agree on responsibilities during the pilot so handoffs do not depend on informal follow-up." },
+      { "q": "Does Hirebrew provision laptops and accounts?", "a": "No automatic provisioning is demonstrated. Plan those dependencies with your IT and equipment owners, and verify any future connection separately." },
+      { "q": "What happens after the first month?", "a": "Use the 30/60/90-day plan to continue the conversation, then explore goals, check-ins and learning in Grow. The first month should establish a rhythm rather than close the employee journey." }
+    ],
+    "related": [
+      { "slug": "hire", "why": "Begin the welcome with a clear hiring handoff." },
+      { "slug": "grow", "why": "Continue early expectations into goals and development conversations." }
+    ],
+    "audiences": [
+      { "slug": "startups", "why": "Give each early hire a deliberate start without a large HR team." },
+      { "slug": "hr-teams", "why": "Bring manager ownership into the welcome process." }
+    ],
+    "demo": { "label": "Try the employee welcome", "href": "index.html?perspective=employee#tour" }
+  },
+  {
+    "slug": "people",
+    "name": "People",
+    "metaTitle": "People | Employee records and everyday HR workflows | Hirebrew",
+    "metaDescription": "Explore employee self-service, leave, letters and people requests with Hirebrew People. Give everyday HR a clearer starting point and more accountable follow-through.",
+    "headline": "Everyday HR. A clearer way through.",
+    "subhead": "Connect employee context with the requests that need attention, giving people a clearer place to ask and HR a better starting point.",
+    "summary": "Bring employee records, everyday requests and responsible follow-through into clearer focus.",
+    "challengeTitle": "The smallest requests can create the longest chase.",
+    "challenge": "An employee needs a letter. A manager needs context for leave. HR needs to know what has changed. When each request starts a separate conversation, finding the right record becomes work of its own. People brings everyday HR into a shared context, understandable to the person asking and the person responding.",
+    "priorities": [
+      { "title": "Start from the employee context", "body": "Connect a request to the person, their role and their working context. Begin with relevant information instead of asking employees to explain the same basics again." },
+      { "title": "Give requests a clearer front door", "body": "Explore self-service for leave, letters and employee requests. Make the starting point and required information easier to understand." },
+      { "title": "Make follow-through someone's responsibility", "body": "A request should not become ownerless between teams. Agree who reviews, who responds and what the employee needs to know next." }
+    ],
+    "workflowTitle": "From an employee question to an owned next step.",
+    "workflowIntro": "Follow a sample leave request through employee and manager perspectives, making review ownership explicit.",
+    "steps": [
+      { "label": "Find", "owner": "Employee + people team", "title": "Begin with the right context", "body": "Locate the employee record and confirm relevant information. Identify which fields belong in Hirebrew and which remain authoritative in another system." },
+      { "label": "Ask", "owner": "Employee", "title": "Make the request understandable", "body": "Use the employee journey to raise a leave, letter or other people request. Include enough context for review without placing unnecessary sensitive information in the record." },
+      { "label": "Review", "owner": "Manager + HR", "title": "Give the decision a clear owner", "body": "Review the request against the appropriate company policy and working context. Agree who contributes and who is accountable when a question crosses department or location boundaries." },
+      { "label": "Follow through", "owner": "Responsible reviewer", "title": "Keep the employee in the picture", "body": "Clarify the outcome or next action and its owner. Check the employee view to ensure the journey does not end at submission." }
+    ],
+    "capabilities": [
+      { "name": "Employee records and self-service", "body": "Explore shared employee context, with record ownership and appropriate visibility considered during implementation." },
+      { "name": "Leave and letters", "body": "Give common employee needs a more consistent starting point and make the manager or HR review part of the journey." },
+      { "name": "Requests and expenses", "body": "Evaluate how requests and expenses reach their responsible reviewers, without implying automatic payment execution." },
+      { "name": "Contracts, cases and people operations", "body": "Explore the broader operational context around employees, while treating sensitive case information and contractual decisions with explicit handling requirements." }
+    ],
+    "useCases": [
+      { "title": "An employee requesting leave", "situation": "An employee needs time off and their manager needs to consider team coverage.", "workflow": "Raise a sample request, review it from the manager perspective and clarify how the employee learns the next step.", "outcome": "A shared understanding of the request and its owner, instead of a decision buried in separate conversations." },
+      { "title": "A letter that needs HR attention", "situation": "A colleague needs an employment letter and is unsure which member of HR to contact.", "workflow": "Start with a clear request, confirm the relevant employee details and assign review to the responsible people-team member.", "outcome": "A defined route from employee need to accountable review, with wording and release still controlled by HR." },
+      { "title": "People operations across multiple sites", "situation": "A Nigerian business serves employees in head office, branches and operating locations.", "workflow": "Test a common request journey with a manager outside headquarters, including local policy questions and a cross-team handoff.", "outcome": "An evaluation that reflects real working locations rather than assuming all employees sit beside the HR team." }
+    ],
+    "ai": { "title": "Help prepare the response. Keep care personal.", "body": "Brew illustrates how an HR colleague might draft a clearer explanation from an approved policy excerpt. Review accuracy and tone, exclude unnecessary personal information and keep case decisions with people.", "example": "Draft a plain-language explanation of the next steps for a sample leave request, using only the policy text supplied." },
+    "pilot": { "title": "Test the request your team handles every week.", "body": "Choose a leave or letter journey and use sample employee information. Ask an employee, a manager and HR to identify confusing steps and unclear responsibilities before expanding the scope.", "checks": ["The employee can identify where to begin", "Review and response responsibilities are explicit", "The employee perspective includes the next step"], "boundary": "Validate production permissions, data handling, policy rules and record retention before live use. Payroll calculations, statutory filing, expense payments and automatic HRIS synchronisation are not demonstrated here." },
+    "faqs": [
+      { "q": "Does People replace our existing HRIS?", "a": "Not by assumption. Identify authoritative records and the journeys you want to improve. Evaluate migration, ownership and proposed connections before deciding what to replace." },
+      { "q": "Are leave rules and letters automatically compliant?", "a": "No. Company policies, letter wording and applicable employment requirements need review by your responsible HR and legal advisers. The preview is not a compliance assurance service." },
+      { "q": "Can we begin with employee requests only?", "a": "Yes. Start with a frequent, well-understood request and a small group of reviewers. Check access, ownership and follow-through before widening into sensitive records or additional workflows." }
+    ],
+    "related": [
+      { "slug": "onboard", "why": "Establish a clear employee starting point from day one." },
+      { "slug": "grow", "why": "Connect everyday support with ongoing development." }
+    ],
+    "audiences": [
+      { "slug": "hr-teams", "why": "Bring request ownership and employee context together." },
+      { "slug": "enterprise", "why": "Evaluate people workflows with system and governance owners." }
+    ],
+    "demo": { "label": "Try an employee request", "href": "index.html?perspective=employee#tour" }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "hirebrew-website",
+  "private": true,
+  "version": "5.0.0",
+  "description": "Hirebrew visual identity and local marketing website concept",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node build-solutions.mjs && node build-products.mjs && node build-story-demos.mjs",
+    "build:deploy": "npm run build && node build-static.mjs",
+    "check": "node --check script.js && node --check enterprise-home.js && node --check enterprise.js && node --check solutions-nav.js && node --check platform-nav.js && node --check solutions.js && node --check marketing-shell.mjs && node --check build-solutions.mjs && node --check build-products.mjs && node --check demo-scenes.mjs && node --check story-demo.js && node --check build-story-demos.mjs && node --check server.mjs && node check.mjs && node check-brand.mjs && node check-solutions.mjs && node check-products.mjs && node check-story-demos.mjs"
+  }
+}

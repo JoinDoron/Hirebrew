@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+IT
+
+WORKFLOW TO EVALUATE
+A technical hire with a connected next chapter.
+Follow a sample implementation consultant from the approved requirement to an early development conversation.
+
+HANDOFFS
+Request | Delivery manager + HR
+Describe the capability you need
+Create a requisition around technical and client-facing requirements. Identify the approver and separate essential evidence from skills that can be developed after joining.
+
+Assess | Technical + delivery panel
+Evaluate more than one dimension
+Use structured scorecards to organise technical reasoning, communication and collaboration. Review the evidence together while maintaining a clear two-way candidate conversation.
+
+Prepare | Manager + new employee
+Agree on the first assignments to learn
+Explore onboarding tasks and a first-month plan. Name owners for introductions and learning, while device setup, identity and customer access remain in their approved systems.
+
+Grow | Employee + manager
+Turn experience into a development plan
+Use check-ins and goals to identify learning needs and future opportunities. For teams serving clients across African markets, discuss the location and working-context requirements explicitly.
+
+PILOT SCOPE
+Start with one technical delivery team.
+Include HR, the delivery manager and an interviewer. Follow sample data into onboarding and test how clearly responsibilities transfer.
+
+VALIDATION CHECKLIST
+[ ] Role criteria match the delivery team's stated need.
+[ ] Onboarding tasks distinguish people work from technical provisioning.
+[ ] A first-month review connects progress to learning needs.
+
+BOUNDARIES
+Device provisioning, identity automation, professional-services billing, resource allocation and live service-tool integrations are not demonstrated capabilities.
+
+AI EVALUATION
+Explore Brew's illustrative drafting approach for manager check-ins. Keep the input to sample role goals, review the output carefully and leave confidential client environments out of the exercise.
+Example prompt: Draft check-in questions for a new implementation consultant learning technical delivery and client communication.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

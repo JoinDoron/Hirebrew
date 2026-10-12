@@ -1,0 +1,70 @@
+HIREBREW ONBOARD | PRODUCT PILOT BRIEF
+
+Make the first day a real beginning.
+Give new starters, managers and HR a shared welcome plan that continues beyond paperwork into confidence, connection and early progress.
+
+CAPABILITIES TO EXPLORE
+Preboarding and new-joiner tasks
+Organise the practical steps that prepare a new starter for day one, with a clear view of what remains to be done.
+
+Manager and HR handoffs
+Make shared responsibilities explicit so a task is not considered complete simply because it left the recruiter's desk.
+
+A first-week starting point
+Give the employee a task-led welcome, with introductions, context and realistic expectations from their manager.
+
+30/60/90-day planning
+Carry the welcome into early goals, learning and check-ins, connecting initial expectations with an ongoing development conversation.
+
+PRACTICAL USE CASES
+A first employee in a new location
+Situation: A growing business welcomes a team member outside its Lagos headquarters.
+Workflow: Agree on the local manager, essential introductions and location-specific policy questions before the employee starts.
+Intended improvement: A welcome with local ownership rather than a headquarters checklist that leaves practical questions unanswered.
+
+Several starters joining together
+Situation: HR coordinates a group of new employees while managers have different team priorities.
+Workflow: Separate shared preparation from each manager's first-week plan, then review the responsibilities for every new starter.
+Intended improvement: A consistent foundation without assuming that every person needs the same learning or introductions.
+
+A technical hire learning the business
+Situation: A specialist understands their discipline but is new to the organisation, its customers and its working practices.
+Workflow: Combine practical onboarding tasks with manager conversations and a 30/60/90-day outline for learning the business context.
+Intended improvement: Early expectations that include understanding and relationships, not only a list of completed tasks.
+
+WORKFLOW
+From ready to join to ready to contribute.
+Prepare | HR + hiring manager
+Turn the handoff into a plan
+Agree on the start context, manager and first-week priorities. Assign preboarding responsibilities before the new employee arrives, including dependencies owned outside the people team.
+
+Welcome | New starter + HR
+Make the essentials understandable
+Give the employee a clear task list and a place to begin. Explain what each task supports and who can help when something is missing or unclear.
+
+Connect | Manager + team
+Make room for the human welcome
+Plan introductions, initial learning and the first manager conversation. Check that the employee knows the team's priorities and how to ask for support.
+
+Progress | Employee + manager
+Look beyond the first week
+Review a 30/60/90-day outline together. Adjust goals as the employee learns, identify development needs and make the next check-in a deliberate part of the journey.
+
+PILOT
+Walk through one new starter's first month.
+Use a fictional employee and ask HR, a manager and a colleague to complete their part. Include a missing dependency, not only a perfect start.
+
+EVALUATION CHECKLIST
+[ ] Every preparation task has a responsible person
+[ ] The employee knows their first-week priorities
+[ ] The manager and employee agree on a first-month check-in
+
+SCOPE BOUNDARIES
+The preview demonstrates task and handoff concepts, not automatic provisioning, equipment delivery, background screening, electronic signatures or a verified HRIS connection.
+
+AI AND HUMAN REVIEW
+Brew's illustrative welcome-plan concept can help a manager consider introductions, learning and check-ins. The manager must review the workload, role context and local requirements before using any draft.
+Example prompt: Draft a first-month welcome outline for a sample customer-support hire, including introductions and a weekly manager check-in.
+
+NEXT STEP
+Assign an owner, walk through the workflow with sample data and record the evidence required before a live rollout. This document is not a submitted enquiry, booking or confirmation of production readiness.

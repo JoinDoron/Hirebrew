@@ -1,0 +1,70 @@
+HIREBREW BREW AI | PRODUCT PILOT BRIEF
+
+A head start. Never a handover.
+Explore a more thoughtful first draft for people work, with room to question, edit and decide before anything moves.
+
+CAPABILITIES TO EXPLORE
+Candidate-message examples
+Explore a sample interview invitation. Review the tone, details and opportunity to reply before considering a real message.
+
+Interview-summary examples
+Read a summary separating positive evidence from an open question. Support a follow-up conversation without presenting a hiring recommendation.
+
+Welcome-plan examples
+Start with introductions, context, a learning goal and a check-in. Adjust the sample plan to the role and working environment.
+
+An editable review experience
+Edit the draft and save it for this preview session. This demonstrates human review, not a production approval record or audit trail.
+
+PRACTICAL USE CASES
+Write a more considerate candidate follow-up
+Situation: A recruiter needs a clear next-step message but does not want a cold, generic invitation.
+Workflow: Try the sample invitation, confirm the requested action and edit the tone so the candidate knows how to respond.
+Intended improvement: The reviewer has a considered draft ready for the appropriate communication process, without anything being sent by this preview.
+
+Keep an interview summary honest
+Situation: A panel has useful observations and one important area it has not yet tested.
+Workflow: Explore a summary that distinguishes the evidence from the gap, then edit it before discussing a follow-up with the hiring team.
+Intended improvement: The open question remains visible rather than being turned into an unsupported judgement about the candidate.
+
+Give the first week a human rhythm
+Situation: A manager wants a new colleague to meet the right people and start learning without an overwhelming checklist.
+Workflow: Review the sample welcome plan, adapt its sequence to the role and identify the manager's check-in point.
+Intended improvement: The manager has a starting structure to discuss with the new joiner and people team.
+
+WORKFLOW
+An assistant's draft. Your considered next step.
+Choose | HR or manager
+Pick a bounded task
+Choose a candidate message, interview-note summary or first-week plan. Define the audience and intended outcome.
+
+Read | Reviewer
+Inspect the suggestion
+Check names, role details, tone and facts. Treat missing information as a question to resolve, not permission to invent.
+
+Edit | Reviewer
+Make the draft yours
+Change the example's wording. Remove unsupported claims, add appropriate context and keep sensitive information out of this public preview.
+
+Decide | Accountable person
+Choose what happens next
+Save the revision locally. No message or hiring action is triggered. Live workflows require separately validated permissions and approval controls.
+
+PILOT
+Prove a low-risk drafting task first.
+Start with approved, non-personal sample inputs and a named reviewer. Evaluate whether the result is accurate, appropriate and useful before considering broader access or a live action.
+
+EVALUATION CHECKLIST
+[ ] Agree permitted inputs, provider settings, retention expectations and reviewer responsibilities.
+[ ] Test factual accuracy, tone and handling of missing information with representative examples.
+[ ] Validate access controls and ensure consequential actions cannot bypass the required human review.
+
+SCOPE BOUNDARIES
+Brew examples on this website are scripted and run locally. No live model, autonomous decision, message delivery, production approval enforcement or enterprise data access is represented as deployed.
+
+AI AND HUMAN REVIEW
+The design principle is simple: suggestions should be understandable, editable and proportionate to the task. Before any live AI pilot, agree the provider, allowed inputs, data handling, review responsibilities and evaluation criteria. Do not use the public preview for candidate or employee personal information.
+Example prompt: Example evaluation question: Does this fictional draft preserve the source facts, surface uncertainty and leave the consequential decision with the responsible person?
+
+NEXT STEP
+Assign an owner, walk through the workflow with sample data and record the evidence required before a live rollout. This document is not a submitted enquiry, booking or confirmation of production readiness.

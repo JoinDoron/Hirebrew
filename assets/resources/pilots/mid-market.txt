@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Mid-Market
+
+WORKFLOW TO EVALUATE
+A shared process. Ownership close to the work.
+Evaluate one employee journey across two departments. Their differences will reveal where you need flexibility and where inconsistency adds no value.
+
+HANDOFFS
+Align | HR + department leads
+Agree the common starting point
+Map hiring requests, approval owners and role criteria. Document exceptions so teams can distinguish a genuine requirement from an inherited habit.
+
+Select | Recruiters + interviewers
+Collect comparable feedback
+Coordinate panel participation and scorecards while keeping the candidate conversation active. Confirm who moves the process forward after each interview.
+
+Support | HR + line managers
+Make everyday requests easier to follow
+Walk through onboarding, leave and letter requests from both employee and manager perspectives. Check what happens when a request needs another team's input.
+
+Develop | Managers + employees
+Connect goals to regular conversations
+Explore check-ins, feedback and learning needs. Use the review process to clarify development actions and the person responsible for following through.
+
+PILOT SCOPE
+Test two departments, not the whole company.
+Choose teams with different hiring or service needs. Include a location outside head office where relevant to your Nigerian or wider African operation.
+
+VALIDATION CHECKLIST
+[ ] Common steps and justified exceptions are documented
+[ ] Employees and managers can complete the same journey
+[ ] A baseline exists for handoff time and completion
+
+BOUNDARIES
+Confirm deployment permissions, policy configuration and migration quality before expanding beyond sample records.
+
+AI EVALUATION
+Brew's illustrative summaries can show how assistance might organise a check-in. Managers should verify the source material and employees should have a chance to correct the context.
+Example prompt: Draft a check-in agenda from agreed goals, recent progress and the employee's stated development interests.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

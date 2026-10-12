@@ -1,0 +1,322 @@
+[
+  {
+    "slug": "startups",
+    "legacyId": "size-startups",
+    "category": "size",
+    "name": "Startups",
+    "metaTitle": "HR and hiring for startups | Hirebrew",
+    "metaDescription": "Build a repeatable hiring and onboarding rhythm with Hirebrew. Explore candidate conversations, structured interviews and a clearer first month for your team.",
+    "headline": "Build your team. Keep your momentum.",
+    "subhead": "Give every new hire a clear journey, without making your growing company feel like a big-company process.",
+    "summary": "A repeatable hiring and onboarding rhythm for your next stage.",
+    "challengeTitle": "Your next hire should not need another spreadsheet.",
+    "challenge": "In a small company, the founder approves the role, a team lead interviews and someone in operations organises day one. When those handoffs live in separate conversations, candidates wait and new starters arrive without a plan. Hirebrew brings the people journey into focus, so a lean team can establish a useful operating rhythm early.",
+    "priorities": [
+      { "title": "Hire with a shared brief", "body": "Agree what the role exists to achieve before interviews begin. Requisitions and approval steps give the hiring team a common starting point." },
+      { "title": "Keep the conversation moving", "body": "Explore a candidate pipeline with two-way messages. Candidates can respond, and the hiring team can see what needs attention next." },
+      { "title": "Make the first month count", "body": "Connect onboarding tasks, manager ownership and early goals. A small team still deserves a considered welcome and clear expectations." }
+    ],
+    "workflowTitle": "From an open role to a confident start.",
+    "workflowIntro": "Start with the next role you genuinely need. Keep the process small enough for everyone involved to understand and use.",
+    "steps": [
+      { "label": "Define", "owner": "Founder + hiring lead", "title": "Approve a real business need", "body": "Capture the purpose of the role, decision owner and interview criteria before sourcing begins. Avoid changing the brief halfway through selection." },
+      { "label": "Connect", "owner": "Recruiter + candidate", "title": "Keep both sides informed", "body": "Follow candidate stages and exchange messages around the next step. Test the experience from the candidate's side, not only the recruiter's." },
+      { "label": "Decide", "owner": "Interview panel", "title": "Compare evidence, not memory", "body": "Bring interviewers into the process and collect structured scorecards. Keep the final hiring decision with the people responsible for the role." },
+      { "label": "Welcome", "owner": "Manager + new starter", "title": "Carry the context into day one", "body": "Assign first-week tasks and a first-month plan. Make introductions, responsibilities and the first check-in explicit before the new hire starts." }
+    ],
+    "capabilities": [
+      { "name": "Requisitions and approvals", "body": "Give a hiring request an owner and a purpose.", "href": "index.html#platform" },
+      { "name": "Two-way candidate conversations", "body": "Explore a hiring experience where candidates can reply.", "href": "index.html#tour" },
+      { "name": "Panel interviews and scorecards", "body": "Collect perspectives against agreed role criteria.", "href": "index.html#tour" },
+      { "name": "Onboarding and early goals", "body": "Turn a hiring decision into an owned starting plan.", "href": "index.html#platform" }
+    ],
+    "ai": { "title": "A useful first draft, not another decision-maker.", "body": "Explore Brew's illustrative drafting concept for a role brief or welcome plan. Your team supplies the context, checks the content and decides what to use.", "example": "Draft a first-month onboarding outline for our first customer success hire, with a weekly manager check-in." },
+    "pilot": { "title": "Prove the rhythm with one role.", "body": "Use sample candidates to walk through the journey before introducing real applicant data. For teams hiring across African markets, capture location and policy differences explicitly.", "checks": ["A named owner for every handoff", "A candidate reply reaches the right person", "A first-month plan exists before day one"], "boundary": "This preview demonstrates the workflow. Validate data handling, access and any external notifications before a live pilot." },
+    "faqs": [
+      { "q": "Do we need a full HR department?", "a": "No large department is assumed in this starting point. Assign the recruiter, interviewer and manager responsibilities to the people doing that work, then evaluate whether the process fits their capacity." },
+      { "q": "Can we begin with hiring only?", "a": "Yes. Scope the evaluation to one requisition, candidate conversations and interview feedback. Add onboarding when the hiring handoff is clear." },
+      { "q": "Does this include payroll?", "a": "Payroll calculation, tax filing and payment execution are not demonstrated capabilities. Keep your existing provider and document any future data handoff separately." }
+    ],
+    "related": ["founders", "hr-teams", "mid-market"]
+  },
+  {
+    "slug": "mid-market",
+    "legacyId": "size-mid-market",
+    "category": "size",
+    "name": "Mid-Market",
+    "metaTitle": "Connected people workflows for mid-market teams | Hirebrew",
+    "metaDescription": "Explore consistent hiring, employee service and development across growing departments. Shape a Hirebrew pilot around shared processes and local responsibilities.",
+    "headline": "More teams. A clearer way forward.",
+    "subhead": "Connect the people processes that become harder to coordinate as departments, locations and management layers grow.",
+    "summary": "Consistent people workflows across growing departments, managers and locations.",
+    "challengeTitle": "Growth exposes the gaps between departments.",
+    "challenge": "One department hires through email. Another keeps its own tracker. Employees ask different people the same leave question, and managers approach reviews differently. At this stage, consistency matters, but forcing every team into an identical process can create more work. Hirebrew helps you evaluate a shared foundation with explicit owners and considered local exceptions.",
+    "priorities": [
+      { "title": "Standardise the useful parts", "body": "Create a common hiring journey around requisitions, stages and structured feedback. Agree which decisions belong to central HR and which stay with department managers." },
+      { "title": "Give employees a clearer front door", "body": "Explore leave, letters and employee requests in a consistent experience. Make the next responsible person easier to identify when a request crosses teams." },
+      { "title": "Keep development in the operating rhythm", "body": "Bring goals, check-ins and learning into manager conversations. Evaluate how development continues after onboarding, not only during an annual review." }
+    ],
+    "workflowTitle": "A shared process. Ownership close to the work.",
+    "workflowIntro": "Evaluate one employee journey across two departments. Their differences will reveal where you need flexibility and where inconsistency adds no value.",
+    "steps": [
+      { "label": "Align", "owner": "HR + department leads", "title": "Agree the common starting point", "body": "Map hiring requests, approval owners and role criteria. Document exceptions so teams can distinguish a genuine requirement from an inherited habit." },
+      { "label": "Select", "owner": "Recruiters + interviewers", "title": "Collect comparable feedback", "body": "Coordinate panel participation and scorecards while keeping the candidate conversation active. Confirm who moves the process forward after each interview." },
+      { "label": "Support", "owner": "HR + line managers", "title": "Make everyday requests easier to follow", "body": "Walk through onboarding, leave and letter requests from both employee and manager perspectives. Check what happens when a request needs another team's input." },
+      { "label": "Develop", "owner": "Managers + employees", "title": "Connect goals to regular conversations", "body": "Explore check-ins, feedback and learning needs. Use the review process to clarify development actions and the person responsible for following through." }
+    ],
+    "capabilities": [
+      { "name": "Shared hiring stages", "body": "Evaluate a common recruitment language across departments.", "href": "index.html#platform" },
+      { "name": "Employee self-service", "body": "Explore leave, letters and requests beyond the HR inbox.", "href": "index.html#tour" },
+      { "name": "Goals and development", "body": "Keep learning and manager check-ins in the journey.", "href": "index.html#platform" },
+      { "name": "Workforce views", "body": "Discuss headcount and department needs from shared context.", "href": "index.html#platform" }
+    ],
+    "ai": { "title": "Help managers prepare. Keep judgment human.", "body": "Brew's illustrative summaries can show how assistance might organise a check-in. Managers should verify the source material and employees should have a chance to correct the context.", "example": "Draft a check-in agenda from agreed goals, recent progress and the employee's stated development interests." },
+    "pilot": { "title": "Test two departments, not the whole company.", "body": "Choose teams with different hiring or service needs. Include a location outside head office where relevant to your Nigerian or wider African operation.", "checks": ["Common steps and justified exceptions are documented", "Employees and managers can complete the same journey", "A baseline exists for handoff time and completion"], "boundary": "Confirm deployment permissions, policy configuration and migration quality before expanding beyond sample records." },
+    "faqs": [
+      { "q": "Must every department work identically?", "a": "No. Begin by agreeing shared stages and responsibilities, then identify necessary differences. Configuration requirements should be captured and validated during the pilot, not assumed." },
+      { "q": "Can we keep our existing payroll system?", "a": "That is the sensible evaluation starting point. Define required employee-data exchanges with its owner; a live connection is subject to separate implementation and testing." },
+      { "q": "How should we measure value?", "a": "Record your own starting point for stalled handoffs, request completion and manager participation. Compare a limited pilot with that baseline rather than relying on promised savings." }
+    ],
+    "related": ["hr-teams", "finance-teams", "enterprise"]
+  },
+  {
+    "slug": "enterprise",
+    "legacyId": "size-enterprise",
+    "category": "size",
+    "name": "Enterprise",
+    "metaTitle": "Enterprise people workflow evaluation | Hirebrew",
+    "metaDescription": "Evaluate Hirebrew across business units with clear governance, integration boundaries and a measured pilot. Connect hiring, onboarding and employee service responsibly.",
+    "headline": "Complex organisations. Connected people journeys.",
+    "subhead": "Bring business units, people teams and system owners into one considered evaluation, from the first approval to a measured rollout.",
+    "summary": "A governed evaluation for connected people workflows across business units.",
+    "challengeTitle": "The hard part is what happens between systems.",
+    "challenge": "Enterprise teams rarely lack tools. They lack a shared picture of the handoffs between them. A hiring decision crosses HR, a manager, interviewers, IT and finance before someone can start well. Hirebrew offers a connected workflow concept to evaluate against that operating reality, with procurement questions and deployment requirements treated as part of the work.",
+    "priorities": [
+      { "title": "Map decisions across the organisation", "body": "Trace approval, interview and onboarding ownership across business units and sites. Identify who needs to contribute, who decides and who should not see a record." },
+      { "title": "Keep existing systems in the picture", "body": "Identify the authoritative record for identity, employee data and payroll. Scope any proposed exchange before assuming that two products are connected." },
+      { "title": "Expand only when evidence supports it", "body": "Use a limited pilot to test the employee experience and operational requirements. Set acceptance criteria for adoption, access, reliability and support before increasing scope." }
+    ],
+    "workflowTitle": "From enterprise ambition to a testable pilot.",
+    "workflowIntro": "Bring HR, IT, legal and finance into discovery together. A convincing demonstration is useful; an agreed evaluation plan makes it actionable.",
+    "steps": [
+      { "label": "Map", "owner": "Business sponsor + HR", "title": "Choose a meaningful handoff", "body": "Select a hiring or onboarding journey in one business unit. Name the accountable sponsor and the operational people who will judge whether it works." },
+      { "label": "Validate", "owner": "IT + legal + security", "title": "Turn requirements into evidence", "body": "Document identity, record visibility, data location, retention and incident expectations. Define what evidence must exist before real employee information can be introduced." },
+      { "label": "Pilot", "owner": "Delivery team + managers", "title": "Walk the complete journey", "body": "Test candidate communication, interviewer participation and manager onboarding responsibilities. Include exception paths, missing approvals and the employee's view of the process." },
+      { "label": "Decide", "owner": "Steering group", "title": "Make expansion an explicit decision", "body": "Review adoption, unresolved risks and integration work against the agreed criteria. Approve the next stage only when owners and responsibilities remain clear." }
+    ],
+    "capabilities": [
+      { "name": "Connected role journeys", "body": "Explore HR, manager, interviewer, candidate and employee perspectives.", "href": "index.html#tour" },
+      { "name": "Governance evaluation", "body": "Start with the questions your assurance teams need answered.", "href": "enterprise.html#governance" },
+      { "name": "Integration scoping", "body": "Separate proposed interfaces from verified live connections.", "href": "enterprise.html#integrations" },
+      { "name": "Pilot and rollout resources", "body": "Translate the product demonstration into a scoped decision.", "href": "enterprise.html#resources" }
+    ],
+    "ai": { "title": "Useful assistance belongs inside clear boundaries.", "body": "Evaluate Brew's illustrative drafts and summaries alongside permitted-data rules, source verification and human accountability. Decide which workflows merit AI assistance before selecting a live provider.", "example": "Prepare a hiring-panel briefing from approved role criteria, highlighting missing feedback for a recruiter to review." },
+    "pilot": { "title": "One business unit. Explicit acceptance criteria.", "body": "For multi-country African operations, record entity, location and policy differences in the evaluation brief. Separate common process requirements from market-specific decisions.", "checks": ["Access and data handling have named reviewers", "System ownership and integration scope are agreed", "Expansion and rollback criteria are written down"], "boundary": "The preview is not evidence of certified controls or production readiness. Identity, permissions, security and operational assurance require deployment-specific verification." },
+    "faqs": [
+      { "q": "Is enterprise SSO already demonstrated?", "a": "No. SSO, MFA and production identity requirements belong in the implementation and verification scope. The local preview should not be used as assurance of those controls." },
+      { "q": "Does this replace our HRIS?", "a": "That decision should follow system mapping. Start by identifying where Hirebrew could improve a journey, then evaluate ownership, migration and integration options without assuming replacement." },
+      { "q": "What should procurement request first?", "a": "A scoped pilot brief, a capabilities and limitations review, deployment evidence and a clear cost breakdown. The enterprise resources provide a starting checklist for those conversations." }
+    ],
+    "related": ["it-teams", "legal-teams", "finance-teams"]
+  },
+  {
+    "slug": "hr-teams",
+    "legacyId": "team-hr",
+    "category": "team",
+    "name": "HR teams",
+    "metaTitle": "Connected hiring and employee service for HR | Hirebrew",
+    "metaDescription": "Explore Hirebrew for HR teams: candidate conversations, panel feedback, onboarding responsibilities and employee requests in one connected people journey.",
+    "headline": "Less chasing. More people progress.",
+    "subhead": "Connect candidate conversations, manager handoffs and everyday employee requests, so HR can see what needs attention next.",
+    "summary": "Connect hiring, onboarding and employee service with clearer follow-up ownership.",
+    "challengeTitle": "HR should not have to be every reminder.",
+    "challenge": "The recruiter waits for a scorecard. A candidate wants an update. A manager has not confirmed the onboarding plan, while employees are asking where their letters have gone. The work is connected, but the conversations are scattered. Hirebrew brings these journeys together in a product concept built around participation, response and visible responsibility.",
+    "priorities": [
+      { "title": "Make hiring a shared responsibility", "body": "Explore requisitions, candidate stages and structured panel feedback together. Keep interviewers and hiring managers involved instead of making HR reconstruct every decision afterwards." },
+      { "title": "Give candidates a voice", "body": "Use the two-way conversation preview to see how a candidate can reply to HR. Evaluate the next response and ownership, not just the outgoing message." },
+      { "title": "Stay connected after the offer", "body": "Carry responsibilities into onboarding, employee records and service requests. A joined-up experience should continue when an applicant becomes a member of the team." }
+    ],
+    "workflowTitle": "One journey, from candidate to colleague.",
+    "workflowIntro": "Follow the same person through the moments where HR usually has to chase another participant. Check both sides of every handoff.",
+    "steps": [
+      { "label": "Coordinate", "owner": "HR + hiring manager", "title": "Start with an approved role", "body": "Align the requisition, interview criteria and decision owner. Review the candidate pipeline with a shared understanding of what must happen before the next stage." },
+      { "label": "Converse", "owner": "Recruiter + candidate", "title": "Keep communication two-way", "body": "Send a message in the local demonstration, switch to the candidate perspective and reply. Confirm that the recruiter can follow the conversation without a separate thread." },
+      { "label": "Handoff", "owner": "HR + manager", "title": "Give the new starter an owned plan", "body": "Explore onboarding tasks and early expectations. Identify what HR owns, what the manager owns and what the new employee needs to complete." },
+      { "label": "Support", "owner": "Employee + people team", "title": "Make everyday service part of the journey", "body": "Walk through leave, letters and requests. Test what employees see while they wait and how HR identifies the next action or escalation." }
+    ],
+    "capabilities": [
+      { "name": "Hiring pipeline and messages", "body": "Keep candidate stages and the conversation in context.", "href": "index.html#tour" },
+      { "name": "Interviewer participation", "body": "Bring panel members into structured feedback collection.", "href": "index.html#platform" },
+      { "name": "Onboarding ownership", "body": "Connect new-starter tasks with manager responsibilities.", "href": "index.html#tour" },
+      { "name": "Employee service journeys", "body": "Explore leave, letters, requests and employee records.", "href": "index.html#platform" }
+    ],
+    "ai": { "title": "Spend less effort on the first draft.", "body": "Explore Brew's illustrative message and onboarding drafts. HR remains responsible for accuracy, tone and permission to use the underlying information; nothing is sent automatically from this preview.", "example": "Draft a warm interview follow-up that explains the next step without implying a hiring decision has been made." },
+    "pilot": { "title": "Choose the handoff your team chases most.", "body": "Begin with interview feedback or new-starter readiness. For teams serving multiple Nigerian locations, include a manager outside head office in the evaluation.", "checks": ["Candidate replies remain visible to the recruiter", "Interview feedback has a clear completion owner", "Onboarding tasks continue beyond the offer"], "boundary": "External email, calendar, WhatsApp and SMS delivery require separate provider setup and verification; the local tour demonstrates workflow interaction." },
+    "faqs": [
+      { "q": "Can a candidate respond to HR?", "a": "Yes, the local product tour demonstrates a two-way exchange between the HR and candidate views. Production delivery, identity and access still need deployment verification." },
+      { "q": "How do other interviewers participate?", "a": "The product includes an interviewer journey and structured scorecards. In your pilot, validate panel membership, invitations, sign-in and the exact records each interviewer can access." },
+      { "q": "Do we have to evaluate every HR module?", "a": "No. Start with the workflow creating the most repeated follow-up. Add employee service or development when the first journey has clear owners and acceptance criteria." }
+    ],
+    "related": ["mid-market", "it-teams", "founders"]
+  },
+  {
+    "slug": "finance-teams",
+    "legacyId": "team-finance",
+    "category": "team",
+    "name": "Finance teams",
+    "metaTitle": "People planning and evaluation for finance teams | Hirebrew",
+    "metaDescription": "Evaluate Hirebrew with headcount decisions, employee-data ownership and pilot economics in view. Scope payroll and HRIS handoffs without assuming live integrations.",
+    "headline": "People decisions. A clearer business case.",
+    "subhead": "Bring hiring requests, workforce context and system ownership into the same conversation before another people process becomes a reconciliation exercise.",
+    "summary": "Connect headcount decisions, data ownership and the economics of change.",
+    "challengeTitle": "A people decision becomes a finance question quickly.",
+    "challenge": "A new role starts as a departmental request, but its implications reach finance long before the employee arrives. Who approved it? Which system owns the record? What will implementation and ongoing support cost? Hirebrew's finance starting point brings those questions into workflow evaluation, without presenting a hiring platform as a payroll engine.",
+    "priorities": [
+      { "title": "Clarify the headcount conversation", "body": "Explore requisition approval and workforce views alongside the business reason for a role. Identify how finance participates in the decision before recruitment begins." },
+      { "title": "Know which record to trust", "body": "Map employee information, change ownership and payroll-history requirements against existing systems. Separate the source of a field from the destination that uses it." },
+      { "title": "Evaluate the full cost of change", "body": "Consider configuration, migration, provider charges, internal effort and ongoing support. A pilot should expose these components, not hide them behind a single headline price." }
+    ],
+    "workflowTitle": "From a hiring request to an accountable handoff.",
+    "workflowIntro": "Use one approved role and a sample employee record to follow the decisions and information that cross the HR and finance boundary.",
+    "steps": [
+      { "label": "Request", "owner": "Department lead", "title": "Make the business reason explicit", "body": "Review the role requirement and accountable approver. Document the cost and headcount questions your organisation needs answered before the hiring process can proceed." },
+      { "label": "Review", "owner": "Finance + HR", "title": "Connect the decision to workforce context", "body": "Explore department and headcount views, then check the source and meaning of the data. Treat preview figures as illustrative, not a live financial forecast." },
+      { "label": "Map", "owner": "Payroll owner + IT", "title": "Define the data handoff", "body": "Agree required fields, effective dates, reconciliation responsibilities and error handling. Identify what should remain in your existing payroll or finance platform." },
+      { "label": "Assess", "owner": "Finance sponsor", "title": "Judge the pilot against its business case", "body": "Review process completion and your own baseline effort alongside implementation requirements. Decide whether the next phase is justified by observed value and remaining risk." }
+    ],
+    "capabilities": [
+      { "name": "Requisition approval journeys", "body": "See where a headcount decision enters the people process.", "href": "index.html#platform" },
+      { "name": "Workforce context", "body": "Explore departmental and headcount views with data owners.", "href": "index.html#platform" },
+      { "name": "Payroll and HRIS interface scoping", "body": "Document proposed exchanges and reconciliation requirements.", "href": "enterprise.html#integrations" },
+      { "name": "Buyer evaluation resources", "body": "Build a brief covering scope, cost categories and acceptance.", "href": "enterprise.html#resources" }
+    ],
+    "ai": { "title": "Make assumptions easier to review.", "body": "Brew's illustrative drafting approach can help frame a business-case checklist. Finance must validate every input and calculation; this preview does not offer financial forecasting or automated budget decisions.", "example": "Draft questions for evaluating a new hiring workflow, separating platform costs, implementation effort and external provider fees." },
+    "pilot": { "title": "Prove one data handoff before scaling it.", "body": "Use sample records and include local payroll owners for each proposed market. Nigerian and other African payroll requirements should remain with appropriately qualified providers and advisers.", "checks": ["Each exchanged field has an authoritative source", "Reconciliation and exception ownership are agreed", "Pilot costs and success measures are documented"], "boundary": "Hirebrew does not demonstrate payroll calculation, statutory filing, payment execution or a live payroll connection in this preview." },
+    "faqs": [
+      { "q": "Will Hirebrew run payroll?", "a": "Payroll execution is not represented as an available capability. Evaluate people-data workflows alongside your existing provider and scope any connection separately." },
+      { "q": "Are the workforce numbers live?", "a": "The marketing and product previews contain illustrative records. Production data sources, refresh rules and reconciliations must be established before using views for business decisions." },
+      { "q": "Can you promise a return on investment?", "a": "No universal savings figure is claimed. Agree your baseline, internal effort and decision criteria, then use the pilot to assess value in your own organisation." }
+    ],
+    "related": ["enterprise", "it-teams", "hr-teams"]
+  },
+  {
+    "slug": "legal-teams",
+    "legacyId": "team-legal",
+    "category": "team",
+    "name": "Legal teams",
+    "metaTitle": "People workflow review for legal teams | Hirebrew",
+    "metaDescription": "Bring privacy, policy ownership and human review into your Hirebrew evaluation. Map candidate and employee information before designing a live deployment.",
+    "headline": "Clear responsibilities. Better-informed people processes.",
+    "subhead": "Bring policy, privacy and decision accountability into the people journey before personal information moves between teams or systems.",
+    "summary": "Shape people workflows around policy ownership, privacy and accountable decisions.",
+    "challengeTitle": "The right review happens before the rollout.",
+    "challenge": "People systems touch sensitive information, employment decisions and documents that carry real consequences. Legal teams need more than a generic compliance badge: they need to know what information is collected, who can use it and what happens next. Hirebrew's evaluation approach makes those questions part of workflow design, with clear boundaries between a useful process and a verified control.",
+    "priorities": [
+      { "title": "Trace the personal-data journey", "body": "Follow candidate and employee information from collection through internal sharing. Identify the purpose, responsible owner and required retention or deletion treatment for each touchpoint." },
+      { "title": "Keep policy content under review", "body": "Explore letters, requests and employment-document workflows using approved sample content. Decide who can draft, approve and issue material, and which changes require renewed review." },
+      { "title": "Make decision accountability explicit", "body": "Set boundaries around interview feedback, employee cases and proposed AI assistance. Identify the people responsible for decisions and the evidence they need to retain." }
+    ],
+    "workflowTitle": "Review the journey, not just the policy document.",
+    "workflowIntro": "Use a sample candidate-to-employee journey to identify the points at which policy, privacy or employment questions become operational requirements.",
+    "steps": [
+      { "label": "Map", "owner": "Legal + HR", "title": "Identify what information enters the process", "body": "List candidate and employee fields, the purpose for collecting them and the teams that request access. Keep unnecessary personal information out of evaluation datasets." },
+      { "label": "Assign", "owner": "Policy owners", "title": "Name the approval responsibilities", "body": "Review letters, requests and case touchpoints. Define who owns templates, reviews sensitive changes and can authorise a final communication in the intended deployment." },
+      { "label": "Test", "owner": "IT + privacy reviewers", "title": "Ask for evidence of controls", "body": "Turn access, retention, deletion and audit requirements into deployment tests. A visible interface or stated policy is not sufficient evidence that a control is enforced." },
+      { "label": "Decide", "owner": "Business + legal sponsors", "title": "Set conditions for live use", "body": "Record unresolved questions, permitted pilot data and any required approvals. Revisit the assessment when a new market, provider or AI workflow changes the proposed use." }
+    ],
+    "capabilities": [
+      { "name": "Candidate and employee journeys", "body": "Inspect the points where personal information changes hands.", "href": "index.html#tour" },
+      { "name": "Letters and employee requests", "body": "Evaluate workflow ownership using approved sample content.", "href": "index.html#platform" },
+      { "name": "Governance questions", "body": "Translate policy expectations into a deployment evidence list.", "href": "enterprise.html#governance" },
+      { "name": "Human-reviewed AI concepts", "body": "Explore assistance without delegating consequential decisions.", "href": "index.html#brew" }
+    ],
+    "ai": { "title": "AI should assist a reviewer, not replace one.", "body": "Brew examples are illustrative drafts and summaries. Define permitted inputs, review responsibilities and prohibited uses before considering a live provider or processing personal information.", "example": "Draft a plain-language checklist for reviewing an onboarding communication against our approved internal policies." },
+    "pilot": { "title": "Start with sample data and an evidence checklist.", "body": "For operations in Nigeria and other African markets, identify applicable privacy and employment requirements with qualified local advisers rather than assuming one policy covers every entity.", "checks": ["Data purposes and responsible owners are documented", "Retention, deletion and access tests are defined", "Human review is explicit for sensitive decisions"], "boundary": "These workflows are not legal advice or a claim of NDPA, NDPR or other regulatory compliance. Controls require implementation and verification." },
+    "faqs": [
+      { "q": "Is Hirebrew certified compliant?", "a": "No certification claim is made in this preview. Request deployment-specific evidence and assess the proposed processing against your organisation's applicable obligations." },
+      { "q": "Are letters automatically legally approved?", "a": "No. Your authorised reviewers must approve content, templates and issuance rules. A document workflow does not establish the legal suitability of its wording." },
+      { "q": "Can we define deletion requirements?", "a": "Yes, include them in the evaluation brief. The required behaviour, exceptions, responsible parties and test evidence must be agreed before live data is introduced." }
+    ],
+    "related": ["enterprise", "it-teams", "hr-teams"]
+  },
+  {
+    "slug": "it-teams",
+    "legacyId": "team-it",
+    "category": "team",
+    "name": "IT teams",
+    "metaTitle": "Hirebrew evaluation for IT and system owners",
+    "metaDescription": "Map identity, role access, integrations and operating requirements for a Hirebrew pilot. Evaluate connected people journeys without assuming production controls.",
+    "headline": "Know the connections. Control the rollout.",
+    "subhead": "Evaluate the people experience alongside identity, data ownership and operational requirements, with clear boundaries around what still needs implementation.",
+    "summary": "Map role access, system connections and operational readiness before rollout.",
+    "challengeTitle": "A smooth interface is only the beginning.",
+    "challenge": "IT inherits the questions that a demonstration cannot answer on its own. How do people sign in? Which records can an interviewer see? What happens when a provider fails or a person leaves? Hirebrew gives you a connected product journey to inspect, while the enterprise evaluation makes integration, access and operating evidence explicit workstreams.",
+    "priorities": [
+      { "title": "Start with the role boundaries", "body": "Compare the intended HR, manager, interviewer, candidate, employee and administrator experiences. Turn each boundary into an access requirement and a server-side verification test." },
+      { "title": "Scope every external connection", "body": "Map email, calendar, messaging, payroll and HRIS requirements to actual system owners. Document direction, fields, failure handling and reconciliation before a connector is treated as live." },
+      { "title": "Plan for operating the service", "body": "Include environments, monitoring, backup restoration, incident responsibilities and support in the pilot brief. Implementation is more than getting the first successful screen to load." }
+    ],
+    "workflowTitle": "From product walkthrough to deployment evidence.",
+    "workflowIntro": "Choose a narrow employee journey, then test both the visible experience and the controls that must support it in a real deployment.",
+    "steps": [
+      { "label": "Inspect", "owner": "IT + process owners", "title": "Walk every participating role", "body": "Follow a recruiter, candidate, interviewer and manager through the same sample journey. Capture the minimum information and actions each participant actually requires." },
+      { "label": "Design", "owner": "Identity + security owners", "title": "Define access before live use", "body": "Specify identity provider, MFA, SSO and permission expectations. Include denied-access tests and account lifecycle requirements rather than checking only successful sign-in." },
+      { "label": "Connect", "owner": "Integration owners", "title": "Treat interfaces as individual workstreams", "body": "Agree source systems, provider credentials, field mappings and error ownership. Validate each proposed exchange with sample records before relying on it operationally." },
+      { "label": "Operate", "owner": "Delivery + support owners", "title": "Prove recovery and escalation paths", "body": "Establish monitoring, backup and incident tests appropriate to the deployment. Document who responds when a workflow or external delivery fails during the pilot." }
+    ],
+    "capabilities": [
+      { "name": "Role-based product walkthrough", "body": "Inspect how the intended participants move through a journey.", "href": "index.html#tour" },
+      { "name": "Integration readiness matrix", "body": "Distinguish provider scope from a validated live connection.", "href": "enterprise.html#integrations" },
+      { "name": "Governance evaluation", "body": "Build an evidence plan for identity, permissions and data.", "href": "enterprise.html#governance" },
+      { "name": "Phased rollout planning", "body": "Define a pilot boundary and the conditions for expansion.", "href": "enterprise.html#rollout" }
+    ],
+    "ai": { "title": "Evaluate AI as another controlled dependency.", "body": "Brew's examples are local and illustrative. A live implementation needs provider selection, approved data flows, error handling and human review; none should be inferred from a polished draft.", "example": "Outline an evaluation checklist for a draft-assistance service, covering permitted inputs, review ownership and provider failure." },
+    "pilot": { "title": "A narrow scope with meaningful failure tests.", "body": "Include the devices, connectivity and locations your teams actually use. Test a Nigerian branch or field setting where relevant, not only a head-office desktop.", "checks": ["Denied-access and account lifecycle cases are specified", "Integration errors have a responsible owner", "Recovery and monitoring evidence is reviewed"], "boundary": "Production identity, SSO, MFA, strict permissions and operational assurance require implementation and verification; this preview does not establish them." },
+    "faqs": [
+      { "q": "Are the role views proof of secure permissions?", "a": "No. A role-specific interface describes an intended experience. Server-side enforcement, record isolation and denied-access behaviour must be tested independently in the deployment." },
+      { "q": "Are email and calendar providers connected?", "a": "Live provider delivery is not claimed. Agree the provider and required workflow, configure the integration and test success and failure paths separately." },
+      { "q": "Does onboarding provision devices and accounts?", "a": "The preview includes onboarding tasks and ownership, not automatic device provisioning or identity lifecycle automation. Scope those requirements against your existing systems." }
+    ],
+    "related": ["enterprise", "legal-teams", "hr-teams"]
+  },
+  {
+    "slug": "founders",
+    "legacyId": "team-founders",
+    "category": "team",
+    "name": "Founders",
+    "metaTitle": "People workflows for founders | Hirebrew",
+    "metaDescription": "Give your next hire a clearer start and your managers more ownership. Explore Hirebrew for founder-led hiring, onboarding, goals and a practical people rhythm.",
+    "headline": "Build the company. Grow the people.",
+    "subhead": "Turn the way you hire, welcome and develop people into a repeatable rhythm that does not depend on you chasing every step.",
+    "summary": "Give managers ownership while keeping hiring and early expectations clear.",
+    "challengeTitle": "Your calendar cannot be the operating system.",
+    "challenge": "Founders carry context that nobody else has: why a role matters, what a strong hire looks like and what the company needs next. But when every decision depends on that context staying in your head, the team slows down. Hirebrew helps you explore a people rhythm that makes expectations visible and gives managers a clearer part to play.",
+    "priorities": [
+      { "title": "Turn intent into a hiring brief", "body": "Explain the outcome a role should own, then bring the interview team around shared criteria. Make your judgment usable without requiring your presence at every conversation." },
+      { "title": "Delegate the handoff, not the responsibility", "body": "Assign onboarding and check-in ownership to the manager. Keep the first weeks intentional while moving the daily coordination away from the founder's inbox." },
+      { "title": "Build a company people can grow with", "body": "Explore goals, feedback and learning as regular conversations. Give early employees a way to understand how their contribution and development connect to the business." }
+    ],
+    "workflowTitle": "The next hire can set a better pattern.",
+    "workflowIntro": "Pick one important role and follow it through the first month. Use the journey to decide what you must own and what a manager can lead.",
+    "steps": [
+      { "label": "Clarify", "owner": "Founder + team lead", "title": "Describe the outcome, not just the title", "body": "Agree why the role exists and the evidence an interview should uncover. Use the requisition as a shared decision brief, not simply a request to recruit." },
+      { "label": "Listen", "owner": "Hiring team", "title": "Let the panel contribute real evidence", "body": "Coordinate interviews and collect structured feedback from the people who will work with the hire. Keep candidate questions and replies part of the conversation." },
+      { "label": "Welcome", "owner": "Line manager", "title": "Make a start that does not rely on improvisation", "body": "Assign practical tasks, introductions and first-month expectations. Give the new employee a named manager and a scheduled opportunity to ask what is still unclear." },
+      { "label": "Develop", "owner": "Manager + employee", "title": "Create an early feedback rhythm", "body": "Explore goals and check-ins before small uncertainties become performance surprises. Record learning needs and next actions that the manager and employee can revisit together." }
+    ],
+    "capabilities": [
+      { "name": "Role requests and approvals", "body": "Make the reason for each hire visible to the team.", "href": "index.html#platform" },
+      { "name": "Panel feedback and conversations", "body": "Keep the hiring decision informed by more than one viewpoint.", "href": "index.html#tour" },
+      { "name": "First-month onboarding plans", "body": "Give new starters expectations and managers clear ownership.", "href": "index.html#platform" },
+      { "name": "Goals, check-ins and learning", "body": "Make development a repeatable part of building the company.", "href": "index.html#platform" }
+    ],
+    "ai": { "title": "Get your thinking onto the page.", "body": "Use Brew's illustrative drafting concept to see how rough founder notes could become a role brief or onboarding outline. A person still checks assumptions, adjusts the language and owns the decision.", "example": "Turn these business priorities into a first-month discussion outline for a new operations lead, without inventing targets." },
+    "pilot": { "title": "Give one manager a complete journey to own.", "body": "Choose a role that matters to your next stage. If your team spans African markets, make location expectations and local policy questions part of the brief.", "checks": ["The hiring team understands the role's purpose", "The manager owns the first-month handoff", "The employee knows what to discuss at check-ins"], "boundary": "Use the prototype to shape the process. Live personal data, identity, notifications and any AI provider require separate readiness checks." },
+    "faqs": [
+      { "q": "How is this different from the startup solution?", "a": "The startup page focuses on a small company's operating rhythm. This founder view focuses on making your context explicit, delegating responsibly and helping managers take ownership as the company grows." },
+      { "q": "Can I keep visibility without owning every task?", "a": "That is the process to evaluate: named role owners, visible stages and agreed check-ins. Test the manager and founder information needs rather than assuming everyone needs access to everything." },
+      { "q": "Where should we begin?", "a": "Follow your next meaningful hire from approval through the first month. Document where the journey still depends on you, then assign a clear owner or decision rule." }
+    ],
+    "related": ["startups", "mid-market", "hr-teams"]
+  }
+]

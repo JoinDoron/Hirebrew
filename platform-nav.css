@@ -1,0 +1,35 @@
+/* Shared product navigation, using the established Hirebrew visual system. */
+.platform-nav{position:static}
+.platform-fallback{font-size:13px}
+.platform-toggle{display:flex;align-items:center;gap:8px;padding:13px 0;font-size:12px;font-weight:500;min-height:44px;white-space:nowrap}
+.platform-toggle>span{font-size:16px;transition:transform .18s}
+.platform-toggle[aria-expanded=true]>span{transform:rotate(180deg)}
+.platform-panel{position:absolute;top:100%;left:0;right:0;z-index:35;display:grid;grid-template-columns:.8fr 2fr;gap:40px;padding:35px;background:var(--paper,#fffefa);border:1px solid var(--line,#d9dcd4);border-radius:0 0 16px 16px;box-shadow:0 22px 40px #17232613;max-height:calc(100svh - 96px);overflow:auto;overscroll-behavior:contain}
+.platform-panel[hidden]{display:none!important}
+.platform-menu-intro{border-right:1px solid var(--line,#d9dcd4);padding-right:24px;min-width:0}
+.platform-menu-kicker{font:600 9px/1.6 var(--body,'DM Sans',sans-serif);letter-spacing:.07em;color:var(--muted,#5c6665)}
+.platform-menu-intro h2{font:600 35px/1.04 var(--display,Bricolage,sans-serif);letter-spacing:-.04em;margin:21px 0 16px}
+.platform-overview-link{display:inline-flex;align-items:center;gap:12px;font-size:12px;font-weight:600;min-height:44px}
+.platform-overview-link:hover,.platform-overview-link[aria-current=page]{text-decoration:underline;text-underline-offset:5px}
+.platform-menu-products{display:grid;grid-template-columns:1fr 1fr;gap:12px 22px;list-style:none;padding:0;margin:0}
+.platform-menu-products li{min-width:0}
+.platform-menu-products a{display:block;padding:12px;border-radius:8px;min-height:44px;transition:background-color .15s}
+.platform-menu-products a:hover,.platform-menu-products a:focus-visible,.platform-menu-products a[aria-current=page]{background:#f0efe7}
+.platform-menu-products strong{display:block;font:600 23px/1.15 var(--display,Bricolage,sans-serif);letter-spacing:-.035em;color:var(--ink,#172326)}
+.platform-menu-products a>span{display:block;font-size:12px;line-height:1.6;color:var(--muted,#5c6665);margin-top:8px;max-width:250px}
+.enterprise-page .platform-toggle{font-size:13px}
+.module-copy #module-detail{display:flex;width:fit-content;margin-top:3px}
+@media(max-width:1000px){.platform-panel{padding:27px;gap:25px}.platform-menu-intro h2{font-size:30px}.platform-menu-products{gap:8px 12px}.platform-menu-products strong{font-size:21px}.platform-menu-products a>span{font-size:11px}}
+@media(max-width:800px){
+  .platform-toggle,.enterprise-page .platform-toggle{font-size:15px;padding:10px;justify-content:space-between;width:100%}
+  .platform-panel{position:static;grid-template-columns:1fr;gap:14px;margin:4px 0 13px;padding:14px 8px 20px;border:0;border-radius:10px;box-shadow:none;max-height:none;overflow:visible}
+  .platform-menu-intro{border:0;border-bottom:1px solid var(--line,#d9dcd4);padding:0 4px 12px}
+  .platform-menu-kicker,.platform-menu-intro h2{display:none}
+  .platform-overview-link{font-size:12px}
+  .platform-menu-products{gap:6px 8px}
+  .platform-menu-products a{padding:10px 6px}
+  .platform-menu-products strong{font-size:21px}
+  .platform-menu-products a>span{font-size:11px;margin-top:6px}
+}
+@media(max-width:360px){.platform-menu-products{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.platform-toggle>span,.platform-menu-products a{transition:none}}

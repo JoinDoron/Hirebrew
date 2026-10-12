@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Finance
+
+WORKFLOW TO EVALUATE
+A considered route into a specialist team.
+Use a sample operations analyst role to evaluate hiring, onboarding and the points where control functions need to participate.
+
+HANDOFFS
+Request | Business lead
+Establish the hiring context
+Describe the vacancy, role expectations and approval path. Give HR a shared brief before candidates enter the recruitment process.
+
+Evaluate | HR + specialist panel
+Capture structured feedback
+Coordinate interviews and compare scorecards. Keep candidate replies visible and distinguish interview evidence from background or regulated checks handled elsewhere.
+
+Coordinate | Onboarding owner
+Assign the welcome tasks
+Make administrative onboarding and manager introductions explicit. Keep access approvals and specialist authorisations with the teams and systems responsible for them.
+
+Support | Employee + manager
+Maintain a people-service route
+Explore employee requests, letters and early development goals. Review the journey with your governance stakeholders before introducing live employee data.
+
+PILOT SCOPE
+Start with an evidence-led buyer review.
+Bring HR, business operations, IT and governance stakeholders into a sample-data walkthrough. Record requirements that must be satisfied before any production decision.
+
+VALIDATION CHECKLIST
+[ ] Map role and record-level access requirements for every participant.
+[ ] Identify data, identity and audit evidence needed for your own assessment.
+[ ] Document specialist checks and integrations that remain outside the preview.
+
+BOUNDARIES
+No financial-sector compliance certification, KYC, background verification, live payroll or production SSO/MFA is claimed. Security and integration readiness require independent validation.
+
+AI EVALUATION
+Illustrative Brew AI drafts can organise approved role requirements into an interview guide or onboarding outline. Review the output for accuracy, relevance and bias. The website does not demonstrate live AI, automated suitability decisions or regulatory advice.
+Example prompt: Draft a structured interview guide for an operations analyst using the approved role requirements. Include evidence-based prompts, not a candidate ranking or suitability recommendation.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

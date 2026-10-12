@@ -1,0 +1,42 @@
+HIREBREW PILOT BRIEF
+Technology
+
+WORKFLOW TO EVALUATE
+From an approved role to a confident start.
+A proposed pilot around one product team. Use sample records to connect its hiring manager, interview panel, HR and onboarding owners.
+
+HANDOFFS
+Define | Hiring manager
+Agree what the team needs
+Raise a requisition and clarify role expectations. Establish the approval path and evidence the interview panel should look for.
+
+Interview | Recruiter + technical panel
+Make the decision discussable
+Coordinate panel participation, candidate stages and structured feedback. Keep candidate questions connected to the process rather than leaving them in a separate thread.
+
+Onboard | Manager + people team
+Join up the first weeks
+Assign introductions, learning tasks and 30/60/90-day check-ins. Keep account provisioning and specialist access approvals in the systems that own them.
+
+Grow | Employee + manager
+Turn expectations into conversations
+Explore goals, feedback and learning needs. Use the early check-ins to discuss context and support, not to replace professional judgement with an automated score.
+
+PILOT SCOPE
+Pilot with one cross-functional team.
+Choose a real hiring pattern but use sample people data. Evaluate the handoff end to end before discussing broader adoption, identity requirements or integration work.
+
+VALIDATION CHECKLIST
+[ ] Run a candidate conversation and panel feedback walkthrough.
+[ ] Map every onboarding owner, including the handoff to IT.
+[ ] Document identity, access and integration requirements for production evaluation.
+
+BOUNDARIES
+Automated account provisioning, production SSO/MFA, live AI and connected external integrations are not claimed in the preview. Global employment and payroll execution remain outside scope.
+
+AI EVALUATION
+Brew AI's illustrative drafts can help structure an interview guide, onboarding outline or check-in agenda using approved role information. A person reviews the result. The website does not run live model inference or automatically rank applicants.
+Example prompt: Draft an onboarding outline for a product engineer. Include introductions, learning goals and manager check-ins. Do not invent access rights, delivery deadlines or performance expectations.
+
+NEXT STEP
+Assign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.

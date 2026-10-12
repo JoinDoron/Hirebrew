@@ -1,0 +1,422 @@
+[
+  {
+    "slug": "hire",
+    "product": "Hire",
+    "mode": "conversation",
+    "title": "A candidate asks. The team stays connected.",
+    "intro": "Follow Amaka's interview question from her candidate view to a prepared panel and a clear next step.",
+    "record": "Operations manager / Lagos",
+    "person": { "initials": "AO", "name": "Amaka Okafor", "role": "Candidate" },
+    "prompt": "Should I prepare a presentation for the panel interview?",
+    "sources": ["Candidate conversation", "Role brief", "Panel scorecards"],
+    "frames": [
+      {
+        "label": "Ask",
+        "activity": "Candidate question opened",
+        "heading": "The question has somewhere to go.",
+        "body": "Amaka asks about preparation. Her recruiter sees the question alongside the role and interview stage.",
+        "items": [
+          { "label": "Candidate question", "detail": "Awaiting recruiter reply", "status": "active" },
+          { "label": "Interview brief", "detail": "Preparation guidance available", "status": "ready" },
+          { "label": "Panel feedback", "detail": "Interview not yet held", "status": "pending" }
+        ],
+        "message": { "author": "Amaka", "text": "Should I prepare a presentation, or will we discuss my experience?" },
+        "outcome": "The recruiter has the question and its context."
+      },
+      {
+        "label": "Reply",
+        "activity": "Recruiter response shared in the sample",
+        "heading": "A useful answer, not another status.",
+        "body": "The recruiter checks the brief and replies. Amaka knows what to prepare and can continue the conversation.",
+        "items": [
+          { "label": "Candidate question", "detail": "Recruiter response available", "status": "ready" },
+          { "label": "Interview brief", "detail": "Preparation guidance confirmed", "status": "ready" },
+          { "label": "Panel feedback", "detail": "Interview not yet held", "status": "pending" }
+        ],
+        "message": { "author": "Tunde, recruiter", "text": "No presentation needed. Please bring an example of improving an operations process. What would you like us to clarify?" },
+        "outcome": "Amaka can prepare and reply in the same conversation."
+      },
+      {
+        "label": "Interview",
+        "activity": "Panel scorecards in progress",
+        "heading": "Different perspectives. One shared role.",
+        "body": "After the sample interview, HR checks the panel's structured feedback and identifies the contribution still outstanding.",
+        "items": [
+          { "label": "Candidate question", "detail": "Preparation confirmed by Amaka", "status": "ready" },
+          { "label": "Interview brief", "detail": "Panel assessed agreed criteria", "status": "ready" },
+          { "label": "Panel feedback", "detail": "Operations scorecard still pending", "status": "active" }
+        ],
+        "message": { "author": "Tunde, recruiter", "text": "People and technical feedback are available. Chidi, please add your operations evidence before our review." },
+        "outcome": "The missing contribution has a named owner."
+      },
+      {
+        "label": "Review",
+        "activity": "Hiring team ready to discuss",
+        "heading": "The team decides with the evidence.",
+        "body": "The completed panel feedback and candidate conversation come together. The hiring manager owns the decision and next communication.",
+        "items": [
+          { "label": "Candidate question", "detail": "Conversation available for review", "status": "ready" },
+          { "label": "Interview brief", "detail": "Agreed requirements in view", "status": "ready" },
+          { "label": "Panel feedback", "detail": "Panel contributions ready", "status": "ready" }
+        ],
+        "message": { "author": "Chidi, hiring manager", "text": "Let's review the evidence together, agree our next step and keep Amaka informed." },
+        "outcome": "A human-led decision with a clear follow-up owner."
+      }
+    ],
+    "manual": {
+      "title": "When the conversation is scattered",
+      "items": ["Candidate question in an inbox", "Role brief in another document", "Panel notes held separately", "Recruiter reconstructs the next step"],
+      "outcome": "The team has to reconnect the story."
+    }
+  },
+  {
+    "slug": "onboard",
+    "product": "Onboard",
+    "mode": "checklist",
+    "title": "Make Zainab's first week feel considered.",
+    "intro": "Watch a new joiner's welcome move from assigned tasks to introductions, a first goal and a manager check-in.",
+    "record": "First-week plan / Abuja",
+    "person": { "initials": "ZB", "name": "Zainab Bello", "role": "New operations analyst" },
+    "prompt": "What should I focus on before my first manager check-in?",
+    "sources": ["Welcome checklist", "Manager handoff", "First-month goals"],
+    "frames": [
+      {
+        "label": "Prepare",
+        "activity": "Welcome responsibilities assigned",
+        "heading": "A plan before the first morning.",
+        "body": "HR and Zainab's manager agree the essentials. Each task has an owner instead of becoming a general welcome email.",
+        "items": [
+          { "label": "Read the role brief", "detail": "Zainab / ready to begin", "status": "active" },
+          { "label": "Meet the operations team", "detail": "Manager / introductions to arrange", "status": "pending" },
+          { "label": "Agree the first goal", "detail": "Zainab and manager / check-in", "status": "pending" }
+        ],
+        "message": { "author": "Ada, people partner", "text": "Welcome, Zainab. Start with your role brief. Your manager will help you connect each task to the team's work." },
+        "outcome": "Zainab knows where to begin and who can help."
+      },
+      {
+        "label": "Begin",
+        "activity": "Role context reviewed",
+        "heading": "The checklist starts a conversation.",
+        "body": "Zainab reviews the brief and raises a practical question. Her manager can respond before the first goal is agreed.",
+        "items": [
+          { "label": "Read the role brief", "detail": "Zainab / reviewed", "status": "ready" },
+          { "label": "Meet the operations team", "detail": "Manager / introductions in progress", "status": "active" },
+          { "label": "Agree the first goal", "detail": "Awaiting manager conversation", "status": "pending" }
+        ],
+        "message": { "author": "Zainab", "text": "I've read the brief. Could we walk through a real handover before I choose my first improvement task?" },
+        "outcome": "The welcome responds to the person, not just the checklist."
+      },
+      {
+        "label": "Connect",
+        "activity": "Team introductions completed",
+        "heading": "Meet the people behind the process.",
+        "body": "The manager connects Zainab with the team and a practical learning task. The first check-in now has a useful focus.",
+        "items": [
+          { "label": "Read the role brief", "detail": "Zainab / reviewed", "status": "ready" },
+          { "label": "Meet the operations team", "detail": "Manager / introductions complete", "status": "ready" },
+          { "label": "Agree the first goal", "detail": "Discuss a sample handover", "status": "active" }
+        ],
+        "message": { "author": "Chidi, manager", "text": "Sit with Ife as she prepares a handover. Bring one observation to our check-in and we will shape your first goal together." },
+        "outcome": "Introductions connect to a meaningful piece of work."
+      },
+      {
+        "label": "Progress",
+        "activity": "First-month goal agreed",
+        "heading": "Day one becomes a supported month.",
+        "body": "Zainab and her manager agree an initial goal and follow-up. The welcome carries into an ongoing development conversation.",
+        "items": [
+          { "label": "Read the role brief", "detail": "Zainab / reviewed", "status": "ready" },
+          { "label": "Meet the operations team", "detail": "Working relationships started", "status": "ready" },
+          { "label": "Agree the first goal", "detail": "Handover improvement / review next week", "status": "ready" }
+        ],
+        "message": { "author": "Zainab", "text": "My first goal is to document the handover steps with Ife. We will review the draft at next week's check-in." },
+        "outcome": "A clear first goal, with support and a review point."
+      }
+    ],
+    "manual": {
+      "title": "When the welcome lives in separate lists",
+      "items": ["Welcome email without task owners", "Introductions arranged in separate chats", "Role expectations explained from memory", "First check-in left unplanned"],
+      "outcome": "The new joiner must piece together the beginning."
+    }
+  },
+  {
+    "slug": "people",
+    "product": "People",
+    "mode": "request",
+    "title": "A leave request should not become a chase.",
+    "intro": "Follow an employee request through context, manager review and a visible response, with responsibility clear at every step.",
+    "record": "Annual leave request / Ibadan",
+    "person": { "initials": "FO", "name": "Femi Owolabi", "role": "Employee" },
+    "prompt": "Can I take leave next month once our handover is covered?",
+    "sources": ["Employee request", "Manager review", "People record"],
+    "frames": [
+      {
+        "label": "Request",
+        "activity": "Sample leave request submitted",
+        "heading": "One clear starting point.",
+        "body": "Femi shares the proposed dates and a handover note. The request is ready for the responsible manager to review.",
+        "items": [
+          { "label": "Proposed dates", "detail": "12-16 October / employee request", "status": "ready" },
+          { "label": "Handover coverage", "detail": "Proposed colleague / needs confirmation", "status": "active" },
+          { "label": "Manager review", "detail": "Awaiting Sade's response", "status": "pending" }
+        ],
+        "message": { "author": "Femi", "text": "I'd like to request 12-16 October. I have suggested a handover with Kemi, subject to her availability." },
+        "outcome": "The request includes the context a reviewer needs."
+      },
+      {
+        "label": "Clarify",
+        "activity": "Manager checks the handover",
+        "heading": "A question reaches the right person.",
+        "body": "Sade checks the proposed coverage before deciding. Femi can see what is still needed rather than guessing at the delay.",
+        "items": [
+          { "label": "Proposed dates", "detail": "12-16 October / under review", "status": "ready" },
+          { "label": "Handover coverage", "detail": "Please confirm with Kemi", "status": "active" },
+          { "label": "Manager review", "detail": "Sade / clarification requested", "status": "active" }
+        ],
+        "message": { "author": "Sade, manager", "text": "Please confirm Kemi's availability for the handover. I will review the request with our team schedule and leave policy." },
+        "outcome": "The next action is specific and visible."
+      },
+      {
+        "label": "Review",
+        "activity": "Coverage confirmed for the sample",
+        "heading": "The manager has the missing context.",
+        "body": "Femi confirms the handover. Sade reviews the request using the company's policy and operational needs before recording a decision.",
+        "items": [
+          { "label": "Proposed dates", "detail": "12-16 October / under review", "status": "ready" },
+          { "label": "Handover coverage", "detail": "Kemi / availability confirmed", "status": "ready" },
+          { "label": "Manager review", "detail": "Policy and schedule review", "status": "active" }
+        ],
+        "message": { "author": "Femi", "text": "Kemi has confirmed. I will prepare the handover notes before the requested dates." },
+        "outcome": "A responsible reviewer makes the decision with context."
+      },
+      {
+        "label": "Respond",
+        "activity": "Sample decision visible to the employee",
+        "heading": "The answer completes the loop.",
+        "body": "In this example, Sade approves the request and confirms the handover expectation. Femi can see the outcome and next action.",
+        "items": [
+          { "label": "Proposed dates", "detail": "12-16 October / approved in example", "status": "ready" },
+          { "label": "Handover coverage", "detail": "Kemi / notes due before leave", "status": "ready" },
+          { "label": "Manager review", "detail": "Sade / decision recorded", "status": "ready" }
+        ],
+        "message": { "author": "Sade, manager", "text": "Approved for this sample request. Please share the handover notes with Kemi before your leave begins." },
+        "outcome": "The employee sees an answer, not just a submission."
+      }
+    ],
+    "manual": {
+      "title": "When everyday requests lose their owner",
+      "items": ["Dates sent in a private chat", "Coverage checked in another thread", "Policy context held by HR", "Employee asks again for an answer"],
+      "outcome": "Submission and resolution become separate conversations."
+    }
+  },
+  {
+    "slug": "grow",
+    "product": "Grow",
+    "mode": "goals",
+    "title": "Turn a check-in into the next useful step.",
+    "intro": "See how a first-time team lead and her manager connect a clear goal, honest feedback and a practical learning action.",
+    "record": "First management goal / Accra",
+    "person": { "initials": "AM", "name": "Abena Mensah", "role": "New team lead" },
+    "prompt": "How can I make our weekly handovers clearer for everyone?",
+    "sources": ["Shared goal", "Check-in notes", "Learning action"],
+    "frames": [
+      {
+        "label": "Agree",
+        "activity": "Manager and employee shape the goal",
+        "heading": "Start with useful progress.",
+        "body": "Abena and her manager choose a practical goal: a handover template the team can use and explain.",
+        "items": [
+          { "label": "Shared goal", "detail": "Create a clearer handover template", "status": "active" },
+          { "label": "Check-in evidence", "detail": "Bring a draft and questions", "status": "pending" },
+          { "label": "Learning action", "detail": "Agree support at the check-in", "status": "pending" }
+        ],
+        "message": { "author": "Kojo, manager", "text": "Let's define success as a template your team understands. Bring a draft to our check-in and we will test it together." },
+        "outcome": "The goal includes evidence, support and a review point."
+      },
+      {
+        "label": "Discuss",
+        "activity": "Check-in surfaces a support need",
+        "heading": "Feedback becomes a real conversation.",
+        "body": "The draft is useful, but ownership is unclear. The manager separates the learning need from a judgement about Abena.",
+        "items": [
+          { "label": "Shared goal", "detail": "Draft ready for discussion", "status": "ready" },
+          { "label": "Check-in evidence", "detail": "Task owners need more clarity", "status": "active" },
+          { "label": "Learning action", "detail": "Practise a supported handover", "status": "pending" }
+        ],
+        "message": { "author": "Abena", "text": "The team likes the structure. We still need a clearer way to show who owns each unfinished task." },
+        "outcome": "A specific observation leads to specific support."
+      },
+      {
+        "label": "Practise",
+        "activity": "Learning action agreed",
+        "heading": "Development fits the work itself.",
+        "body": "Abena adds an owner field and practises the handover with her manager. The development action stays connected to her goal.",
+        "items": [
+          { "label": "Shared goal", "detail": "Owner field added to template", "status": "ready" },
+          { "label": "Check-in evidence", "detail": "Feedback linked to the revision", "status": "ready" },
+          { "label": "Learning action", "detail": "Practise handover with Kojo", "status": "active" }
+        ],
+        "message": { "author": "Kojo, manager", "text": "Let's practise with one unfinished task. Ask the next owner to explain what they will do before we finish." },
+        "outcome": "Learning has a practical task and an available coach."
+      },
+      {
+        "label": "Reflect",
+        "activity": "Next commitment captured",
+        "heading": "Progress ends with another beginning.",
+        "body": "They review the revised template and agree to try it with the team. The next conversation has a clear purpose.",
+        "items": [
+          { "label": "Shared goal", "detail": "Revised template ready to try", "status": "ready" },
+          { "label": "Check-in evidence", "detail": "Draft and feedback reviewed together", "status": "ready" },
+          { "label": "Learning action", "detail": "Practice complete / team trial next", "status": "ready" }
+        ],
+        "message": { "author": "Abena", "text": "I'll use the revised template at our next handover and bring the team's questions to our follow-up." },
+        "outcome": "A development conversation produces a shared next commitment."
+      }
+    ],
+    "manual": {
+      "title": "When development waits for review season",
+      "items": ["Goal stored in a review document", "Feedback shared without context", "Learning chosen from a separate list", "Next check-in has no shared record"],
+      "outcome": "The employee reconnects the goal, feedback and support."
+    }
+  },
+  {
+    "slug": "intelligence",
+    "product": "Intelligence",
+    "mode": "insight",
+    "title": "Find the question behind an open role.",
+    "intro": "Follow a workforce review from a broad hiring concern to a checked explanation and a named next action.",
+    "record": "Hiring review / Port Harcourt operations",
+    "person": { "initials": "EI", "name": "Ebiye Ibiama", "role": "People operations lead" },
+    "prompt": "Why is the approved operations role still at interview stage?",
+    "sources": ["Approved requisition", "Candidate pipeline", "Panel feedback"],
+    "frames": [
+      {
+        "label": "Frame",
+        "activity": "Sample hiring review scoped",
+        "heading": "Ask about a role, not everything.",
+        "body": "Ebiye narrows the review to one approved role. The question is where it stands and who owns the next step.",
+        "items": [
+          { "label": "Role approval", "detail": "Operations vacancy / approved", "status": "ready" },
+          { "label": "Candidate stage", "detail": "Interview / inspect context", "status": "active" },
+          { "label": "Panel feedback", "detail": "Check completion before conclusions", "status": "pending" }
+        ],
+        "message": { "author": "Ebiye", "text": "Let's review this vacancy's approval, current stage and next responsible owner before describing it as a recruitment delay." },
+        "outcome": "The discussion starts with a specific, answerable question."
+      },
+      {
+        "label": "Explore",
+        "activity": "Pipeline context inspected",
+        "heading": "The stage tells part of the story.",
+        "body": "The sample pipeline shows an interview completed but a panel review still open. Ebiye looks for the underlying evidence.",
+        "items": [
+          { "label": "Role approval", "detail": "Confirmed in sample requisition", "status": "ready" },
+          { "label": "Candidate stage", "detail": "Interview complete / review open", "status": "ready" },
+          { "label": "Panel feedback", "detail": "Operations contribution outstanding", "status": "active" }
+        ],
+        "message": { "author": "Ebiye", "text": "The role is not waiting for approval. Let's check whether the outstanding panel feedback explains the open review." },
+        "outcome": "The view points to a record worth checking."
+      },
+      {
+        "label": "Validate",
+        "activity": "Finding checked with the record owner",
+        "heading": "Check before turning context into certainty.",
+        "body": "The panel coordinator confirms which contribution is missing. The team records an explanation without blaming the recruiter or candidate.",
+        "items": [
+          { "label": "Role approval", "detail": "No approval action outstanding", "status": "ready" },
+          { "label": "Candidate stage", "detail": "Awaiting panel review discussion", "status": "ready" },
+          { "label": "Panel feedback", "detail": "Coordinator confirms missing contribution", "status": "active" }
+        ],
+        "message": { "author": "Chidi, panel coordinator", "text": "Yes, we still need the operations scorecard. I will follow up with its owner before arranging the decision discussion." },
+        "outcome": "A checked explanation replaces a broad assumption."
+      },
+      {
+        "label": "Act",
+        "activity": "Follow-up owner agreed",
+        "heading": "Leave the review with a next step.",
+        "body": "Chidi owns the missing contribution and Ebiye owns the follow-up review. The dashboard informs the action; people remain accountable.",
+        "items": [
+          { "label": "Role approval", "detail": "Reviewed / no action needed", "status": "ready" },
+          { "label": "Candidate stage", "detail": "Next review owned by Ebiye", "status": "ready" },
+          { "label": "Panel feedback", "detail": "Follow-up assigned to Chidi", "status": "active" }
+        ],
+        "message": { "author": "Ebiye", "text": "Chidi will follow up on the scorecard. We will revisit the role after that contribution is ready, then agree the candidate update." },
+        "outcome": "A specific follow-up, without claiming the role is filled."
+      }
+    ],
+    "manual": {
+      "title": "When the review starts with disconnected reports",
+      "items": ["Open roles in a spreadsheet", "Approvals in an email chain", "Interview status in a separate tracker", "Meeting ends with an unassigned question"],
+      "outcome": "The number arrives before its context."
+    }
+  },
+  {
+    "slug": "brew-ai",
+    "product": "Brew AI",
+    "mode": "draft",
+    "title": "A thoughtful draft. Still your conversation.",
+    "intro": "Watch a scripted candidate follow-up become a reviewed draft, with missing details questioned and the final choice left to HR.",
+    "record": "Candidate follow-up / Draft only",
+    "person": { "initials": "NA", "name": "Nneka Adeyemi", "role": "Recruiter and reviewer" },
+    "prompt": "Draft a warm next-step message without promising an offer or inventing an interview date.",
+    "sources": ["Sample role brief", "Confirmed next step", "Reviewer instructions"],
+    "frames": [
+      {
+        "label": "Context",
+        "activity": "Prepared example context selected",
+        "heading": "Give the draft a bounded task.",
+        "body": "Nneka chooses a sample follow-up. The role and next step are known; an interview time has not been agreed.",
+        "items": [
+          { "label": "Role", "detail": "Operations manager / confirmed", "status": "ready" },
+          { "label": "Interview time", "detail": "Not agreed / do not invent", "status": "pending" },
+          { "label": "Human review", "detail": "Nneka / required before use", "status": "pending" }
+        ],
+        "message": { "author": "Nneka's instruction", "text": "Invite Amaka to discuss the next interview step. Ask for availability, keep it warm and do not imply an offer." },
+        "outcome": "The task has clear facts and explicit boundaries."
+      },
+      {
+        "label": "Draft",
+        "activity": "Scripted draft revealed",
+        "heading": "A starting point appears for review.",
+        "body": "The prepared example acknowledges the conversation and asks for availability. Nothing is sent, and no hiring decision is made.",
+        "items": [
+          { "label": "Role", "detail": "Operations manager / included", "status": "ready" },
+          { "label": "Interview time", "detail": "Availability requested instead", "status": "ready" },
+          { "label": "Human review", "detail": "Nneka / inspect the wording", "status": "active" }
+        ],
+        "message": { "author": "Brew sample draft", "text": "Hi Amaka, thank you for speaking with us about the operations manager role. Could you share your availability to discuss the next interview step?" },
+        "outcome": "A reviewable draft, not an automatically sent message."
+      },
+      {
+        "label": "Review",
+        "activity": "Reviewer adds a response path",
+        "heading": "The human makes the draft better.",
+        "body": "Nneka checks the facts and tone, then adds room for Amaka to ask questions before confirming availability.",
+        "items": [
+          { "label": "Role", "detail": "Checked against sample brief", "status": "ready" },
+          { "label": "Interview time", "detail": "Still subject to confirmation", "status": "ready" },
+          { "label": "Human review", "detail": "Response path added by Nneka", "status": "active" }
+        ],
+        "message": { "author": "Nneka's revision", "text": "Hi Amaka, thank you for our conversation. Could you share your availability for the next interview step? Please also send any questions you would like us to clarify." },
+        "outcome": "The reviewer checks the facts and adds human context."
+      },
+      {
+        "label": "Ready",
+        "activity": "Reviewed example kept as a draft",
+        "heading": "Ready for a person to choose.",
+        "body": "Nneka's revised example remains a draft. A live communication would need the appropriate permissions, approvals and delivery service.",
+        "items": [
+          { "label": "Role", "detail": "Facts checked by reviewer", "status": "ready" },
+          { "label": "Interview time", "detail": "No date invented", "status": "ready" },
+          { "label": "Human review", "detail": "Example reviewed / nothing sent", "status": "ready" }
+        ],
+        "message": { "author": "Nneka", "text": "The wording is ready for our communication process. I still own the next step. This demonstration has not contacted Amaka." },
+        "outcome": "Human-reviewed wording. No autonomous action or live AI."
+      }
+    ],
+    "manual": {
+      "title": "When every message starts from a blank page",
+      "items": ["Find the latest role details", "Rewrite an old invitation", "Check for unsupported promises", "Remember to invite a reply"],
+      "outcome": "The reviewer assembles the first draft from scratch."
+    }
+  }
+]
