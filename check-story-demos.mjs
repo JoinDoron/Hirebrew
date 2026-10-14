@@ -53,8 +53,16 @@ for(const {file,scene,prefix} of pages){
  const heroEnd=html.indexOf('</section>');
  const demoStart=html.indexOf('<section class="story-demo"');
  assert.ok(demoStart>heroEnd,`${file}: demo must follow the hero`);
- const nextSection=html.slice(heroEnd+'</section>'.length,demoStart);
- assert.ok(!/<(?:section|nav|div)\b/.test(nextSection),`${file}: demo must immediately follow the hero`);
+ if(file==='index.html'){
+  const tourStart=html.indexOf('id="tour"');
+  const walkthroughStart=html.search(/<details\b[^>]*\bid="conversation-walkthrough"/);
+  const walkthroughEnd=html.indexOf('</details>',walkthroughStart);
+  assert.ok(tourStart>heroEnd&&walkthroughStart>tourStart&&demoStart>walkthroughStart,`${file}: story demo must follow the product tour inside its conversation walkthrough`);
+  assert.ok(demoStart<walkthroughEnd,`${file}: story demo must be inside the conversation walkthrough, not after it`);
+ }else{
+  const nextSection=html.slice(heroEnd+'</section>'.length,demoStart);
+  assert.ok(!/<(?:section|nav|div)\b/.test(nextSection),`${file}: demo must immediately follow the hero`);
+ }
  const demo=renderStoryDemo(scene,prefix);
  assert.equal((demo.match(/data-story-frame/g)||[]).length,4,`${file}: all four frames must be server rendered`);
  assert.equal((demo.match(/data-story-frame hidden/g)||[]).length,3,`${file}: only first frame visible before enhancement`);

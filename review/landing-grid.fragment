@@ -1,0 +1,97 @@
+    <section class="lp-product-section" id="platform" aria-labelledby="platform-title">
+      <div class="lp-product-heading">
+        <h2 id="platform-title">Great teams.<br>One connected platform.</h2>
+        <p>Bring hiring, people operations and growth together. Give every team the context to act, and every person a clearer next step.</p>
+      </div>
+      <div class="lp-product-grid">
+        <a class="lp-product-card lp-product-hire" href="products/hire.html" aria-label="Explore Hirebrew Hire">
+          <div class="lp-product-card-heading"><h3>Hire</h3><span class="lp-product-arrow" aria-hidden="true">↗</span></div>
+          <p class="lp-product-description">Connect your candidates, hiring teams and interview decisions.<br class="lp-wide-break"> Make the next great hire a team effort.</p>
+          <div class="lp-mini lp-hire-preview" aria-hidden="true">
+            <div class="lp-mini-appbar"><span><img src="assets/brand/mark.svg" width="19" height="19" alt="">Hirebrew Hire</span><span class="lp-avatar lp-avatar-small">TA</span></div>
+            <div class="lp-hire-layout">
+              <div class="lp-mini-nav"><span>Overview</span><span class="lp-mini-nav-active">Candidates</span><span>Interviews</span><span>Messages</span></div>
+              <div class="lp-hire-main">
+                <div class="lp-mini-heading"><div><span class="lp-mini-muted">Operations manager</span><strong>Your next conversation</strong></div><span class="lp-tag">Interview</span></div>
+                <div class="lp-candidate-row"><span class="lp-avatar">AO</span><div><strong>Amaka Okafor</strong><span>Candidate / Lagos</span></div><span class="lp-mini-note">Panel review</span></div>
+                <div class="lp-scorecard-row"><div><span>People</span><strong>Feedback ready</strong><span class="lp-scorecard-line"></span></div><div><span>Technical</span><strong>Feedback ready</strong><span class="lp-scorecard-line"></span></div><div><span>Operations</span><strong>Awaiting Chidi</strong><span class="lp-scorecard-line lp-scorecard-pending"></span></div></div>
+                <div class="lp-mini-message"><span class="lp-avatar lp-avatar-small">AO</span><p>Should I prepare a presentation for the interview?</p><span class="lp-message-status">Reply in context →</span></div>
+              </div>
+            </div>
+          </div>
+        </a>
+
+        <a class="lp-product-card lp-product-onboard" href="products/onboard.html" aria-label="Explore Hirebrew Onboard">
+          <div class="lp-product-card-heading"><h3>Onboard</h3><span class="lp-product-arrow" aria-hidden="true">↗</span></div>
+          <p class="lp-product-description">A thoughtful welcome. Clear owners.<br>A confident first week.</p>
+          <div class="lp-mini lp-onboard-preview" aria-hidden="true">
+            <div class="lp-welcome-heading"><span class="lp-avatar lp-avatar-large">ZB</span><div><span class="lp-mini-muted">Your first week</span><strong>Welcome, Zainab.</strong></div></div>
+            <div class="lp-mini-checklist"><div><span class="lp-check lp-check-done">✓</span><span>Read your role brief<small>Ready for what comes next</small></span></div><div><span class="lp-check lp-check-done">✓</span><span>Meet the operations team<small>Your manager has the handoff</small></span></div><div><span class="lp-check">○</span><span>Agree your first goal<small>At your manager check-in</small></span></div></div>
+            <div class="lp-mini-progress"><span></span><span></span><span></span></div>
+          </div>
+        </a>
+
+        <a class="lp-product-card lp-product-people" href="products/people.html" aria-label="Explore Hirebrew People">
+          <div class="lp-product-card-heading"><h3>People</h3><span class="lp-product-arrow" aria-hidden="true">↗</span></div>
+          <p class="lp-product-description">Less chasing for everyday HR.<br>More clarity for everyone.</p>
+          <div class="lp-mini lp-people-preview" aria-hidden="true">
+            <div class="lp-mini-heading"><strong>Leave requests</strong><span class="lp-mini-muted">My team</span></div>
+            <div class="lp-candidate-row"><span class="lp-avatar lp-avatar-rose">FO</span><div><strong>Femi Owolabi</strong><span>Annual leave</span></div></div>
+            <div class="lp-leave-dates"><span>12 October<small>From</small></span><span class="lp-date-arrow">→</span><span>16 October<small>To</small></span></div>
+            <div class="lp-leave-outcome"><span class="lp-check lp-check-done">✓</span><div><strong>Approved by Sade</strong><span>Handover notes to Kemi</span></div></div>
+          </div>
+        </a>
+
+        <a class="lp-product-card lp-product-grow" href="products/grow.html" aria-label="Explore Hirebrew Grow">
+          <div class="lp-product-card-heading"><h3>Grow</h3><span class="lp-product-arrow" aria-hidden="true">↗</span></div>
+          <p class="lp-product-description">Turn goals, learning and check-ins<br>into meaningful progress.</p>
+          <div class="lp-mini lp-grow-preview" aria-hidden="true">
+            <div class="lp-mini-heading"><strong>A goal worth sharing</strong><span class="lp-avatar lp-avatar-small lp-avatar-gold">AM</span></div>
+            <div class="lp-goal-summary"><span class="lp-mini-muted">Abena's development plan</span><strong>Make team handovers clearer.</strong><p>A practical goal. A manager to help.</p></div>
+            <div class="lp-goal-steps"><div><span>✓</span><strong>Draft</strong></div><div><span>✓</span><strong>Feedback</strong></div><div><span>→</span><strong>Team trial</strong></div></div>
+            <div class="lp-mini-bottomline">Next check-in <strong>Review the team's feedback</strong></div>
+          </div>
+        </a>
+
+        <a class="lp-product-card lp-product-payroll" href="products/people.html#capabilities" aria-label="Explore Hirebrew payroll handoffs">
+          <div class="lp-product-card-heading"><h3>Payroll handoffs</h3><span class="lp-product-arrow" aria-hidden="true">↗</span></div>
+          <p class="lp-product-description">Bring HR and finance to the same<br>page before payroll moves.</p>
+          <div class="lp-mini lp-payroll-preview" aria-hidden="true">
+            <div class="lp-mini-heading"><strong>Payroll readiness</strong><span class="lp-tag lp-tag-neutral">For review</span></div>
+            <div class="lp-mini-checklist"><div><span class="lp-check lp-check-done">✓</span><span>People changes<small>People team / reviewed</small></span></div><div><span class="lp-check lp-check-done">✓</span><span>Leave records<small>Manager / confirmed</small></span></div><div><span class="lp-check">○</span><span>Finance handoff<small>Finance / review required</small></span></div></div>
+            <div class="lp-mini-bottomline">Connected context. <strong>Your payroll process.</strong></div>
+          </div>
+        </a>
+
+        <a class="lp-product-card lp-product-intelligence" href="products/intelligence.html" aria-label="Explore Hirebrew Intelligence">
+          <div class="lp-product-card-heading"><h3>Intelligence</h3><span class="lp-product-arrow" aria-hidden="true">↗</span></div>
+          <p class="lp-product-description">See what needs attention.<br>Know who owns the next step.</p>
+          <div class="lp-mini lp-intelligence-preview" aria-hidden="true">
+            <div class="lp-mini-heading"><strong>Hiring review</strong><span class="lp-mini-muted">Operations</span></div>
+            <div class="lp-review-status"><div><span class="lp-check lp-check-done">✓</span><strong>Role approval</strong><span>Approved</span></div><div><span class="lp-check lp-check-done">✓</span><strong>Candidate stage</strong><span>Interview</span></div><div><span class="lp-check lp-check-attention">!</span><strong>Panel feedback</strong><span>Needs attention</span></div></div>
+            <div class="lp-next-action"><span class="lp-avatar lp-avatar-small">CI</span><div><strong>A clear next action</strong><span>Chidi to follow up on the scorecard</span></div></div>
+          </div>
+        </a>
+
+        <a class="lp-product-card lp-product-ai" href="products/brew-ai.html" aria-label="Explore Hirebrew Brew AI">
+          <div class="lp-product-card-heading"><h3>Brew AI</h3><span class="lp-product-arrow" aria-hidden="true">↗</span></div>
+          <p class="lp-product-description">A useful starting point.<br>Your judgement stays in charge.</p>
+          <div class="lp-mini lp-ai-preview" aria-hidden="true">
+            <div class="lp-ai-question">Help me draft Amaka's interview follow-up.</div>
+            <div class="lp-ai-answer"><div><img src="assets/brand/mark.svg" width="20" height="20" alt=""><strong>Brew AI</strong><span>Sample draft</span></div><p>Hi Amaka, we'd love to discuss the next interview step. Could you share your availability?</p><span class="lp-review-label">Human review required</span></div>
+            <p class="lp-ai-disclosure">Prepared example. Nothing sent.</p>
+          </div>
+        </a>
+
+        <a class="lp-product-card lp-product-controls" href="enterprise.html#governance" aria-label="Explore Hirebrew enterprise controls">
+          <div class="lp-product-card-heading"><h3>Enterprise controls</h3><span class="lp-product-arrow" aria-hidden="true">↗</span></div>
+          <p class="lp-product-description">Put roles, access and governance<br>at the centre of your rollout.</p>
+          <div class="lp-mini lp-controls-preview" aria-hidden="true">
+            <div class="lp-mini-heading"><strong>Plan the right access</strong><span class="lp-tag lp-tag-neutral">Pilot scope</span></div>
+            <div class="lp-access-table"><div class="lp-access-table-head"><span>Role</span><span>Proposed scope</span></div><div><span>HR manager</span><strong>People workflows</strong></div><div><span>Interviewer</span><strong>Assigned interviews</strong></div><div><span>Candidate</span><strong>Own application</strong></div></div>
+            <div class="lp-mini-bottomline">Validate permissions <strong>before rollout.</strong></div>
+          </div>
+        </a>
+      </div>
+      <div class="lp-product-footer"><p>Illustrative product views. Sample data.</p><a href="#tour">Take a tour of Hirebrew <span aria-hidden="true">→</span></a></div>
+    </section>
