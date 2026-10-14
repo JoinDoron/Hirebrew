@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#F7F5EF">
+<meta name="theme-color" content="#FFFFFF">
 <meta name="description" content="Explore Brew AI&#39;s illustrative drafts for candidate messages, interview summaries and welcome plans. Review and edit every example while keeping people accountable.">
 <meta name="robots" content="noindex, nofollow">
 <meta property="og:title" content="Brew AI by Hirebrew | A head start, not a handover">
@@ -11,7 +11,6 @@
 <meta property="og:type" content="website">
 <title>Brew AI by Hirebrew | A head start, not a handover</title>
 <link rel="icon" href="../assets/brand/favicon.svg" type="image/svg+xml">
-<link rel="preload" href="../assets/fonts/bricolage.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="../assets/fonts/dm-sans.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="../enterprise.css">
@@ -20,22 +19,25 @@
 <link rel="stylesheet" href="../solutions-nav.css">
 <link rel="stylesheet" href="../platform-nav.css">
 <link rel="stylesheet" href="../story-demo.css">
+<link rel="stylesheet" href="../site-shell.css">
+<link rel="stylesheet" href="../marketing-theme.css">
 <script src="../solutions-nav.js" defer></script>
 <script src="../platform-nav.js" defer></script>
 <script src="../solutions.js" defer></script>
 <script src="../story-demo.js" defer></script>
-<noscript><style>.enterprise-nav{height:auto;min-height:72px;flex-wrap:wrap;padding-block:16px}.enterprise-menu{display:none!important}.enterprise-header .enterprise-links{display:flex;position:static;flex-wrap:wrap;flex-direction:row;gap:15px;padding:0;width:100%;max-height:none}.solution-pilot-layout{grid-template-columns:1fr}</style></noscript>
+<noscript><style>.marketing-theme .enterprise-header .enterprise-nav{height:auto;min-height:72px;flex-wrap:wrap;padding-block:16px}.marketing-theme .enterprise-header .enterprise-menu{display:none!important}.marketing-theme .enterprise-header .enterprise-links{display:flex;position:static;flex-wrap:wrap;flex-direction:row;gap:15px;padding:0;width:100%;max-height:none;flex-basis:100%;margin-left:0;overflow:visible}.solution-pilot-layout{grid-template-columns:1fr}</style></noscript>
 </head>
-<body class="enterprise-page solution-page product-page product-brew-ai" data-product="brew-ai">
+<body class="enterprise-page marketing-theme solution-page product-page product-brew-ai" data-product="brew-ai">
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="enterprise-header"><nav class="enterprise-nav enterprise-wrap" aria-label="Main navigation">
-<a href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a>
-<button class="enterprise-menu" type="button" aria-expanded="false" aria-controls="enterprise-links">Menu <span aria-hidden="true">+</span></button>
+<a class="shell-brand" href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a>
+<button class="enterprise-menu" id="enterprise-menu" type="button" aria-expanded="false" aria-controls="enterprise-links">Menu <span aria-hidden="true">+</span></button>
 <div class="enterprise-links" id="enterprise-links">
 <div class="platform-nav" data-root="../"><a class="platform-fallback" href="../platform.html">Platform</a></div>
 <div class="solutions-nav" data-root="../"><a class="solutions-fallback" href="../solutions.html">Solutions</a></div>
 <a href="../enterprise.html">Enterprise</a>
-<a href="../index.html#tour">Product tour</a>
+<a href="../enterprise.html#resources">Resources</a>
+<a class="shell-tour" href="../index.html#tour">Take a tour</a>
 <a class="enterprise-button enterprise-button-small" href="#pilot">Plan your pilot <span aria-hidden="true">↗</span></a>
 </div></nav></header>
 <main id="main">
@@ -121,9 +123,13 @@
 <section class="solution-close"><div class="enterprise-wrap"><h2>Make the next step<br> a better one.</h2><a class="enterprise-button" href="#pilot">Plan your pilot <span aria-hidden="true">↗</span></a></div></section>
 </main>
 <footer class="enterprise-footer enterprise-wrap">
-<div><a href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a><p>Good people. Great futures.</p></div>
-<nav aria-label="Footer navigation"><a href="../platform.html">All products</a><a href="../solutions.html">All solutions</a><a href="../index.html#tour">Product tour</a><a href="../enterprise.html#resources">Buyer resources</a></nav>
-<div class="enterprise-footer-bottom"><span>© 2026 Hirebrew</span><span>Product preview. Evaluate with sample data.</span></div>
+<div class="shell-footer-grid">
+<nav class="shell-footer-group" aria-label="Platform"><h2>Platform</h2><a href="../products/hire.html">Hire</a><a href="../products/onboard.html">Onboard</a><a href="../products/people.html">People</a><a href="../products/grow.html">Grow</a><a href="../products/intelligence.html">Intelligence</a><a href="../products/brew-ai.html">Brew AI</a><a href="../platform.html">All products</a><h2>See it in action</h2><a href="../index.html#tour">Interactive product tour</a><a href="../index.html#story-demo">Candidate conversation</a></nav>
+<nav class="shell-footer-group" aria-label="Solutions"><h2>Solutions</h2><a href="../solutions/startups.html">Startups</a><a href="../solutions/mid-market.html">Mid-market</a><a href="../solutions/enterprise.html">Enterprise</a><a href="../solutions/hr-teams.html">HR teams</a><a href="../solutions/finance-teams.html">Finance teams</a><a href="../solutions/it-teams.html">IT teams</a><a href="../solutions/founders.html">Founders</a><a href="../solutions.html#industries">All industries</a><a href="../solutions.html">All solutions</a></nav>
+<nav class="shell-footer-group" aria-label="Enterprise and resources"><h2>Enterprise</h2><a href="../enterprise.html">Why Hirebrew for enterprise</a><a href="../enterprise.html#rollout">Implementation planning</a><a href="../enterprise.html#integrations">Integrations</a><a href="../enterprise.html#governance">Governance and controls</a><a href="../enterprise.html#pricing">Commercial planning</a><h2>Resources</h2><a href="../enterprise.html#resources">Buyer’s toolkit</a><a href="../index.html#questions">Frequently asked questions</a></nav>
+<nav class="shell-footer-group" aria-label="Hirebrew"><h2>Hirebrew</h2><a href="../index.html#why-hirebrew">Built for what’s next</a><a href="../brand.html">Brand and visual identity</a><a href="../design-notes.html">Design and research</a><a href="../enterprise.html#rollout">Plan your pilot</a></nav>
+</div>
+<div class="enterprise-footer-bottom"><a class="shell-brand" href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a><span>© 2026 Hirebrew</span><span>Product preview.<br>Evaluate with sample data.</span></div>
 </footer>
 <script type="application/json" id="pilot-content">{"name":"Brew AI","slug":"brew-ai","brief":"HIREBREW BREW AI | PRODUCT PILOT BRIEF\n\nA head start. Never a handover.\nExplore a more thoughtful first draft for people work, with room to question, edit and decide before anything moves.\n\nCAPABILITIES TO EXPLORE\nCandidate-message examples\nExplore a sample interview invitation. Review the tone, details and opportunity to reply before considering a real message.\n\nInterview-summary examples\nRead a summary separating positive evidence from an open question. Support a follow-up conversation without presenting a hiring recommendation.\n\nWelcome-plan examples\nStart with introductions, context, a learning goal and a check-in. Adjust the sample plan to the role and working environment.\n\nAn editable review experience\nEdit the draft and save it for this preview session. This demonstrates human review, not a production approval record or audit trail.\n\nPRACTICAL USE CASES\nWrite a more considerate candidate follow-up\nSituation: A recruiter needs a clear next-step message but does not want a cold, generic invitation.\nWorkflow: Try the sample invitation, confirm the requested action and edit the tone so the candidate knows how to respond.\nIntended improvement: The reviewer has a considered draft ready for the appropriate communication process, without anything being sent by this preview.\n\nKeep an interview summary honest\nSituation: A panel has useful observations and one important area it has not yet tested.\nWorkflow: Explore a summary that distinguishes the evidence from the gap, then edit it before discussing a follow-up with the hiring team.\nIntended improvement: The open question remains visible rather than being turned into an unsupported judgement about the candidate.\n\nGive the first week a human rhythm\nSituation: A manager wants a new colleague to meet the right people and start learning without an overwhelming checklist.\nWorkflow: Review the sample welcome plan, adapt its sequence to the role and identify the manager's check-in point.\nIntended improvement: The manager has a starting structure to discuss with the new joiner and people team.\n\nWORKFLOW\nAn assistant's draft. Your considered next step.\nChoose | HR or manager\nPick a bounded task\nChoose a candidate message, interview-note summary or first-week plan. Define the audience and intended outcome.\n\nRead | Reviewer\nInspect the suggestion\nCheck names, role details, tone and facts. Treat missing information as a question to resolve, not permission to invent.\n\nEdit | Reviewer\nMake the draft yours\nChange the example's wording. Remove unsupported claims, add appropriate context and keep sensitive information out of this public preview.\n\nDecide | Accountable person\nChoose what happens next\nSave the revision locally. No message or hiring action is triggered. Live workflows require separately validated permissions and approval controls.\n\nPILOT\nProve a low-risk drafting task first.\nStart with approved, non-personal sample inputs and a named reviewer. Evaluate whether the result is accurate, appropriate and useful before considering broader access or a live action.\n\nEVALUATION CHECKLIST\n[ ] Agree permitted inputs, provider settings, retention expectations and reviewer responsibilities.\n[ ] Test factual accuracy, tone and handling of missing information with representative examples.\n[ ] Validate access controls and ensure consequential actions cannot bypass the required human review.\n\nSCOPE BOUNDARIES\nBrew examples on this website are scripted and run locally. No live model, autonomous decision, message delivery, production approval enforcement or enterprise data access is represented as deployed.\n\nAI AND HUMAN REVIEW\nThe design principle is simple: suggestions should be understandable, editable and proportionate to the task. Before any live AI pilot, agree the provider, allowed inputs, data handling, review responsibilities and evaluation criteria. Do not use the public preview for candidate or employee personal information.\nExample prompt: Example evaluation question: Does this fictional draft preserve the source facts, surface uncertainty and leave the consequential decision with the responsible person?\n\nNEXT STEP\nAssign an owner, walk through the workflow with sample data and record the evidence required before a live rollout. This document is not a submitted enquiry, booking or confirmation of production readiness.\n"}</script>
 </body>

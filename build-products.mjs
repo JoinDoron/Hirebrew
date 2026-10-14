@@ -29,7 +29,7 @@ const planner=p=>`<form class="solution-planner" data-pilot-form hidden novalida
 <div class="planner-result" hidden><p role="status">Your brief is ready. Download it to keep a copy.</p><a class="enterprise-text-link" data-pilot-download download="hirebrew-${p.slug}-product-pilot.txt">Download your brief ${arrow}</a></div>
 </form>`;
 async function productPage(p){return `${head(p.metaTitle,p.metaDescription,'../',{styles:['product-pages.css']})}
-<body class="enterprise-page solution-page product-page product-${p.slug}" data-product="${p.slug}">
+<body class="enterprise-page marketing-theme solution-page product-page product-${p.slug}" data-product="${p.slug}">
 ${header('../')}
 <main id="main">
 <section class="solution-hero enterprise-wrap" aria-labelledby="page-title">
@@ -75,7 +75,7 @@ ${footer('../')}
 </body>
 </html>\n`;}
 async function platformPage(){return `${head('The Hirebrew platform | Hiring, people and growth connected','Explore Hirebrew Hire, Onboard, People, Grow, Intelligence and Brew AI. Six product perspectives on a connected employee journey.','',{styles:['product-pages.css']})}
-<body class="enterprise-page solution-directory product-directory">
+<body class="enterprise-page marketing-theme solution-directory product-directory">
 ${header('','enterprise.html#rollout')}
 <main id="main">
 <section class="solution-hero enterprise-wrap" aria-labelledby="page-title"><p class="solution-breadcrumb">The Hirebrew platform</p><h1 id="page-title">One people story.<br> Every chapter connected.</h1><div class="solution-hero-bottom"><p>From the role you need to the people you grow. Explore six products designed around the moments between teams.</p><div class="solution-hero-actions"><a class="enterprise-button" href="#products">Explore the products ${arrow}</a><a class="enterprise-text-link" href="#story-demo">Watch the demo ${arrow}</a></div></div></section>

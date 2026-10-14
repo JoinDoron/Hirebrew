@@ -1,5 +1,6 @@
 HIREBREW / HANDOFF
 Working primary identity, refined 12 October 2026.
+Website design system updated 14 October 2026.
 
 brand/: Handoff vector logo and offset-band patterns. The symbol connects
 two folded bands through an open negative-space channel. Its standard
@@ -19,17 +20,32 @@ the mark and wordmark. Standard minimum sizes: symbol 24 px, full lockup
 120 px and dedicated favicon 16 px. The 22 px mark is reserved for incidental
 product-demo branding. Keep both bands and the open channel in proportion.
 
-fonts/: Bricolage Grotesque and DM Sans from official Google Fonts sources.
-Their SIL Open Font Licence files are included. Localisation needs glyph
-testing; do not assume comprehensive coverage of African-language scripts.
+fonts/: DM Sans is the website typeface for headlines, body copy, navigation
+and controls. Use medium 500 for headings, regular 400 for body copy and
+medium 500 or semibold 600 for labels. Fonts are self-hosted WOFF2 files with
+font-display: swap. Bricolage Grotesque is retained for the existing outlined
+wordmark and its source tooling only; it is not a website display font.
+Both are from official Google Fonts sources. Their SIL Open Font Licence
+files are included. Localisation needs glyph testing; do not assume
+comprehensive coverage of African-language scripts.
 
 future-form.webp: Optimised original AI-generated brand artwork, not a product
 screenshot or customer photograph. The full source PNG and exact generation
 prompt are supplied with the website in assets/future-form.png and the
 Asset provenance section of design-notes.html respectively.
 
-brand-tokens.json: Colour, typography, spacing, motion and accessibility
-guidance. Coral action surfaces use dark ink text for contrast.
+brand-tokens.json: Website colour, typography, spacing, motion and accessibility
+guidance, with separate artworkColor values to protect the original identity.
+Use white (#FFFFFF) page backgrounds, website ink (#082725) for headings,
+dark-green (#245B42) primary actions with pale-green (#E2FFDB) text, and
+soft-green secondary actions. Pastel aqua, yellow, pink, lime, lavender and
+blue distinguish product surfaces. Panels use 24 px corners, section bands
+32 px, and controls 12 px. DM Sans keeps the full website consistent.
+The original coral, midnight ink, chalk and periwinkle remain in supplied
+logo/pattern artwork. Do not recolour that artwork or treat coral as the
+website's primary action colour. Use dark ink on coral artwork specimens;
+never small white text on coral. Keep body contrast at 4.5:1 minimum,
+large-text contrast at 3:1, keyboard focus visible and motion optional.
 
 No paid Craftwork resource is included. Craftwork design guidance informed
 the work; public catalog metadata was consulted without acquiring asset files.

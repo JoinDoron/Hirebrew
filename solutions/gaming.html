@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#F7F5EF">
+<meta name="theme-color" content="#FFFFFF">
 <meta name="description" content="Explore cross-discipline hiring, onboarding and development for game studios, connecting art, design, engineering and production perspectives.">
 <meta name="robots" content="noindex, nofollow">
 <meta property="og:title" content="People workflows for game studios | Hirebrew">
@@ -11,7 +11,6 @@
 <meta property="og:type" content="website">
 <title>People workflows for game studios | Hirebrew</title>
 <link rel="icon" href="../assets/brand/favicon.svg" type="image/svg+xml">
-<link rel="preload" href="../assets/fonts/bricolage.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="../assets/fonts/dm-sans.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="../enterprise.css">
@@ -20,22 +19,25 @@
 <link rel="stylesheet" href="../solutions-nav.css">
 <link rel="stylesheet" href="../platform-nav.css">
 <link rel="stylesheet" href="../story-demo.css">
+<link rel="stylesheet" href="../site-shell.css">
+<link rel="stylesheet" href="../marketing-theme.css">
 <script src="../solutions-nav.js" defer></script>
 <script src="../platform-nav.js" defer></script>
 <script src="../solutions.js" defer></script>
 <script src="../story-demo.js" defer></script>
-<noscript><style>.enterprise-nav{height:auto;min-height:72px;flex-wrap:wrap;padding-block:16px}.enterprise-menu{display:none!important}.enterprise-header .enterprise-links{display:flex;position:static;flex-wrap:wrap;flex-direction:row;gap:15px;padding:0;width:100%;max-height:none}.solution-pilot-layout{grid-template-columns:1fr}</style></noscript>
+<noscript><style>.marketing-theme .enterprise-header .enterprise-nav{height:auto;min-height:72px;flex-wrap:wrap;padding-block:16px}.marketing-theme .enterprise-header .enterprise-menu{display:none!important}.marketing-theme .enterprise-header .enterprise-links{display:flex;position:static;flex-wrap:wrap;flex-direction:row;gap:15px;padding:0;width:100%;max-height:none;flex-basis:100%;margin-left:0;overflow:visible}.solution-pilot-layout{grid-template-columns:1fr}</style></noscript>
 </head>
-<body class="enterprise-page solution-page solution-industry" data-solution="gaming">
+<body class="enterprise-page marketing-theme solution-page solution-industry" data-solution="gaming">
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="enterprise-header"><nav class="enterprise-nav enterprise-wrap" aria-label="Main navigation">
-<a href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a>
-<button class="enterprise-menu" type="button" aria-expanded="false" aria-controls="enterprise-links">Menu <span aria-hidden="true">+</span></button>
+<a class="shell-brand" href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a>
+<button class="enterprise-menu" id="enterprise-menu" type="button" aria-expanded="false" aria-controls="enterprise-links">Menu <span aria-hidden="true">+</span></button>
 <div class="enterprise-links" id="enterprise-links">
 <div class="platform-nav" data-root="../"><a class="platform-fallback" href="../platform.html">Platform</a></div>
 <div class="solutions-nav" data-root="../"><a class="solutions-fallback" href="../solutions.html">Solutions</a></div>
 <a href="../enterprise.html">Enterprise</a>
-<a href="../index.html#tour">Product tour</a>
+<a href="../enterprise.html#resources">Resources</a>
+<a class="shell-tour" href="../index.html#tour">Take a tour</a>
 <a class="enterprise-button enterprise-button-small" href="#pilot">Plan your pilot <span aria-hidden="true">↗</span></a>
 </div></nav></header>
 <main id="main">
@@ -113,9 +115,13 @@
 <section class="solution-close"><div class="enterprise-wrap"><h2>Good people.<br> A clearer way forward.</h2><a class="enterprise-button" href="#pilot">Plan your pilot <span aria-hidden="true">↗</span></a></div></section>
 </main>
 <footer class="enterprise-footer enterprise-wrap">
-<div><a href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a><p>Good people. Great futures.</p></div>
-<nav aria-label="Footer navigation"><a href="../platform.html">All products</a><a href="../solutions.html">All solutions</a><a href="../index.html#tour">Product tour</a><a href="../enterprise.html#resources">Buyer resources</a></nav>
-<div class="enterprise-footer-bottom"><span>© 2026 Hirebrew</span><span>Product preview. Evaluate with sample data.</span></div>
+<div class="shell-footer-grid">
+<nav class="shell-footer-group" aria-label="Platform"><h2>Platform</h2><a href="../products/hire.html">Hire</a><a href="../products/onboard.html">Onboard</a><a href="../products/people.html">People</a><a href="../products/grow.html">Grow</a><a href="../products/intelligence.html">Intelligence</a><a href="../products/brew-ai.html">Brew AI</a><a href="../platform.html">All products</a><h2>See it in action</h2><a href="../index.html#tour">Interactive product tour</a><a href="../index.html#story-demo">Candidate conversation</a></nav>
+<nav class="shell-footer-group" aria-label="Solutions"><h2>Solutions</h2><a href="../solutions/startups.html">Startups</a><a href="../solutions/mid-market.html">Mid-market</a><a href="../solutions/enterprise.html">Enterprise</a><a href="../solutions/hr-teams.html">HR teams</a><a href="../solutions/finance-teams.html">Finance teams</a><a href="../solutions/it-teams.html">IT teams</a><a href="../solutions/founders.html">Founders</a><a href="../solutions.html#industries">All industries</a><a href="../solutions.html">All solutions</a></nav>
+<nav class="shell-footer-group" aria-label="Enterprise and resources"><h2>Enterprise</h2><a href="../enterprise.html">Why Hirebrew for enterprise</a><a href="../enterprise.html#rollout">Implementation planning</a><a href="../enterprise.html#integrations">Integrations</a><a href="../enterprise.html#governance">Governance and controls</a><a href="../enterprise.html#pricing">Commercial planning</a><h2>Resources</h2><a href="../enterprise.html#resources">Buyer’s toolkit</a><a href="../index.html#questions">Frequently asked questions</a></nav>
+<nav class="shell-footer-group" aria-label="Hirebrew"><h2>Hirebrew</h2><a href="../index.html#why-hirebrew">Built for what’s next</a><a href="../brand.html">Brand and visual identity</a><a href="../design-notes.html">Design and research</a><a href="../enterprise.html#rollout">Plan your pilot</a></nav>
+</div>
+<div class="enterprise-footer-bottom"><a class="shell-brand" href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a><span>© 2026 Hirebrew</span><span>Product preview.<br>Evaluate with sample data.</span></div>
 </footer>
 <script type="application/json" id="pilot-content">{"name":"Gaming","slug":"gaming","brief":"HIREBREW PILOT BRIEF\nGaming\n\nWORKFLOW TO EVALUATE\nFrom first conversation to studio contribution.\nTry a sample technical artist journey that brings creative and engineering perspectives together.\n\nHANDOFFS\nDefine | Discipline lead + HR\nMake the capability gap specific\nCreate the role request around the work the team needs. Clarify the difference between essential experience and skills the studio can help a new colleague develop.\n\nInterview | Art + engineering panel\nConnect the assessment perspectives\nExplore panel scorecards for craft, technical reasoning and collaboration. Keep the candidate informed through the two-way messaging journey while the team reviews its evidence.\n\nJoin | Manager + new hire\nBuild a shared first-month map\nAssign introductions and learning tasks, then agree on achievable early goals. Make any specialist setup dependency visible without claiming automatic provisioning.\n\nDevelop | Discipline lead + employee\nKeep the person in the picture\nUse check-ins to discuss progress and changing learning needs. Explore development opportunities alongside project work, while production schedules remain in the studio's existing tools.\n\nPILOT SCOPE\nChoose one discipline and one real handoff.\nUse sample records for a hire involving two disciplines. Include a studio team working across locations if that reflects your operating model.\n\nVALIDATION CHECKLIST\n[ ] Interviewers know which evidence they are responsible for.\n[ ] Specialist onboarding dependencies have named owners.\n[ ] The first review includes learning and development, not only output.\n\nBOUNDARIES\nGame production scheduling, asset pipelines, contractor administration and engine integrations are outside the demonstrated people-workflow scope.\n\nAI EVALUATION\nBrew's illustrative drafts can help frame an onboarding conversation. A discipline lead should check relevance and workload, and exclude confidential game assets or unreleased project information.\nExample prompt: Draft first-month check-in topics for a technical artist joining a cross-discipline studio team.\n\nNEXT STEP\nAssign an owner, test with sample data, record gaps and agree acceptance criteria before any live rollout. This is a planning document, not a booking, service commitment or confirmation of production readiness.\n"}</script>
 </body>

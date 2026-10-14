@@ -3,25 +3,41 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#F7F5EF">
+  <meta name="theme-color" content="#FFFFFF">
   <meta name="description" content="The Hirebrew identity: a warm, confident visual system for the people moving work forward.">
   <title>The Hirebrew identity</title>
   <link rel="icon" href="./assets/brand/favicon.svg" type="image/svg+xml">
-  <link rel="preload" href="./assets/fonts/bricolage.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="./assets/fonts/dm-sans.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="enterprise.css">
+  <link rel="stylesheet" href="solution-pages.css">
+  <link rel="stylesheet" href="solutions-nav.css">
+  <link rel="stylesheet" href="platform-nav.css">
+  <link rel="stylesheet" href="site-shell.css">
+  <link rel="stylesheet" href="marketing-theme.css">
   <link rel="stylesheet" href="./brand.css">
+  <script src="solutions-nav.js" defer></script>
+  <script src="platform-nav.js" defer></script>
+  <script src="solutions.js" defer></script>
+  <noscript><style>.marketing-theme .enterprise-header .enterprise-nav{height:auto;min-height:72px;flex-wrap:wrap;padding-block:16px}.marketing-theme .enterprise-header .enterprise-menu{display:none!important}.marketing-theme .enterprise-header .enterprise-links{display:flex;position:static;flex-wrap:wrap;flex-direction:row;gap:15px;padding:0;width:100%;max-height:none;flex-basis:100%;margin-left:0;overflow:visible}</style></noscript>
 </head>
-<body>
-  <a class="skip" href="#main">Skip to content</a>
-  <header class="header wrap">
-    <a class="brand" href="./index.html" aria-label="Hirebrew home"><img src="./assets/brand/logo.svg" width="160" height="37" alt="Hirebrew"></a>
-    <span class="header-caption">The identity</span>
-    <a class="text-link" href="./index.html">Back to website <span aria-hidden="true">↗</span></a>
-  </header>
+<body class="enterprise-page marketing-theme brand-page">
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="enterprise-header"><nav class="enterprise-nav enterprise-wrap" aria-label="Main navigation">
+<a class="shell-brand" href="index.html" aria-label="Hirebrew home"><img src="assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a>
+<button class="enterprise-menu" id="enterprise-menu" type="button" aria-expanded="false" aria-controls="enterprise-links">Menu <span aria-hidden="true">+</span></button>
+<div class="enterprise-links" id="enterprise-links">
+<div class="platform-nav" data-root=""><a class="platform-fallback" href="platform.html">Platform</a></div>
+<div class="solutions-nav" data-root=""><a class="solutions-fallback" href="solutions.html">Solutions</a></div>
+<a href="enterprise.html">Enterprise</a>
+<a href="enterprise.html#resources">Resources</a>
+<a class="shell-tour" href="index.html#tour">Take a tour</a>
+<a class="enterprise-button enterprise-button-small" href="enterprise.html#rollout">Plan your pilot <span aria-hidden="true">↗</span></a>
+</div></nav></header>
   <main id="main">
     <section class="intro wrap">
-      <div class="intro-copy"><h1>Built around<br><span>human possibility.</span></h1><p>A confident, optimistic identity for the people moving work forward. Rooted in Africa. Ready for what comes next.</p><a class="button" href="#downloads">Get the brand assets <span aria-hidden="true">↓</span></a></div>
-      <div class="lift-display"><img src="./assets/brand/mark-mono.svg" width="330" height="330" alt="Handoff: two folded, interlocking bands with an open channel between them"><span>Handoff</span></div>
+      <div class="intro-copy"><h1>Built around<br><span>human possibility.</span></h1><p>A confident, optimistic identity for the people moving work forward. Rooted in Africa. Ready for what comes next.</p><a class="enterprise-button" href="#downloads">Get the brand assets <span aria-hidden="true">↓</span></a></div>
+      <div class="lift-display"><img src="./assets/brand/mark.svg" width="330" height="330" alt="Handoff: two folded, interlocking bands with an open channel between them"><span>Handoff. Our connected symbol.</span></div>
     </section>
     <section class="principle wrap">
       <h2>Serious about work.<br>Optimistic about people.</h2>
@@ -41,21 +57,22 @@
     </section>
 
     <section class="colour-section wrap" aria-labelledby="colour-title">
-      <div class="section-head"><h2 id="colour-title">Warmth.<br>With a clear signal.</h2><p>Chalk creates breathing room. Ink gives us conviction. Coral is the moment to act.</p></div>
+      <div class="section-head"><h2 id="colour-title">Room to think.<br>A clear next step.</h2><p>White gives the website breathing room. Dark green guides action. Soft pastels help people find their way.</p></div>
       <div class="swatches">
-        <button class="swatch ink" data-color="#172326" aria-label="Copy Midnight Ink hexadecimal colour #172326"><span>Midnight ink</span><span class="hex">#172326 <span aria-hidden="true">⧉</span></span></button>
-        <button class="swatch chalk" data-color="#F7F5EF" aria-label="Copy Warm Chalk hexadecimal colour #F7F5EF"><span>Warm chalk</span><span class="hex">#F7F5EF <span aria-hidden="true">⧉</span></span></button>
-        <button class="swatch coral" data-color="#FF6B4A" aria-label="Copy Handoff Coral hexadecimal colour #FF6B4A"><span>Handoff coral</span><span class="hex">#FF6B4A <span aria-hidden="true">⧉</span></span></button>
-        <button class="swatch periwinkle" data-color="#BACBFA" aria-label="Copy Periwinkle hexadecimal colour #BACBFA"><span>Periwinkle</span><span class="hex">#BACBFA <span aria-hidden="true">⧉</span></span></button>
-        <button class="swatch stone" data-color="#E9E6DF" aria-label="Copy Soft Stone hexadecimal colour #E9E6DF"><span>Soft stone</span><span class="hex">#E9E6DF <span aria-hidden="true">⧉</span></span></button>
+        <button class="swatch forest" data-color="#245B42" aria-label="Copy Action Green hexadecimal colour #245B42"><span>Action green</span><span class="hex">#245B42 <span aria-hidden="true">⧉</span></span></button>
+        <button class="swatch paper" data-color="#FFFFFF" aria-label="Copy Canvas White hexadecimal colour #FFFFFF"><span>Canvas white</span><span class="hex">#FFFFFF <span aria-hidden="true">⧉</span></span></button>
+        <button class="swatch ink" data-color="#082725" aria-label="Copy Website Ink hexadecimal colour #082725"><span>Website ink</span><span class="hex">#082725 <span aria-hidden="true">⧉</span></span></button>
+        <button class="swatch mint" data-color="#D4F6CA" aria-label="Copy Soft Green hexadecimal colour #D4F6CA"><span>Soft green</span><span class="hex">#D4F6CA <span aria-hidden="true">⧉</span></span></button>
+        <button class="swatch stone" data-color="#F6F5F0" aria-label="Copy Warm Surface hexadecimal colour #F6F5F0"><span>Warm surface</span><span class="hex">#F6F5F0 <span aria-hidden="true">⧉</span></span></button>
       </div>
       <p id="copy-status" class="copy-status" role="status" aria-live="polite">Select a swatch to copy its hex value.</p>
-      <div class="colour-notes"><p><strong>Give each colour a job.</strong> Keep most of the canvas neutral. Use coral for the main action and small human moments. Periwinkle supports intelligence and connected-work stories, never competing with coral for attention.</p><p><strong>Contrast is part of the identity.</strong> Ink on coral is 5.71:1. Ink on chalk is 14.76:1. Ink on periwinkle is 9.97:1. Do not use chalk or white for small text on coral.</p></div>
+      <div class="colour-notes"><p><strong>Give each colour a job.</strong> Use dark green for primary website actions, soft green for secondary actions, and pastel aqua, yellow, pink, lime, lavender and blue for distinct product surfaces. Keep text in website ink.</p><p><strong>Contrast is part of the system.</strong> Pair dark-green buttons with pale-green text. Use dark text on light surfaces. Keep body text at a minimum contrast of 4.5:1 and large text at 3:1. A colour never carries meaning alone.</p></div>
+      <div class="artwork-colours"><h3>The artwork keeps its identity.</h3><p>These original colours belong to the Handoff logo and connection pattern, not the website’s buttons or page backgrounds. Use the supplied artwork without recolouring it.</p><div class="swatches artwork-swatches"><button class="swatch artwork-ink" data-color="#172326" aria-label="Copy Artwork Midnight Ink hexadecimal colour #172326"><span>Artwork midnight ink</span><span class="hex">#172326 <span aria-hidden="true">⧉</span></span></button><button class="swatch coral" data-color="#FF6B4A" aria-label="Copy Artwork Handoff Coral hexadecimal colour #FF6B4A"><span>Artwork Handoff coral</span><span class="hex">#FF6B4A <span aria-hidden="true">⧉</span></span></button><button class="swatch periwinkle" data-color="#BACBFA" aria-label="Copy Artwork Periwinkle hexadecimal colour #BACBFA"><span>Artwork periwinkle</span><span class="hex">#BACBFA <span aria-hidden="true">⧉</span></span></button></div></div>
     </section>
 
     <section class="type-section" aria-labelledby="type-title">
-      <div class="wrap"><div class="section-head"><h2 id="type-title">A little character.<br>A lot of clarity.</h2><p>Two open-source typefaces. Distinctive in headlines, calm in the details.</p></div>
-        <div class="type-specimen"><div class="type-meta"><h3>Bricolage Grotesque</h3><p>Headlines and expression<br>Medium 500 / Semibold 600</p></div><div class="display-specimen">The future<br>works better<br><span>together.</span></div></div>
+      <div class="wrap"><div class="section-head"><h2 id="type-title">One typeface.<br>A clear point of view.</h2><p>DM Sans across every website page. Open-source, locally hosted and confident at every size.</p></div>
+        <div class="type-specimen"><div class="type-meta"><h3>DM Sans</h3><p>Website headlines<br>Medium 500 / Tight tracking</p></div><div class="display-specimen">The future<br>works better<br><span>together.</span></div></div>
         <div class="body-specimen"><div class="type-meta"><h3>DM Sans</h3><p>Body, navigation and interface<br>Regular 400 / Medium 500 / Semibold 600</p></div><div><p class="body-sample">A candidate deserves a reply. An interviewer deserves context. A growing team deserves a clearer way forward.</p><p class="character-set">Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm<br>₦ 0123456789 / Lagos 09:30 WAT</p><p class="quiet">Use sentence case. Set body text at 16 px or above. Keep paragraphs to around 65 characters per line. Test names and local-language content before adding new language support.</p></div></div>
       </div>
     </section>
@@ -91,7 +108,7 @@
       <p class="research-note">Official pages reviewed in October 2026. These are observations and design hypotheses, not evidence that a layout caused commercial success. Validate Hirebrew’s design with real customers, task completion and qualified demo interest.</p>
     </section>
     <section class="downloads wrap" id="downloads" aria-labelledby="download-title">
-      <div><h2 id="download-title">Make it yours.<br>Keep it coherent.</h2><p>Handoff vector assets and design tokens for the next chapter of Hirebrew. The bold wordmark uses outlined Bricolage Grotesque with optical spacing, under the SIL Open Font Licence. It is not a custom typeface.</p></div>
+      <div><h2 id="download-title">Make it yours.<br>Keep it coherent.</h2><p>Handoff vector assets and design tokens for the next chapter of Hirebrew. The bold wordmark uses outlined Bricolage Grotesque with optical spacing, under the SIL Open Font Licence. It is not a custom typeface. Website headings and interface text use DM Sans.</p><p class="quiet">Working identity direction. Original artwork, not trademark-cleared. Complete trademark and name checks before a public brand launch.</p></div>
       <div class="download-list">
         <a href="./assets/hirebrew-brand-kit.zip" download>Complete SVG + PNG brand kit <span>ZIP ↓</span></a>
         <a href="./assets/brand/logo.svg" download>Primary logo <span>SVG ↓</span></a>
@@ -109,7 +126,15 @@
       </div>
     </section>
   </main>
-  <footer class="footer wrap"><a class="brand" href="./index.html"><img src="./assets/brand/logo.svg" width="150" height="35" alt="Hirebrew home"></a><p>Working identity direction. Original artwork, not trademark-cleared.<br>Complete trademark and name checks before a public brand launch.</p><a class="text-link" href="#main">Back to top ↑</a></footer>
+<footer class="enterprise-footer enterprise-wrap">
+<div class="shell-footer-grid">
+<nav class="shell-footer-group" aria-label="Platform"><h2>Platform</h2><a href="products/hire.html">Hire</a><a href="products/onboard.html">Onboard</a><a href="products/people.html">People</a><a href="products/grow.html">Grow</a><a href="products/intelligence.html">Intelligence</a><a href="products/brew-ai.html">Brew AI</a><a href="platform.html">All products</a><h2>See it in action</h2><a href="index.html#tour">Interactive product tour</a><a href="index.html#story-demo">Candidate conversation</a></nav>
+<nav class="shell-footer-group" aria-label="Solutions"><h2>Solutions</h2><a href="solutions/startups.html">Startups</a><a href="solutions/mid-market.html">Mid-market</a><a href="solutions/enterprise.html">Enterprise</a><a href="solutions/hr-teams.html">HR teams</a><a href="solutions/finance-teams.html">Finance teams</a><a href="solutions/it-teams.html">IT teams</a><a href="solutions/founders.html">Founders</a><a href="solutions.html#industries">All industries</a><a href="solutions.html">All solutions</a></nav>
+<nav class="shell-footer-group" aria-label="Enterprise and resources"><h2>Enterprise</h2><a href="enterprise.html">Why Hirebrew for enterprise</a><a href="enterprise.html#rollout">Implementation planning</a><a href="enterprise.html#integrations">Integrations</a><a href="enterprise.html#governance">Governance and controls</a><a href="enterprise.html#pricing">Commercial planning</a><h2>Resources</h2><a href="enterprise.html#resources">Buyer’s toolkit</a><a href="index.html#questions">Frequently asked questions</a></nav>
+<nav class="shell-footer-group" aria-label="Hirebrew"><h2>Hirebrew</h2><a href="index.html#why-hirebrew">Built for what’s next</a><a href="brand.html">Brand and visual identity</a><a href="design-notes.html">Design and research</a><a href="enterprise.html#rollout">Plan your pilot</a></nav>
+</div>
+<div class="enterprise-footer-bottom"><a class="shell-brand" href="index.html" aria-label="Hirebrew home"><img src="assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a><span>© 2026 Hirebrew</span><span>Product preview.<br>Evaluate with sample data.</span></div>
+</footer>
   <script>
     document.querySelectorAll('[data-color]').forEach(function (button) {
       button.addEventListener('click', async function () {

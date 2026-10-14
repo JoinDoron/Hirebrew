@@ -3,58 +3,56 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#FFFFFF">
   <meta name="robots" content="noindex,nofollow">
   <meta name="description" content="The research and original design decisions behind Hirebrew's enterprise website.">
   <title>Hirebrew | The thinking behind the design</title>
   <link rel="icon" href="assets/brand/favicon.svg">
+  <link rel="preload" href="assets/fonts/dm-sans.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="styles.css">
-  <style>
-    .notes{padding:80px 0;max-width:900px}
-    .notes h1{font-size:clamp(46px,7vw,79px);max-width:790px;margin:23px 0}
-    .notes .lead{font-size:20px;max-width:680px;margin-bottom:55px}
-    .notes section{margin:52px 0}
-    .notes h2{font-size:34px;margin-bottom:22px}
-    .notes h3{font-size:23px;margin:28px 0 12px}
-    .notes p{font-size:15px;line-height:1.8;max-width:750px;margin-bottom:15px}
-    .notes table{width:100%;border-collapse:collapse;font-size:13px;line-height:1.7;margin-top:25px}
-    .notes th,.notes td{text-align:left;padding:18px 15px;vertical-align:top;border-bottom:1px solid var(--line)}
-    .notes th{font-weight:600;background:var(--stone)}
-    .notes td:first-child{font-weight:600;width:17%}
-    .notes td:nth-child(2){width:40%}
-    .notes a:not(.button){text-decoration:underline;text-underline-offset:4px}
-    .notes li{font-size:15px;line-height:1.8;margin-bottom:14px;color:var(--muted)}
-    .notes li strong{color:var(--ink)}
-    .notes .note{border-left:3px solid var(--coral);padding:16px 22px;background:var(--stone)}
-    .notes footer{border-top:1px solid var(--line);padding-top:30px;display:flex;align-items:center;flex-wrap:wrap;gap:22px}
-    .notes .research-scroll{overflow-x:auto}
-    .notes-nav{display:flex;gap:22px;align-items:center}
-    @media(max-width:600px){.notes{padding-top:40px}.notes .lead{font-size:17px}.notes th,.notes td{padding:12px 9px;font-size:12px}.notes td:first-child{width:20%}.notes h2{font-size:30px}.notes-nav{gap:14px;font-size:12px}.notes-nav .identity-link{display:none}.notes footer{align-items:flex-start;flex-direction:column}}
-  </style>
+  <link rel="stylesheet" href="enterprise.css">
+  <link rel="stylesheet" href="design-notes.css">
+  <link rel="stylesheet" href="solutions-nav.css">
+  <link rel="stylesheet" href="platform-nav.css">
+  <link rel="stylesheet" href="site-shell.css">
+  <link rel="stylesheet" href="marketing-theme.css">
+  <script src="solutions-nav.js" defer></script>
+  <script src="platform-nav.js" defer></script>
+  <script src="solutions.js" defer></script>
+  <noscript><style>.marketing-theme .enterprise-header .enterprise-nav{height:auto;min-height:72px;flex-wrap:wrap;padding-block:16px}.marketing-theme .enterprise-header .enterprise-menu{display:none!important}.marketing-theme .enterprise-header .enterprise-links{display:flex;position:static;flex-wrap:wrap;flex-direction:row;gap:15px;padding:0;width:100%;max-height:none;flex-basis:100%;margin-left:0;overflow:visible}</style></noscript>
 </head>
-<body>
+<body class="enterprise-page marketing-theme design-notes-page">
   <a class="skip-link" href="#main">Skip to content</a>
-  <header class="site-header">
-    <nav class="nav wrap" aria-label="Design notes navigation">
-      <a class="wordmark" href="index.html"><img src="assets/brand/logo.svg" width="157" height="40" alt="Hirebrew home"></a>
-      <div class="notes-nav"><a class="text-link" href="enterprise.html">For enterprise</a><a class="text-link identity-link" href="brand.html">Explore the identity <span aria-hidden="true">↗</span></a></div>
-    </nav>
-  </header>
-  <main class="notes wrap" id="main">
-    <p class="eyebrow">THE THINKING BEHIND HIREBREW</p>
+  <header class="enterprise-header"><nav class="enterprise-nav enterprise-wrap" aria-label="Main navigation">
+<a class="shell-brand" href="index.html" aria-label="Hirebrew home"><img src="assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a>
+<button class="enterprise-menu" id="enterprise-menu" type="button" aria-expanded="false" aria-controls="enterprise-links">Menu <span aria-hidden="true">+</span></button>
+<div class="enterprise-links" id="enterprise-links">
+<div class="platform-nav" data-root=""><a class="platform-fallback" href="platform.html">Platform</a></div>
+<div class="solutions-nav" data-root=""><a class="solutions-fallback" href="solutions.html">Solutions</a></div>
+<a href="enterprise.html">Enterprise</a>
+<a href="enterprise.html#resources">Resources</a>
+<a class="shell-tour" href="index.html#tour">Take a tour</a>
+<a class="enterprise-button enterprise-button-small" href="enterprise.html#rollout">Plan your pilot <span aria-hidden="true">↗</span></a>
+</div></nav></header>
+  <main class="notes enterprise-wrap" id="main">
+    <div class="notes-hero">
+    <p class="notes-kicker">The thinking behind Hirebrew</p>
     <h1>Built to inspire.<br>Designed to convince.</h1>
-    <p class="lead">An enterprise website should help a buying team understand the product, see its relevance and ask better questions. This is the thinking behind Hirebrew's second design direction.</p>
+    <p class="lead">A connected product deserves a connected website. The design decisions behind a clearer experience for every Hirebrew buyer.</p>
+    <a class="enterprise-button" href="brand.html">Explore the design system <span aria-hidden="true">↗</span></a>
+    </div>
 
     <section aria-labelledby="brief-heading">
       <h2 id="brief-heading">From brand impression to buying confidence</h2>
       <p>Reading this as an enterprise HR website for people leaders, operations teams and technology buyers, in a warm, precise, product-led language. The Hirebrew identity stays. The story becomes concrete: connected hiring, people operations and growth, with Nigerian and African working contexts at its heart.</p>
       <p class="note">The central idea is continuity. Context should travel with a person when work passes between recruiter, candidate, interviewer, manager and people team.</p>
-      <p>The product leads the opening. Five product families make the breadth understandable. A role-based walkthrough makes the connections visible. An enterprise page gives buyers a place to examine rollout, integrations and governance.</p>
+      <p>Six product destinations make the breadth understandable: Hire, Onboard, People, Grow, Intelligence and Brew AI. A role-based walkthrough makes the connections visible. An enterprise page gives buyers a place to examine rollout, integrations and governance.</p>
     </section>
 
     <section aria-labelledby="research-heading">
       <h2 id="research-heading">Three references. One original direction.</h2>
-      <p>Official websites reviewed on 11 October 2026. These observations describe their structure, followed by our interpretation for Hirebrew. They are not evidence that website design caused a company's growth, valuation or conversion performance.</p>
-      <div class="research-scroll">
+      <p>Historical research notes from the official-site review recorded on 11 October 2026. These observations are retained from that design phase, not a new review of the sites today. They are not evidence that website design caused a company's growth, valuation or conversion performance.</p>
+      <div class="research-scroll" role="region" aria-label="Historical website research comparison" tabindex="0">
         <table>
           <thead><tr><th scope="col">Reference</th><th scope="col">What we observed</th><th scope="col">What Hirebrew takes forward</th></tr></thead>
           <tbody>
@@ -64,11 +62,12 @@
           </tbody>
         </table>
       </div>
-      <p style="margin-top:22px">We adapt information hierarchy, useful buying paths and the rhythm between explanation and evidence. We do not reproduce competitors' copy, artwork, screenshots, brand identities or customer proof.</p>
+      <p class="research-summary">We adapt information hierarchy, useful buying paths and the rhythm between explanation and evidence. We do not reproduce competitors' copy, artwork, screenshots, brand identities or customer proof.</p>
     </section>
 
     <section aria-labelledby="enterprise-heading">
       <h2 id="enterprise-heading">Answer the questions behind the purchase</h2>
+      <p>The reference observations below belong to the same historical research phase. Their purpose is to explain the buying questions that shaped Hirebrew, not to certify another provider's current offering.</p>
       <h3>Will it fit how we operate?</h3>
       <p><a href="https://www.deel.com/segments/enterprise/" target="_blank" rel="noopener noreferrer">Deel's enterprise page</a> explains how its offering fits existing HCM and finance systems, then addresses rollout, governance and integrations. Hirebrew should be equally specific about scope: which workflows it handles, which systems remain, and which connections need configuration.</p>
       <h3>Will our people use it?</h3>
@@ -83,7 +82,7 @@
       <h2 id="journey-heading">A reason for every section</h2>
       <ol>
         <li><strong>Understand the promise.</strong> A clear enterprise outcome beside an illustrative product experience, not an unexplained sculpture.</li>
-        <li><strong>Find the right capability.</strong> Five product families organise the breadth without making buyers learn the internal menu.</li>
+        <li><strong>Find the right capability.</strong> Six product destinations organise the breadth without making buyers learn the internal menu.</li>
         <li><strong>See the handoff.</strong> Follow one sample hiring journey across HR, candidate, interviewer and manager perspectives.</li>
         <li><strong>Understand Brew.</strong> Explore an illustrative AI-assisted task with a visible human review step. The demonstration is not a live model.</li>
         <li><strong>Recognise the context.</strong> Local examples and distributed-team workflows make African relevance concrete, without implying unsupported country coverage.</li>
@@ -94,8 +93,9 @@
 
     <section aria-labelledby="identity-heading">
       <h2 id="identity-heading">Future-facing, without losing the human</h2>
-      <p>The Handoff mark connects two folded bands through an open negative-space channel. Its interlocking form represents people, collaboration and progress. The bold wordmark uses outlined Bricolage Grotesque with optical spacing, not a custom typeface. Chalk makes room for the story. Ink brings structure. Coral marks the important action. Periwinkle supports the information language without competing for attention.</p>
-      <p>Bricolage Grotesque gives headlines character; DM Sans keeps explanations and controls readable. Both are self-hosted with their licences. Product compositions, purposeful interactions and clear connections carry the futuristic feeling. Decorative effects should never make the experience harder to read or use.</p>
+      <p>The Handoff mark connects two folded bands through an open negative-space channel. Its interlocking form represents people, collaboration and progress. The established wordmark remains an outlined vector asset. The current website pairs white space and dark-green type with green actions, soft pastel sections and rounded product surfaces.</p>
+      <p>DM Sans now unifies headlines, explanations and controls across the website. It is a self-hosted, openly licensed alternative to the proprietary Matter typeface in the later Lattice platform reference. Earlier Bricolage page typography and coral action colours belong to the original exploration, not the current website system. The original wordmark artwork is retained.</p>
+      <p>Consistent navigation, six product destinations, tailored solution pages and clearly labelled illustrative demos help buyers keep their bearings. Product compositions and purposeful interactions carry the optimistic feeling. Decorative effects should never make the experience harder to read or use.</p>
       <p>Responsive layouts, keyboard access, visible focus and reduced-motion consideration remain design requirements. Test the experience with real enterprise buyers, including people reviewing it on mobile devices and slower connections.</p>
     </section>
 
@@ -113,11 +113,20 @@
       <p>Can a buyer explain Hirebrew after the first screen? Find a relevant workflow? Understand what Brew does and where people decide? Identify the right implementation questions? Take the next step without confusion? Those are testable goals. The redesign is a reasoned starting point, not a claim of measured commercial success.</p>
     </section>
 
-    <footer>
-      <a class="button button-ink" href="index.html">Explore the website ↗</a>
-      <a class="text-link" href="enterprise.html">For enterprise →</a>
-      <a class="text-link" href="brand.html">Open the brand system →</a>
-    </footer>
+    <div class="notes-next">
+      <h2>See the thinking in action.</h2>
+      <div><a class="enterprise-button" href="index.html">Explore Hirebrew <span aria-hidden="true">↗</span></a>
+      <a class="enterprise-text-link" href="enterprise.html">For enterprise <span aria-hidden="true">→</span></a></div>
+    </div>
   </main>
+  <footer class="enterprise-footer enterprise-wrap">
+<div class="shell-footer-grid">
+<nav class="shell-footer-group" aria-label="Platform"><h2>Platform</h2><a href="products/hire.html">Hire</a><a href="products/onboard.html">Onboard</a><a href="products/people.html">People</a><a href="products/grow.html">Grow</a><a href="products/intelligence.html">Intelligence</a><a href="products/brew-ai.html">Brew AI</a><a href="platform.html">All products</a><h2>See it in action</h2><a href="index.html#tour">Interactive product tour</a><a href="index.html#story-demo">Candidate conversation</a></nav>
+<nav class="shell-footer-group" aria-label="Solutions"><h2>Solutions</h2><a href="solutions/startups.html">Startups</a><a href="solutions/mid-market.html">Mid-market</a><a href="solutions/enterprise.html">Enterprise</a><a href="solutions/hr-teams.html">HR teams</a><a href="solutions/finance-teams.html">Finance teams</a><a href="solutions/it-teams.html">IT teams</a><a href="solutions/founders.html">Founders</a><a href="solutions.html#industries">All industries</a><a href="solutions.html">All solutions</a></nav>
+<nav class="shell-footer-group" aria-label="Enterprise and resources"><h2>Enterprise</h2><a href="enterprise.html">Why Hirebrew for enterprise</a><a href="enterprise.html#rollout">Implementation planning</a><a href="enterprise.html#integrations">Integrations</a><a href="enterprise.html#governance">Governance and controls</a><a href="enterprise.html#pricing">Commercial planning</a><h2>Resources</h2><a href="enterprise.html#resources">Buyer’s toolkit</a><a href="index.html#questions">Frequently asked questions</a></nav>
+<nav class="shell-footer-group" aria-label="Hirebrew"><h2>Hirebrew</h2><a href="index.html#why-hirebrew">Built for what’s next</a><a href="brand.html">Brand and visual identity</a><a href="design-notes.html">Design and research</a><a href="enterprise.html#rollout">Plan your pilot</a></nav>
+</div>
+<div class="enterprise-footer-bottom"><a class="shell-brand" href="index.html" aria-label="Hirebrew home"><img src="assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a><span>© 2026 Hirebrew</span><span>Product preview.<br>Evaluate with sample data.</span></div>
+</footer>
 </body>
 </html>

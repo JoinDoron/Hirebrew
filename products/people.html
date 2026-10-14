@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#F7F5EF">
+<meta name="theme-color" content="#FFFFFF">
 <meta name="description" content="Explore employee self-service, leave, letters and people requests with Hirebrew People. Give everyday HR a clearer starting point and more accountable follow-through.">
 <meta name="robots" content="noindex, nofollow">
 <meta property="og:title" content="People | Employee records and everyday HR workflows | Hirebrew">
@@ -11,7 +11,6 @@
 <meta property="og:type" content="website">
 <title>People | Employee records and everyday HR workflows | Hirebrew</title>
 <link rel="icon" href="../assets/brand/favicon.svg" type="image/svg+xml">
-<link rel="preload" href="../assets/fonts/bricolage.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="../assets/fonts/dm-sans.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="../enterprise.css">
@@ -20,22 +19,25 @@
 <link rel="stylesheet" href="../solutions-nav.css">
 <link rel="stylesheet" href="../platform-nav.css">
 <link rel="stylesheet" href="../story-demo.css">
+<link rel="stylesheet" href="../site-shell.css">
+<link rel="stylesheet" href="../marketing-theme.css">
 <script src="../solutions-nav.js" defer></script>
 <script src="../platform-nav.js" defer></script>
 <script src="../solutions.js" defer></script>
 <script src="../story-demo.js" defer></script>
-<noscript><style>.enterprise-nav{height:auto;min-height:72px;flex-wrap:wrap;padding-block:16px}.enterprise-menu{display:none!important}.enterprise-header .enterprise-links{display:flex;position:static;flex-wrap:wrap;flex-direction:row;gap:15px;padding:0;width:100%;max-height:none}.solution-pilot-layout{grid-template-columns:1fr}</style></noscript>
+<noscript><style>.marketing-theme .enterprise-header .enterprise-nav{height:auto;min-height:72px;flex-wrap:wrap;padding-block:16px}.marketing-theme .enterprise-header .enterprise-menu{display:none!important}.marketing-theme .enterprise-header .enterprise-links{display:flex;position:static;flex-wrap:wrap;flex-direction:row;gap:15px;padding:0;width:100%;max-height:none;flex-basis:100%;margin-left:0;overflow:visible}.solution-pilot-layout{grid-template-columns:1fr}</style></noscript>
 </head>
-<body class="enterprise-page solution-page product-page product-people" data-product="people">
+<body class="enterprise-page marketing-theme solution-page product-page product-people" data-product="people">
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="enterprise-header"><nav class="enterprise-nav enterprise-wrap" aria-label="Main navigation">
-<a href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a>
-<button class="enterprise-menu" type="button" aria-expanded="false" aria-controls="enterprise-links">Menu <span aria-hidden="true">+</span></button>
+<a class="shell-brand" href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a>
+<button class="enterprise-menu" id="enterprise-menu" type="button" aria-expanded="false" aria-controls="enterprise-links">Menu <span aria-hidden="true">+</span></button>
 <div class="enterprise-links" id="enterprise-links">
 <div class="platform-nav" data-root="../"><a class="platform-fallback" href="../platform.html">Platform</a></div>
 <div class="solutions-nav" data-root="../"><a class="solutions-fallback" href="../solutions.html">Solutions</a></div>
 <a href="../enterprise.html">Enterprise</a>
-<a href="../index.html#tour">Product tour</a>
+<a href="../enterprise.html#resources">Resources</a>
+<a class="shell-tour" href="../index.html#tour">Take a tour</a>
 <a class="enterprise-button enterprise-button-small" href="#pilot">Plan your pilot <span aria-hidden="true">↗</span></a>
 </div></nav></header>
 <main id="main">
@@ -121,9 +123,13 @@
 <section class="solution-close"><div class="enterprise-wrap"><h2>Make the next step<br> a better one.</h2><a class="enterprise-button" href="#pilot">Plan your pilot <span aria-hidden="true">↗</span></a></div></section>
 </main>
 <footer class="enterprise-footer enterprise-wrap">
-<div><a href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a><p>Good people. Great futures.</p></div>
-<nav aria-label="Footer navigation"><a href="../platform.html">All products</a><a href="../solutions.html">All solutions</a><a href="../index.html#tour">Product tour</a><a href="../enterprise.html#resources">Buyer resources</a></nav>
-<div class="enterprise-footer-bottom"><span>© 2026 Hirebrew</span><span>Product preview. Evaluate with sample data.</span></div>
+<div class="shell-footer-grid">
+<nav class="shell-footer-group" aria-label="Platform"><h2>Platform</h2><a href="../products/hire.html">Hire</a><a href="../products/onboard.html">Onboard</a><a href="../products/people.html">People</a><a href="../products/grow.html">Grow</a><a href="../products/intelligence.html">Intelligence</a><a href="../products/brew-ai.html">Brew AI</a><a href="../platform.html">All products</a><h2>See it in action</h2><a href="../index.html#tour">Interactive product tour</a><a href="../index.html#story-demo">Candidate conversation</a></nav>
+<nav class="shell-footer-group" aria-label="Solutions"><h2>Solutions</h2><a href="../solutions/startups.html">Startups</a><a href="../solutions/mid-market.html">Mid-market</a><a href="../solutions/enterprise.html">Enterprise</a><a href="../solutions/hr-teams.html">HR teams</a><a href="../solutions/finance-teams.html">Finance teams</a><a href="../solutions/it-teams.html">IT teams</a><a href="../solutions/founders.html">Founders</a><a href="../solutions.html#industries">All industries</a><a href="../solutions.html">All solutions</a></nav>
+<nav class="shell-footer-group" aria-label="Enterprise and resources"><h2>Enterprise</h2><a href="../enterprise.html">Why Hirebrew for enterprise</a><a href="../enterprise.html#rollout">Implementation planning</a><a href="../enterprise.html#integrations">Integrations</a><a href="../enterprise.html#governance">Governance and controls</a><a href="../enterprise.html#pricing">Commercial planning</a><h2>Resources</h2><a href="../enterprise.html#resources">Buyer’s toolkit</a><a href="../index.html#questions">Frequently asked questions</a></nav>
+<nav class="shell-footer-group" aria-label="Hirebrew"><h2>Hirebrew</h2><a href="../index.html#why-hirebrew">Built for what’s next</a><a href="../brand.html">Brand and visual identity</a><a href="../design-notes.html">Design and research</a><a href="../enterprise.html#rollout">Plan your pilot</a></nav>
+</div>
+<div class="enterprise-footer-bottom"><a class="shell-brand" href="../index.html" aria-label="Hirebrew home"><img src="../assets/brand/logo.svg" width="157" height="40" alt="Hirebrew"></a><span>© 2026 Hirebrew</span><span>Product preview.<br>Evaluate with sample data.</span></div>
 </footer>
 <script type="application/json" id="pilot-content">{"name":"People","slug":"people","brief":"HIREBREW PEOPLE | PRODUCT PILOT BRIEF\n\nEveryday HR. A clearer way through.\nConnect employee context with the requests that need attention, giving people a clearer place to ask and HR a better starting point.\n\nCAPABILITIES TO EXPLORE\nEmployee records and self-service\nExplore shared employee context, with record ownership and appropriate visibility considered during implementation.\n\nLeave and letters\nGive common employee needs a more consistent starting point and make the manager or HR review part of the journey.\n\nRequests and expenses\nEvaluate how requests and expenses reach their responsible reviewers, without implying automatic payment execution.\n\nContracts, cases and people operations\nExplore the broader operational context around employees, while treating sensitive case information and contractual decisions with explicit handling requirements.\n\nPRACTICAL USE CASES\nAn employee requesting leave\nSituation: An employee needs time off and their manager needs to consider team coverage.\nWorkflow: Raise a sample request, review it from the manager perspective and clarify how the employee learns the next step.\nIntended improvement: A shared understanding of the request and its owner, instead of a decision buried in separate conversations.\n\nA letter that needs HR attention\nSituation: A colleague needs an employment letter and is unsure which member of HR to contact.\nWorkflow: Start with a clear request, confirm the relevant employee details and assign review to the responsible people-team member.\nIntended improvement: A defined route from employee need to accountable review, with wording and release still controlled by HR.\n\nPeople operations across multiple sites\nSituation: A Nigerian business serves employees in head office, branches and operating locations.\nWorkflow: Test a common request journey with a manager outside headquarters, including local policy questions and a cross-team handoff.\nIntended improvement: An evaluation that reflects real working locations rather than assuming all employees sit beside the HR team.\n\nWORKFLOW\nFrom an employee question to an owned next step.\nFind | Employee + people team\nBegin with the right context\nLocate the employee record and confirm relevant information. Identify which fields belong in Hirebrew and which remain authoritative in another system.\n\nAsk | Employee\nMake the request understandable\nUse the employee journey to raise a leave, letter or other people request. Include enough context for review without placing unnecessary sensitive information in the record.\n\nReview | Manager + HR\nGive the decision a clear owner\nReview the request against the appropriate company policy and working context. Agree who contributes and who is accountable when a question crosses department or location boundaries.\n\nFollow through | Responsible reviewer\nKeep the employee in the picture\nClarify the outcome or next action and its owner. Check the employee view to ensure the journey does not end at submission.\n\nPILOT\nTest the request your team handles every week.\nChoose a leave or letter journey and use sample employee information. Ask an employee, a manager and HR to identify confusing steps and unclear responsibilities before expanding the scope.\n\nEVALUATION CHECKLIST\n[ ] The employee can identify where to begin\n[ ] Review and response responsibilities are explicit\n[ ] The employee perspective includes the next step\n\nSCOPE BOUNDARIES\nValidate production permissions, data handling, policy rules and record retention before live use. Payroll calculations, statutory filing, expense payments and automatic HRIS synchronisation are not demonstrated here.\n\nAI AND HUMAN REVIEW\nBrew illustrates how an HR colleague might draft a clearer explanation from an approved policy excerpt. Review accuracy and tone, exclude unnecessary personal information and keep case decisions with people.\nExample prompt: Draft a plain-language explanation of the next steps for a sample leave request, using only the policy text supplied.\n\nNEXT STEP\nAssign an owner, walk through the workflow with sample data and record the evidence required before a live rollout. This document is not a submitted enquiry, booking or confirmation of production readiness.\n"}</script>
 </body>

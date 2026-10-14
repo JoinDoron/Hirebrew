@@ -27,7 +27,7 @@ const brief=s=>`HIREBREW PILOT BRIEF\n${s.name}\n\nWORKFLOW TO EVALUATE\n${s.wor
 async function page(s){
  const p='../',c=categories[s.category];
  return `${head(s.metaTitle,s.metaDescription,p)}
-<body class="enterprise-page solution-page solution-${s.category}" data-solution="${s.slug}">
+<body class="enterprise-page marketing-theme solution-page solution-${s.category}" data-solution="${s.slug}">
 ${header(p)}
 <main id="main">
 <section class="solution-hero enterprise-wrap" aria-labelledby="page-title">
@@ -78,7 +78,7 @@ ${footer(p)}
 </html>\n`;
 }
 async function directory(){return `${head('Hirebrew solutions | Find your people workflow','Find Hirebrew solutions for 3 business sizes, 5 teams and 16 industries. Explore tailored hiring, onboarding, people operations and development workflows.','')}
-<body class="enterprise-page solution-directory">
+<body class="enterprise-page marketing-theme solution-directory">
 ${header('','enterprise.html#rollout')}
 <main id="main">
 <section class="solution-hero enterprise-wrap" aria-labelledby="page-title"><p class="solution-breadcrumb">Hirebrew solutions</p><h1 id="page-title">Your business is different.<br> Your people come first.</h1><div class="solution-hero-bottom"><p>Find your starting point. Build a more connected people journey around the way your organisation actually works.</p><a class="enterprise-button" href="#industries">Explore your industry ${arrow}</a></div></section>

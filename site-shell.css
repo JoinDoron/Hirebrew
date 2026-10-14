@@ -1,0 +1,62 @@
+/* Shared navigation and footer. Scoped to the approved marketing theme. */
+.marketing-theme .enterprise-header{background:#fff;border-bottom:1px solid #edf0ec;z-index:40;backdrop-filter:none}
+.marketing-theme .enterprise-header .enterprise-nav{height:72px;width:calc(100% - 64px);max-width:none;gap:30px}
+.marketing-theme .enterprise-header .shell-brand img{width:156px;height:auto;display:block}
+.marketing-theme .enterprise-header .enterprise-links{flex:1;gap:32px;margin-left:clamp(30px,9vw,150px)}
+.marketing-theme .enterprise-header .enterprise-links>a,.marketing-theme .enterprise-header .platform-toggle,.marketing-theme .enterprise-header .solutions-toggle,.marketing-theme .enterprise-header .platform-fallback,.marketing-theme .enterprise-header .solutions-fallback{font-family:var(--body,'DM Sans',sans-serif);font-size:15px;font-weight:500;color:#425550}
+.marketing-theme .enterprise-header .enterprise-links>a:hover{color:#245b42}
+.marketing-theme .enterprise-header .shell-tour{margin-left:auto;white-space:nowrap}
+.marketing-theme .enterprise-header .enterprise-links>.enterprise-button{border:0;box-shadow:none;border-radius:12px;padding:11px 19px;min-height:42px;font-family:var(--body,'DM Sans',sans-serif);font-size:14px;font-weight:500;line-height:1.2;gap:12px;background:#245b42;color:#e2ffdb;white-space:nowrap;transform:none}
+.marketing-theme .enterprise-header .enterprise-links>.enterprise-button:hover{background:#1e5039;color:#e2ffdb;transform:none}
+.marketing-theme .enterprise-header .enterprise-button>span{font-size:18px}
+.marketing-theme .enterprise-header .platform-panel,.marketing-theme .enterprise-header .solutions-panel{background:#fff;border-radius:0 0 24px 24px}
+.marketing-theme .enterprise-header .platform-menu-intro h2{font-family:var(--body,'DM Sans',sans-serif);font-size:32px;font-weight:500}
+.marketing-theme .enterprise-header .platform-menu-products strong,.marketing-theme .enterprise-header .solutions-group strong{font-family:var(--body,'DM Sans',sans-serif);font-weight:500}
+.marketing-theme .enterprise-header .platform-menu-products a:hover,.marketing-theme .enterprise-header .platform-menu-products a:focus-visible,.marketing-theme .enterprise-header .platform-menu-products a[aria-current=page],.marketing-theme .enterprise-header .solutions-group a:hover,.marketing-theme .enterprise-header .solutions-group a:focus-visible,.marketing-theme .enterprise-header .solutions-group a[aria-current=page]{background:#f1f6ed}
+.marketing-theme .enterprise-header :focus-visible,.marketing-theme .enterprise-footer :focus-visible{outline:3px solid #226047;outline-offset:5px}
+.marketing-theme .enterprise-footer{display:block;width:calc(100% - 80px);max-width:1360px;padding:80px 0 0;background:#fff;font-family:var(--body,'DM Sans',sans-serif)}
+.marketing-theme .shell-footer-grid{display:grid;grid-template-columns:1fr 1.15fr 1.15fr 1fr;gap:65px}
+.marketing-theme .shell-footer-group{min-width:0}
+.marketing-theme .shell-footer-group h2{font-family:var(--body,'DM Sans',sans-serif);font-size:11px;font-weight:400;letter-spacing:.07em;text-transform:uppercase;line-height:1.4;color:#53625c;margin:0 0 20px}
+.marketing-theme .shell-footer-group h2:not(:first-child){margin-top:32px}
+.marketing-theme .shell-footer-group a{display:block;padding:0;min-height:0;font-size:14px;line-height:1.4;margin:12px 0;color:#294239;text-align:left}
+.marketing-theme .shell-footer-group a:hover{text-decoration:underline;text-underline-offset:4px}
+.marketing-theme .enterprise-footer-bottom{display:flex;align-items:center;justify-content:space-between;padding:28px 0 34px;margin-top:48px;font-size:12px;border-color:#e5ebe5;color:#65796b;gap:24px}
+.marketing-theme .enterprise-footer-bottom .shell-brand img{display:block;width:120px;height:auto}
+.marketing-theme .enterprise-footer-bottom>span{display:block;line-height:1.5}
+.marketing-theme .enterprise-footer-bottom>span+span{margin-top:0}
+@media(min-width:1600px){.marketing-theme .enterprise-footer{max-width:1440px}}
+@media(max-width:1100px){
+  .marketing-theme .enterprise-header .enterprise-nav{gap:20px}
+  .marketing-theme .enterprise-header .enterprise-links{gap:21px;margin-left:30px}
+  .marketing-theme .enterprise-header .enterprise-links>a,.marketing-theme .enterprise-header .platform-toggle,.marketing-theme .enterprise-header .solutions-toggle,.marketing-theme .enterprise-header .platform-fallback,.marketing-theme .enterprise-header .solutions-fallback{font-size:13px}
+  .marketing-theme .enterprise-header .enterprise-links>.enterprise-button{font-size:12px;padding:12px 15px}
+  .marketing-theme .shell-footer-grid{gap:32px}
+}
+@media(max-width:900px){
+  .marketing-theme .enterprise-header .enterprise-links{margin-left:0;gap:15px}
+  .marketing-theme .enterprise-header .shell-brand img{width:135px}
+  .marketing-theme .enterprise-header .enterprise-nav{width:calc(100% - 40px)}
+  .marketing-theme .enterprise-header .enterprise-links>.shell-tour{display:none}
+}
+@media(max-width:800px){
+  .marketing-theme .enterprise-header .enterprise-nav{height:68px;justify-content:space-between}
+  .marketing-theme .enterprise-header .enterprise-menu{margin-left:auto;font-family:var(--body,'DM Sans',sans-serif);font-size:14px;min-height:44px}
+  .marketing-theme .enterprise-header .enterprise-links{top:67px;left:-20px;right:-20px;max-height:calc(100svh - 80px);overflow:auto;background:#fff;padding:20px}
+  .marketing-theme .enterprise-header .enterprise-links>a,.marketing-theme .enterprise-header .platform-toggle,.marketing-theme .enterprise-header .solutions-toggle,.marketing-theme .enterprise-header .platform-fallback,.marketing-theme .enterprise-header .solutions-fallback{font-size:16px;padding:12px 10px}
+  .marketing-theme .enterprise-header .enterprise-links>.enterprise-button{font-size:15px;margin:8px 10px;min-height:46px;padding:12px 18px}
+  .marketing-theme .enterprise-header .enterprise-links>.shell-tour{display:block;margin-left:0}
+  .marketing-theme .enterprise-header .platform-panel,.marketing-theme .enterprise-header .solutions-panel{border-radius:10px}
+  .marketing-theme .enterprise-footer{width:calc(100% - 40px)}
+  .marketing-theme .shell-footer-grid{grid-template-columns:1fr 1fr;gap:40px}
+}
+@media(max-width:520px){
+  .marketing-theme .enterprise-footer{padding-top:55px}
+  .marketing-theme .shell-footer-grid{gap:32px 25px}
+  .marketing-theme .shell-footer-group a{font-size:13px;margin:14px 0;min-height:30px}
+  .marketing-theme .shell-footer-group h2{font-size:10px}
+  .marketing-theme .enterprise-footer-bottom{font-size:10px;gap:20px;align-items:flex-start;flex-wrap:wrap}
+  .marketing-theme .enterprise-footer-bottom .shell-brand img{width:110px}
+  .marketing-theme .enterprise-footer-bottom>span{max-width:200px}
+}
+@media(prefers-reduced-motion:reduce){.marketing-theme .enterprise-header *,.marketing-theme .enterprise-footer *{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
