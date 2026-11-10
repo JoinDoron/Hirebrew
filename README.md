@@ -1,5 +1,7 @@
 # Hirebrew enterprise website and visual identity
 
+> **Working copies:** this repo is checked out in two synced locations — `~/Claude/Projects/Hirebrew/website` and the Kimi Work workspace. Both track `kimi/sync-baseline`; if one looks "not synced", run `git pull` before concluding anything. Pushes to `kimi/sync-baseline` auto-deploy Railway staging (https://hirebrew-website-staging.up.railway.app); `main` deploys production (https://usehirebrew.com).
+
 Standalone marketing website concept, animated-product-story edition v5, created 11 October 2026. Existing operational portals were not modified. The homepage and buyer journey were restructured after studying the official Deel HR, BambooHR and Lattice sites. Their proprietary copy, logos, media and customer evidence are not reproduced.
 
 ## Preview
@@ -60,6 +62,14 @@ The animated stories are explicitly fictional mini-product illustrations inspire
 This directory is the Hirebrew marketing-website repository root. Run `npm run build:deploy` to generate a browser-only `dist/` directory. Vercel uses the included `vercel.json` (Other framework, `dist` output, no install step). Keep `.html` URLs; this is a multi-page static site, not a single-page application. `npm run check` is the pre-release verification suite. Neither the preview server nor private parent-folder documents are included in the deployed files.
 
 Publishing a URL does not activate an HR backend or lead inbox. The fictional-demo disclosures, local-only brief downloads and noindex directives remain intentional for this demo release.
+
+### Railway hosting
+
+The included multi-stage `Dockerfile` builds the same `dist/` release used by Vercel. Its final image contains only public assets and `serve-production.mjs`, runs as an unprivileged user, and listens on Railway's `PORT` (8080 by default). The local preview server remains loopback-only and unchanged. `.railwayignore` and `.dockerignore` exclude environment files, local hosting credentials, Git history and review captures from upload/build context.
+
+Before deployment, run `npm run check`, `npm run build:deploy` and `npm run test:production`. For a local production preview, use `npm run start:production` after building. Configure Railway's deployment healthcheck as `/healthz` with a 60-second timeout. This endpoint checks that the built public homepage exists; Railway checks it before routing traffic to a new deployment. It is not an external uptime monitor.
+
+Deploy from this directory to the linked `Hirebrew` project, `hirebrew-website` service, `production` environment with `railway up --service hirebrew-website --environment production`. This is a local-source deployment; GitHub automatic deployment is not implied. No database, API keys or paid third-party integrations are required for this marketing website. Existing Vercel hosting is independent and remains configured.
 
 Approve the identity and obtain trademark review; verify every live capability and proof point; connect a real contact destination; review legal/privacy copy; integrate the chosen hosting route/domain; replace noindex only after approval; and validate with intended customers and accessibility testing. The supplied server is for a local preview. Deploy the static files to the chosen production host rather than treating this preview server as production infrastructure.
 
